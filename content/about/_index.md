@@ -14,6 +14,7 @@ title = "Seungjae Oh"
 * Natural pointing posture in distal pointing tasks (*ACM SUI, 2014*). Heejin Kim, **Seungjae Oh**, Sung H. Han, Min K. Chung. **Best Poster Award**
 * Hidden UI: projection-based augmented reality for map navigation on multi-touch tabletop (*ACM SUI, 2014*). **Seungjae Oh**, Hee-seung Kwon, Hyo-Jeong So.
 * Dynamic feedback mechanism for maximizing interaction in online social network services (*IEEE/ACM ASONAM, 2014*). Kyudong Park, **Seungjae Oh**, Heung-Chang Lee, Hyo-Jeong So.
+* **Seungjae Oh**, Heejin Kim, Min K. Chung. Poster: Understanding of spatial gestural motor space: A study on cursorless absolute freehand pointing on large displays (*IEEE 3DUI, 2014*).
 
 #### Education
 
