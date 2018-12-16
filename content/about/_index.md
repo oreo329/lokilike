@@ -4,9 +4,8 @@ title = "Seungjae Oh"
 +++
 The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
 #### Publications
-
-* VibEye: Vibration-Mediated Object Recognition for Tangible Interactive Applications (ACM CHI, To appear). 
 **Seungjae Oh**, Gyeore Yun, Chaeyong Park, Jinsoo Kim, and Seungmoon Choi.
+* VibEye: Vibration-Mediated Object Recognition for Tangible Interactive Applications (ACM CHI, To appear). 
 
 * Motion–Display Gain: A New Control–Display Mapping Reflecting Natural Human Pointing Gesture to Enhance Interaction with Large Displays at a Distance (International Journal of Human-Computer Interaction, 2018). 
 Heejin Kim, **Seungjae Oh**, Sung H. Han, Min K. Chung. 
@@ -23,8 +22,9 @@ Soonmo Kwon, **Seungjae Oh**, Kyudong Park, Sei-young Kim, Hyo-Jeong So
 * Towards Designing a Mobile Social Learning Application with Meaningful Gamification Strategies (IEEE ICALT, 2015)
 Sei-Young Kim, Hyo-Jeong So, Soonmo Kwon, **Seungjae Oh**, Kyudong Park, Minjin Ko, Jaewon Yoo, Gyuhwan Oh
 
-* Proposing a classification model for perceptual target selection on large displays (ACM SUI, 2014)
 **Seungjae Oh**, Heejin Kim, Hyo-Jeong So
+* Proposing a classification model for perceptual target selection on large displays (ACM SUI, 2014).
+
 
 * Natural pointing posture in distal pointing tasks (ACM SUI, 2014)
 Heejin Kim, **Seungjae Oh**, Sung H. Han, Min K. Chung
