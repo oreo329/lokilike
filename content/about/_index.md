@@ -5,45 +5,48 @@ title = "Seungjae Oh"
 The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
 
 #### Publications
-VibEye: Vibration-Mediated Object Recognition for Tangible Interactive Applications (ACM CHI, To appear). 
 
 * **Seungjae Oh**, Gyeore Yun, Chaeyong Park, Jinsoo Kim, and Seungmoon Choi.
 
-Motion–Display Gain: A New Control–Display Mapping Reflecting Natural Human Pointing Gesture to Enhance Interaction with Large Displays at a Distance (International Journal of Human-Computer Interaction, 2018). 
+VibEye: Vibration-Mediated Object Recognition for Tangible Interactive Applications (ACM CHI, To appear). 
 
 * Heejin Kim, **Seungjae Oh**, Sung H. Han, Min K. Chung. 
 
-Hybrid Augmented Reality for Participatory Learning: The Hidden Efficacy of Multi-User Game-Based Simulation (IEEE Transactions on Learning technologies, 2018). 
+Motion–Display Gain: A New Control–Display Mapping Reflecting Natural Human Pointing Gesture to Enhance Interaction with Large Displays at a Distance (International Journal of Human-Computer Interaction, 2018). 
 
 * **Seungjae Oh**, Hyo-Jeong So, Matthew Gaydos.
 
-Designing a Multi-user Interactive Simulation Using AR Glasses (ACM TEI, 2016). 
+Hybrid Augmented Reality for Participatory Learning: The Hidden Efficacy of Multi-User Game-Based Simulation (IEEE Transactions on Learning technologies, 2018). 
 
 * **Seungjae Oh**, Kyudong Park, Soonmo Kwon, Hyo-Jeong So.
 
-Children as Participatory Designers of a New Type of Mobile Social Learning Application (ACM MobileHCI, 2015)
+Designing a Multi-user Interactive Simulation Using AR Glasses (ACM TEI, 2016). 
 
 * Soonmo Kwon, **Seungjae Oh**, Kyudong Park, Sei-young Kim, Hyo-Jeong So
 
-Towards Designing a Mobile Social Learning Application with Meaningful Gamification Strategies (IEEE ICALT, 2015)
+Children as Participatory Designers of a New Type of Mobile Social Learning Application (ACM MobileHCI, 2015).
 
 * Sei-Young Kim, Hyo-Jeong So, Soonmo Kwon, **Seungjae Oh**, Kyudong Park, Minjin Ko, Jaewon Yoo, Gyuhwan Oh
 
-Proposing a classification model for perceptual target selection on large displays (ACM SUI, 2014).
+Towards Designing a Mobile Social Learning Application with Meaningful Gamification Strategies (IEEE ICALT, 2015).
 
 * **Seungjae Oh**, Heejin Kim, Hyo-Jeong So
 
-Natural pointing posture in distal pointing tasks (ACM SUI, 2014)
+Proposing a classification model for perceptual target selection on large displays (ACM SUI, 2014).
 
 * Heejin Kim, **Seungjae Oh**, Sung H. Han, Min K. Chung
 
-Hidden UI: projection-based augmented reality for map navigation on multi-touch tabletop (ACM SUI, 2014)
+Natural pointing posture in distal pointing tasks (ACM SUI, 2014). **Best Poster Award**
 
 * **Seungjae Oh**, Hee-seung Kwon, Hyo-Jeong So
 
-Dynamic feedback mechanism for maximizing interaction in online social network services (IEEE/ACM ASONAM, 2014)
+Hidden UI: projection-based augmented reality for map navigation on multi-touch tabletop (ACM SUI, 2014).
 
 * Kyudong Park, **Seungjae Oh**, Heung-Chang Lee, Hyo-Jeong So
+
+Dynamic feedback mechanism for maximizing interaction in online social network services (IEEE/ACM ASONAM, 2014).
+
+
 
 #### Education
 
