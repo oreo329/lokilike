@@ -4,13 +4,13 @@ title = "Seungjae Oh"
 +++
 The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
 #### Publications
-**Seungjae Oh**, Gyeore Yun, Chaeyong Park, Jinsoo Kim, and Seungmoon Choi.
+VibEye: Vibration-Mediated Object Recognition for Tangible Interactive Applications (ACM CHI, To appear). 
+* **Seungjae Oh**, Gyeore Yun, Chaeyong Park, Jinsoo Kim, and Seungmoon Choi.
 
-* VibEye: Vibration-Mediated Object Recognition for Tangible Interactive Applications (ACM CHI, To appear). 
+Motion–Display Gain: A New Control–Display Mapping Reflecting Natural Human Pointing Gesture to Enhance Interaction with Large Displays at a Distance (International Journal of Human-Computer Interaction, 2018). 
 
-Heejin Kim, **Seungjae Oh**, Sung H. Han, Min K. Chung. 
+* Heejin Kim, **Seungjae Oh**, Sung H. Han, Min K. Chung. 
 
-* Motion–Display Gain: A New Control–Display Mapping Reflecting Natural Human Pointing Gesture to Enhance Interaction with Large Displays at a Distance (International Journal of Human-Computer Interaction, 2018). 
 
 **Seungjae Oh**, Hyo-Jeong So, Matthew Gaydos.
 
