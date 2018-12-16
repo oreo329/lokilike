@@ -4,9 +4,9 @@ title = "Seungjae Oh"
 +++
 
 #### Publications
-* **Seungjae Oh**, Gyeore Yun, Chaeyong Park, Jinsoo Kim, and Seungmoon Choi.
-
 > VibEye: Vibration-Mediated Object Recognition for Tangible Interactive Applications (ACM CHI, To appear). 
+> * **Seungjae Oh**, Gyeore Yun, Chaeyong Park, Jinsoo Kim, and Seungmoon Choi.
+
 
 * Heejin Kim, **Seungjae Oh**, Sung H. Han, Min K. Chung. 
 
