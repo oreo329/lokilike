@@ -2,7 +2,7 @@
 date = "2016-11-05T21:05:33+05:30" 
 title = "Seungjae Oh" 
 +++
-![This is me][1]
+
 #### Publications
 * VibEye: Vibration-Mediated Object Recognition for Tangible Interactive Applications (*ACM CHI, To appear*). **Seungjae Oh**, Gyeore Yun, Chaeyong Park, Jinsoo Kim, and Seungmoon Choi.
 * Motion–Display Gain: A New Control–Display Mapping Reflecting Natural Human Pointing Gesture to Enhance Interaction with Large Displays at a Distance (*International Journal of Human-Computer Interaction, 2018*). Heejin Kim, **Seungjae Oh**, Sung H. Han, Min K. Chung.
@@ -20,6 +20,8 @@ title = "Seungjae Oh"
 * Haptics and Virtual Reality Lab (Director: Seungmoon Choi), Pohang University of Science and Techonlogy. **2016.8 - present**
 * Creative IT Engineering (Candidate of PhD., Pohang University of Science and Techonlogy. **2012.3 - present**
 * Electrical Engineering (BS., Summa Cum Laude), Pohang University of Science and Techonlogy. **2008.3 - 2012.2**
+
+![This is me][1]
 
 #### Grants, Honors, & Awards
 * Best Poster Award. ACM Symposium on Spatial User Interaction. **2014.9**
