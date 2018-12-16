@@ -51,14 +51,16 @@ Dynamic feedback mechanism for maximizing interaction in online social network s
 * Creative IT Engineering (Candidate of PhD., Pohang University of Science and Techonlogy. **2012.3 - present**
 * Electrical Engineering (BS., Summa Cum Laude), Pohang University of Science and Techonlogy. **2008.3 - 2012.2**
 
-##### Grants, Honors, & Awards
+![This is me][1]
+
+#### Grants, Honors, & Awards
 * Best Poster Award. ACM Symposium on Spatial User Interaction. **2014.9**
 * 관정 이종환 교육재단 대학원 장학생. **2012.3 - 2014.2**
 * 한국고등교육재단 정보통신분야 장학생. **2010.3 - 2012.2**
 
-##### Activities
+#### Activities
+* Student Volunteer. ACM International Conference on Tangible, Embedded, and Embodied Interaction. **2016.2**
 * 한국 공학한림원 차세대 리더 부회장 (YEHS). **2012.3 - 2014.2**
 
-![This is me][1]
 
 [1]: /img/seungjae.jpg
