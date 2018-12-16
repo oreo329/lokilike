@@ -45,16 +45,10 @@ googleAnalytics = ""
   url = "portfolio/"
 
   [[params.navlinks]]
-  name = "Get in Touch"
+  name = "Contact"
   url = "contact/"
 
   [params.social]
   facebook      = "https://www.facebook.com/seungjae.oh7"
-  googleplus    = "full profile url in googleplus"
   email         = "seungjae.oh7@gmail.com"
-  twitter       = "full profile url in twitter"
-  linkedin      = "full profile url in linkedin"
-  stackoverflow = "full profile url in stackoverflow"
-  instagram     = "full profile url in instagram"
-  github        = "full profile url in github"
   youtube       = "https://www.youtube.com/user/seungjae329" 
