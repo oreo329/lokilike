@@ -5,12 +5,8 @@ title = "Seungjae Oh"
 
 #### Publications
 * VibEye: Vibration-Mediated Object Recognition for Tangible Interactive Applications (*ACM CHI, To appear*). **Seungjae Oh**, Gyeore Yun, Chaeyong Park, Jinsoo Kim, and Seungmoon Choi.
-* Motion–Display Gain: A New Control–Display Mapping Reflecting Natural Human Pointing Gesture to Enhance Interaction with Large Displays at a Distance (*International Journal of Human-Computer Interaction, 2018*).
-> Heejin Kim, **Seungjae Oh**, Sung H. Han, Min K. Chung. 
-
-* Hybrid Augmented Reality for Participatory Learning: The Hidden Efficacy of Multi-User Game-Based Simulation (IEEE Transactions on Learning technologies, 2018). 
-
-**Seungjae Oh**, Hyo-Jeong So, Matthew Gaydos.
+* Motion–Display Gain: A New Control–Display Mapping Reflecting Natural Human Pointing Gesture to Enhance Interaction with Large Displays at a Distance (*International Journal of Human-Computer Interaction, 2018*).Heejin Kim, **Seungjae Oh**, Sung H. Han, Min K. Chung. 
+* Hybrid Augmented Reality for Participatory Learning: The Hidden Efficacy of Multi-User Game-Based Simulation (*IEEE Transactions on Learning technologies, 2018*). **Seungjae Oh**, Hyo-Jeong So, Matthew Gaydos.
 
 * **Seungjae Oh**, Kyudong Park, Soonmo Kwon, Hyo-Jeong So.
 
