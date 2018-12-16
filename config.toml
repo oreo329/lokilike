@@ -14,7 +14,7 @@ googleAnalytics = ""
   description = "Describe your website"
   copyright = "&copy;2018 Seungjae Oh"
   sidebarAbout = [
-    "I am a Human-Computer Interaction researcher interested in Sensing Technique, Haptics, Psychophysics, and Learning Technologies",
+    "I am a Human-Computer Interaction researcher interested in Input Technlogies, Haptics, and Learning Technologies",
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -34,11 +34,11 @@ googleAnalytics = ""
   [[params.navlinks]]
   name = "About"
   url = "about/"
-  home = true
-
+  
   [[params.navlinks]]
   name = "Research"
   url = "research/"
+  home = true
 
   [[params.navlinks]]
   name = "Portfolio"
