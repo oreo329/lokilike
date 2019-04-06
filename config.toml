@@ -14,7 +14,7 @@ googleAnalytics = ""
   description = "Describe your website"
   copyright = "&copy;2018 Seungjae Oh"
   sidebarAbout = [
-    "I am a Human-Computer Interaction researcher interested in Sensing, Haptics, and Learning Technologies",
+    "I am a Human-Computer Interaction researcher interested in Novel Sensing, Haptics, and Learning Technologies",
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -34,12 +34,12 @@ googleAnalytics = ""
   [[params.navlinks]]
   name = "About"
   url = "about/"
-  
+  home = true
+
   [[params.navlinks]]
   name = "Research"
   url = "research/"
-  home = true
-
+ 
   [[params.navlinks]]
   name = "Portfolio"
   url = "portfolio/"
@@ -52,4 +52,4 @@ googleAnalytics = ""
   facebook      = "https://www.facebook.com/seungjae.oh7"
   email         = "seungjae.oh7@gmail.com"
   youtube       = "https://www.youtube.com/user/seungjae329" 
-  linkedin      = "www.linkedin.com/in/seungjae329"
+  linkedin      = "https://www.linkedin.com/in/seungjae329/"
