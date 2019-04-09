@@ -29,7 +29,7 @@ title = "Seungjae Oh"
 #### Grants, Honors, & Awards
 
 * MSRA Collaborative Research. Microsoft Research Lab, Asia. **2019**
-* Best Poster Award. ACM Symposium on Spatial User Interaction. **2014.9**
+* Best Poster Award. ACM Symposium on Spatial User Interaction. **2013**
 * Graduate Scholarship. Kwanjeong Educational Foundation. **2012.3 - 2014.2**
 * Undergraduate Student Scholarship Program. Korea Foundation for Advanced Studies. **2010.3 - 2012.2**
 * National Scholarship for Science and Engineering. Ministry of Education, South Korea. **2008.3 - 2012.2**
