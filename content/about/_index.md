@@ -21,19 +21,21 @@ title = "Seungjae Oh"
 #### Education
 
 * Haptics and Virtual Reality Lab (Director: Seungmoon Choi), Pohang University of Science and Techonlogy. **2016.8 - present**
-* Creative IT Engineering (Candidate of PhD., Pohang University of Science and Techonlogy. **2012.3 - present**
+* Creative IT Engineering (Candidate of PhD.), Pohang University of Science and Techonlogy. **2012.3 - present**
 * Electrical Engineering (BS., Summa Cum Laude), Pohang University of Science and Techonlogy. **2008.3 - 2012.2**
 
 ![This is me][1]
 
 #### Grants, Honors, & Awards
+* MSRA Collaborative Reseach Grant. Microsoft Research Lab, Asia. **2019**
 * Best Poster Award. ACM Symposium on Spatial User Interaction. **2014.9**
-* 관정 이종환 교육재단 대학원 장학생. **2012.3 - 2014.2**
-* 한국고등교육재단 정보통신분야 장학생. **2010.3 - 2012.2**
+* Graduate Scholarship(대학원 장학생). Kwanjeong Educational Foundation(관정 이종환 교육재단). **2012.3 - 2014.2**
+* Undergraduate Student Scholarship Program(대학특별 장학생). Korea Foundation for Advanced Studies(한국고등교육재단). **2010.3 - 2012.2**
+* National Scholarship for Science and Engineering(이공계 장학생). Ministry of Education, South Korea. **2008.3 - 2012.2**
 
 #### Activities
 * Student Volunteer. ACM International Conference on Tangible, Embedded, and Embodied Interaction. **2016.2**
-* 한국 공학한림원 차세대 리더 부회장 (YEHS). **2012.3 - 2014.2**
+* Vice President, Young Engineers Honor Society. **2010.1 - 2010.12**
 
 
 [1]: /img/seungjae.jpg
