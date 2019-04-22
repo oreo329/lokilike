@@ -1,5 +1,5 @@
 +++
-image = "img/portfolio/vibeye-main.png"
+image = "img/research/vibeye-main.png"
 showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
 title = "VibEye"
@@ -17,6 +17,9 @@ Vibration-Mediated Object Recognition for Tangible Interactive Applications
 > Lastly, we demonstrate several tangible applications where VibEye provides the needed functionality while enhancing user experiences. VibEye is particularly effective for recognizing objects made of different materials, which is difficult to distinguish by other means such as light and sound.
 
 ![Teasor][1]
+![CubePCA][2]
+![EverydayObjects][3]
+![Application][4]
 
 * **Seungjae Oh**, Gyeore Yun, Chaeyong Park, Jinsoo Kim, and Seungmoon Choi. VibEye: Vibration-Mediated Object Recognition for Tangible Interactive Applications (*ACM CHI, 2019*).
 * Link: https://doi.org/10.1145/3290605.3300906 
@@ -40,4 +43,7 @@ The Big Oxmox advised her not to do so, because there were thousands of bad Comm
 
 When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then   -->
 
-[1]: /img/portfolio/vibeye-teaser.png
+[1]: /img/research/vibeye-teaser.png
+[2]: /img/research/vibeye-pca.png
+[3]: /img/research/vibeye-every.png
+[4]: /img/research/vibeye-app1.png
