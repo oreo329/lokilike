@@ -1,30 +1,20 @@
 +++
-image = "img/portfolio/vibeye-main.png"
+image = "img/portfolio/gravity-paper.jpg"
 showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
-title = "VibEye"
-draft = false
+title = "Name of the work 3"
+draft = true
 weight = 2
 +++
 
-Vibration-Mediated Object Recognition for Tangible Interactive Applications
+Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
 <!--more-->
 
-We present VibEye: a vibration-mediated recognition system of objects for tangible interaction. A user holds an object between two fingers wearing VibEye. VibEye triggers a vibration from one finger, and the vibration that has propagated through the object is sensed at the other finger. This vibration includes information about the object’s identity, and we represent it using a spectrogram. 
+Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
 
-Collecting the spectrograms of many objects, we formulate the object recognition problem to a classical classification problem among the images. This simple method, when tested with 20 users, shows 92.5% accuracy for 16 objects of the same shape with various materials. This material-based classifier is also extended to the recognition of everyday objects. 
+A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
 
-Lastly, we demonstrate several tangible applications where VibEye provides the needed functionality while enhancing user experiences. VibEye is particularly effective for recognizing objects made of different materials, which is difficult to distinguish by other means such as light and sound.
-
-![Teasor][1]
-
->
-* Link: https://doi.org/10.1145/3290605.3300906 
-* Video(overall): https://www.dropbox.com/s/i200b19tz2vyj90/CameraReady_Video.mp4?dl=0
-* Video(application): https://www.youtube.com/watch?v=zgzgOyxWXD8&feature=youtu.be   
-
-
-<!-- 1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 2. Aliquam tincidunt mauris eu risus.
 
 > The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
@@ -38,6 +28,4 @@ The Big Oxmox advised her not to do so, because there were thousands of bad Comm
 * Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 * Aliquam tincidunt mauris eu risus.
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then   -->
-
-[1]: /img/portfolio/vibeye-teaser.png
+When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
