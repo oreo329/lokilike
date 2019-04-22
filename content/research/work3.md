@@ -18,9 +18,10 @@ Lastly, we demonstrate several tangible applications where VibEye provides the n
 
 ![Teasor][1]
 
-> Link: https://doi.org/10.1145/3290605.3300906 
-> Video(overall): https://www.dropbox.com/s/i200b19tz2vyj90/CameraReady_Video.mp4?dl=0
-> Video(application): https://www.youtube.com/watch?v=zgzgOyxWXD8&feature=youtu.be   
+>
+* Link: https://doi.org/10.1145/3290605.3300906 
+* Video(overall): https://www.dropbox.com/s/i200b19tz2vyj90/CameraReady_Video.mp4?dl=0
+* Video(application): https://www.youtube.com/watch?v=zgzgOyxWXD8&feature=youtu.be   
 
 
 <!-- 1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
