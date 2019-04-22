@@ -23,8 +23,9 @@ Vibration-Mediated Object Recognition for Tangible Interactive Applications
 * Video(overall): https://www.dropbox.com/s/i200b19tz2vyj90/CameraReady_Video.mp4?dl=0
 * Video(application): https://www.youtube.com/watch?v=zgzgOyxWXD8&feature=youtu.be   
 
-![CubePCA][2]![EverydayObjects][3]
 ![Application][4]
+![CubePCA][2]![EverydayObjects][3]
+
 
 <!-- 1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 2. Aliquam tincidunt mauris eu risus.
