@@ -10,15 +10,13 @@ weight = 2
 Vibration-Mediated Object Recognition for Tangible Interactive Applications
 <!--more-->
 
-We present VibEye: a vibration-mediated recognition system of objects for tangible interaction. A user holds an object between two fingers wearing VibEye. VibEye triggers a vibration from one finger, and the vibration that has propagated through the object is sensed at the other finger. This vibration includes information about the object’s identity, and we represent it using a spectrogram. 
-
+> We present VibEye: a vibration-mediated recognition system of objects for tangible interaction. A user holds an object between two fingers wearing VibEye. VibEye triggers a vibration from one finger, and the vibration that has propagated through the object is sensed at the other finger. This vibration includes information about the object’s identity, and we represent it using a spectrogram. 
 Collecting the spectrograms of many objects, we formulate the object recognition problem to a classical classification problem among the images. This simple method, when tested with 20 users, shows 92.5% accuracy for 16 objects of the same shape with various materials. This material-based classifier is also extended to the recognition of everyday objects. 
-
 Lastly, we demonstrate several tangible applications where VibEye provides the needed functionality while enhancing user experiences. VibEye is particularly effective for recognizing objects made of different materials, which is difficult to distinguish by other means such as light and sound.
 
 ![Teasor][1]
 
->* **Seungjae Oh**, Gyeore Yun, Chaeyong Park, Jinsoo Kim, and Seungmoon Choi. VibEye: Vibration-Mediated Object Recognition for Tangible Interactive Applications (*ACM CHI, 2019*).
+* **Seungjae Oh**, Gyeore Yun, Chaeyong Park, Jinsoo Kim, and Seungmoon Choi. VibEye: Vibration-Mediated Object Recognition for Tangible Interactive Applications (*ACM CHI, 2019*).
 * Link: https://doi.org/10.1145/3290605.3300906 
 * Video(overall): https://www.dropbox.com/s/i200b19tz2vyj90/CameraReady_Video.mp4?dl=0
 * Video(application): https://www.youtube.com/watch?v=zgzgOyxWXD8&feature=youtu.be   
