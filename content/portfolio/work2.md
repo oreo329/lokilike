@@ -7,26 +7,26 @@ showonlyimage = true
 weight = 1
 +++
 
-Interactive Design for Election Day
+A Interactive Installation for Election Day
 <!--more-->
 
 >"Action, or Not Action"
-Art & Tech Collaboration with ENTech. 
+>Art & Tech Collaboration with ENTech. 
 
 ![Application][1]
 ![App][2]
 
-*Link: https://www.facebook.com/arttechbiz/videos/1955000268054800/
-*Media: http://techm.kr/bbs/board.php?bo_table=article&wr_id=3903
+* Link: https://www.facebook.com/arttechbiz/videos/1955000268054800/
+* Media: http://techm.kr/bbs/board.php?bo_table=article&wr_id=3903
 
-Technology & UX Design: Seungjae Oh
-Art: Hansol Seo
-Director: Miri Choi
+* Technology & UX Design: Seungjae Oh
+* Art: Hansol Seo
+* Director: Miri Choi
 
 This project is collaboration with AGIT Pohang, Platform Changdong 61.
 
-Facebook: fb.me/arttechbiz
-HomePage: www.arttech.biz
+* Facebook: fb.me/arttechbiz
+* HomePage: www.arttech.biz
 
 
 [1]: /img/portfolio/en1-app1.png
