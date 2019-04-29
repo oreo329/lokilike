@@ -21,9 +21,9 @@ A series of research on 3D interaction at large displays
 * Heejin Kim, **Seungjae Oh**, Sung H. Han, Min K. Chung. Motion–Display Gain: A New Control–Display Mapping Reflecting Natural Human Pointing Gesture to Enhance Interaction with Large Displays at a Distance (*International Journal of Human-Computer Interaction, 2019*). 
 * Link: https://doi.org/10.1080/10447318.2018.1447422
 * Heejin Kim, **Seungjae Oh**, Sung H. Han, Min K. Chung. Natural pointing posture in distal pointing tasks (*ACM SUI WIP, 2014*) **Best Poster Award**
-* Link: https://doi.org/
+* Link: https://doi.org/10.1145/2659766.2661213
 * **Seungjae Oh**, Heejin Kim, Min K. Chung. Understanding of spatial gestural motor space: A study on cursorless absolute freehand pointing on large displays (*IEEE 3DUI POSTER, 2014*).
-* Link: https://doi.org/10.1145/2659766.2661216
+* Link: https://doi.org/10.1109/3DUI.2014.6798873
 * **Seungjae Oh**, Heejin Kim, Hyo-Jeong So. Proposing a classification model for perceptual target selection on large displays (*ACM SUI WIP, 2014*). 
 * Link: https://doi.org/10.1145/2659766.2661216
 
