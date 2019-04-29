@@ -1,13 +1,13 @@
 +++
-image = "img/portfolio/gravity-paper.jpg"
+image = "img/research/arlearn-user.png.jpg"
 showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
-title = "Hybrid Augmented Reality for Participatory Learning: The Hidden Efficacy of Multi-User Game-Based Simulation"
+title = "ARfract"
 draft = false
-weight = 2
+weight = 3
 +++
 
-Multiple AR Technologies for Informal Learning
+Hybrid Augmented Reality for Participatory Learning: The Hidden Efficacy of Multi-User Game-Based Simulation
 <!--more-->
 
 > The goal of this research is to articulate and test a new hybrid Augmented Reality (AR) environment for conceptual understanding. From the theoretical lens of embodied interaction, we have designed a multi-user participatory simulation called ARfract where visitors in a science museum can learn about complex scientific concepts on the refraction of light through full-body immersion using optical see-through AR glasses, projection-based AR, and gesture technology. 
@@ -19,6 +19,7 @@ Multiple AR Technologies for Informal Learning
 ![Teasor][1]
 
 * **Seungjae Oh**, Hyo-Jeong So, Matthew Gaydos. Hybrid Augmented Reality for Participatory Learning: The Hidden Efficacy of Multi-User Game-Based Simulation (*IEEE Transactions on Learning Technologies, 2018*).
+* **Seungjae Oh**, Kyudong Park, Soonmo Kwon, Hyo-Jeong So. Designing a Multi-user Interactive Simulation Using AR Glasses (*ACM TEI WIP, 2016*). 
 * Link: https://10.1109/TLT.2017.2750673
 * Video: https://www.youtube.com/watch?v=5zN8R4iCjII
 
