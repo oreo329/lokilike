@@ -4,7 +4,7 @@ draft = false
 image = "img/research/pointing-res.png"
 date = "2016-11-05T18:25:22+05:30"
 title = "Pointing & Selection"
-weight = 2
+weight = 3
 +++
 
 A Series of Research on 3D Interaction around Large Displays
