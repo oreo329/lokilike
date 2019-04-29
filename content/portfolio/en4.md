@@ -17,6 +17,8 @@ An Interactive Installation at a Vacant Lot
  
 ![Scene][1]
 
+> This project is supported by Pohang Cultural Foundation.
+
 * [Video] 
 * Technology & UX Design: Seungjae Oh, Juhoon Jang
 * Art: Wan Kim, Miri Choi, Soonhyo Kim
@@ -26,7 +28,6 @@ An Interactive Installation at a Vacant Lot
 ![App][3]
 ![App][4]
 
-> This project is supported by Pohang Cultural Foundation.
 
 #### ENTech
 * Facebook: fb.me/arttechbiz

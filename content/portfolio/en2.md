@@ -16,6 +16,8 @@ An Interactive Photozone
 > 2nd Art & Tech Collaboration by ENTech.
 
 ![Scene][2]
+
+> this project was deployed at Seoul HyeoHyun Moonlight Festival 2017.
  
 * [Video] (https://www.facebook.com/arttechbiz/videos/2010782532476573/) 
 * Technology & UX Design: Seungjae Oh, Sangyoon Han
@@ -25,7 +27,6 @@ An Interactive Photozone
 ![Scene][3]
 ![Scene][2]
 
-> this project was deployed at Seoul HyeoHyun Moonlight Festival 2017.
 
 #### ENTech
 * Facebook: fb.me/arttechbiz
