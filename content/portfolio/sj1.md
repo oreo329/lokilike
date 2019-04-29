@@ -12,10 +12,10 @@ weight = 1
 
 > A simple illustration of 'lokilike'. 
 
+![Logo][1]
+
 * Design: Seungjae Oh
 * iPad 10.5 Pro 2nd Gen. with Apple Pencil
-
-![Logo][1]
 
 
 
