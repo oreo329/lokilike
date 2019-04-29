@@ -22,7 +22,7 @@ An Interactive Photo Zone at the Namsam Park
 * Technology & UX Design: Seungjae Oh, Sangyoon Han
 * Curation: Hansol Seo
 * Director: Miri Choi
-* [ENTech](fb.me/arttechbiz)
+* [ENTech](https://www.facebook.com/arttechbiz)
 
 ![Scene][3]
 ![Scene][2]

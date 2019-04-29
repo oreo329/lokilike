@@ -21,7 +21,7 @@ A Table for Communication
 * [Video] (https://www.facebook.com/arttechbiz/videos/2094705940750898/)
 * Technology & UX Design: Seungjae Oh, Sangyoon Han, Jungah Park
 * Director: Miri Choi
-* [ENTech](fb.me/arttechbiz)
+* [ENTech](https://www.facebook.com/arttechbiz)
 
 ![System][2]
 ![HW][3]
