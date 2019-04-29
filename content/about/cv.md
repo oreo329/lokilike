@@ -52,7 +52,7 @@ title = ""
 
 #### Professional Service
 * Reviewer. Computers & Education. **2019**
-* Reviewer. ACM Human Factors in Computing Systems LBW. **2019**
+* Reviewer. ACM CHI LBW. **2019**
 
 
 #### Activities
