@@ -7,7 +7,7 @@ title = "Pointing & Selection"
 weight = 0
 +++
 
-A series of research on 3D interaction around large displays
+A Series of Research on 3D Interaction around Large Displays
 <!--more-->
 
 > The use of large displays is becoming increasingly prevalent, but development of the usability of three-dimensional (3D) interaction with large displays is still in the early stage. One way to improve the usability of 3D interaction is to develop appropriate control–display (CD) gain function. Nevertheless, unlike in desktop environments, the effects of the relationship between control space and display space in 3D interaction have not been investigated. Moreover, 3D interaction with large displays is natural and intuitive similar to how we work in the physical world. Therefore, a CD gain function that considers human behavior might improve the usability of interaction with large displays. The first experiment was conducted to identify the characteristics of user’s natural hand motion and the user perception of target in distal pointing. 
