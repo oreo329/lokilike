@@ -1,5 +1,5 @@
 +++
-image = "img/research/arlearn-user.png.jpg"
+image = "img/research/arlearn-user.png"
 showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
 title = "ARfract"
@@ -19,8 +19,9 @@ Hybrid Augmented Reality for Participatory Learning: The Hidden Efficacy of Mult
 ![Teasor][1]
 
 * **Seungjae Oh**, Hyo-Jeong So, Matthew Gaydos. Hybrid Augmented Reality for Participatory Learning: The Hidden Efficacy of Multi-User Game-Based Simulation (*IEEE Transactions on Learning Technologies, 2018*).
-* **Seungjae Oh**, Kyudong Park, Soonmo Kwon, Hyo-Jeong So. Designing a Multi-user Interactive Simulation Using AR Glasses (*ACM TEI WIP, 2016*). 
 * Link: https://10.1109/TLT.2017.2750673
+* **Seungjae Oh**, Kyudong Park, Soonmo Kwon, Hyo-Jeong So. Designing a Multi-user Interactive Simulation Using AR Glasses (*ACM TEI WIP, 2016*). 
+* Link: https://10.1145/2839462.2856521
 * Video: https://www.youtube.com/watch?v=5zN8R4iCjII
 
 ![System][2]
