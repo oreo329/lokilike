@@ -14,7 +14,7 @@ An Interactive Photozone
 
 > 2nd Art & Tech Collaboration by ENTech.
 
-![Scene][2]
+![Scene][1]
 
 > this project was deployed at Seoul HyeoHyun Moonlight Festival 2017.
  
