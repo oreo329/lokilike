@@ -12,20 +12,21 @@ A Interactive Installation for Election Day
 
 > "Action, or Not Action"
 
-> Art & Tech Collaboration with ENTech. 
+> Art & Tech Collaboration by ENTech.
+> This project is collaboration with AGIT Pohang, Platform Changdong 61.
+ 
+![Application][1](https://www.facebook.com/arttechbiz/videos/1955000268054800/)
 
-![Application][1]
+![App][2](https://www.facebook.com/arttechbiz/videos/1955000268054800/)
 
-![App][2]
-
-* Link: https://www.facebook.com/arttechbiz/videos/1955000268054800/
-* Media: http://techm.kr/bbs/board.php?bo_table=article&wr_id=3903
+* [Video] (https://www.facebook.com/arttechbiz/videos/1955000268054800/)
+* [Media](http://techm.kr/bbs/board.php?bo_table=article&wr_id=3903)
 
 * Technology & UX Design: Seungjae Oh
-* Art: Hansol Seo
-* Director: Miri Choi
 
-This project is collaboration with AGIT Pohang, Platform Changdong 61.
+* Art: Hansol Seo
+
+* Director: Miri Choi
 
 * Facebook: fb.me/arttechbiz
 * HomePage: www.arttech.biz
