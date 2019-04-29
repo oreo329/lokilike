@@ -9,7 +9,6 @@ weight = 1
 
 An Interactive Installation for Election Day
 <!--more-->
-#### Description
 
 > "Action, or Not Action"
 

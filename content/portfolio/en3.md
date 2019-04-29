@@ -9,7 +9,6 @@ weight = 1
 
 A Table for Communication
 <!--more-->
-#### Description
 
 > "TaCo: A Table for Communication"
 
@@ -17,17 +16,17 @@ A Table for Communication
 
  
 ![Overview][1]
-![System][2]
-![HW][3]
 
 * [Video] (https://www.facebook.com/arttechbiz/videos/2094705940750898/)
 * Technology & UX Design: Seungjae Oh, Sangyoon Han, Jungah Park
 * Director: Miri Choi
 
+![System][2]
+![HW][3]
 ![Result][4]
 ![Result][5]
 
-> 본 프로젝트는 <POSTECH TechRiver Conference>에서 진행되었습니다.
+> This project was deployed at POSTECH TechRiver Conference 2018
 
 #### ENTech
 * Facebook: fb.me/arttechbiz
