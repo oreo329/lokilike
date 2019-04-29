@@ -1,31 +1,27 @@
 +++
-showonlyimage = true
-draft = true
-image = "img/portfolio/a4-paper.jpg"
+showonlyimage = false
+draft = false
+image = "img/research/mm-main.png"
 date = "2016-11-05T18:25:22+05:30"
-title = "Name of the work 1"
+title = "Vibration+Impact"
 weight = 0
 +++
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+Realistic Haptic Rendering of Collision Effects Using Multimodal Vibrotactile and Impact Feedback
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+> This paper addresses the potential benefits of multimodal haptic feedback combining vibrotactile and impact stimuli for the target domain of virtual collision simulation. In this hybrid approach, we complement the limitation of each modality with the advantage of the other modality. We present the design of a hybrid device including both vibration and impact actuators and a physics-based rendering method for realistic collision simulation. We also report a user study carried out to comparatively assess the subjective quality of haptic collision rendering using vibration only, impact only, and multimodal (vibration + impact) stimuli. Experimental results demonstrate that our multimodal approach can contribute to critically expanding the dynamic range of virtual collision simulation, especially between highly stiff objects.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+![Main][1]
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+* Chaeyong Park, Jaeyoung Park, **Seungjae Oh**, and Seungmoon Choi. 2019. *Realistic Haptic Rendering of Collision Effects Using Multimodal Vibrotactile and Impact Feedback* (**IEEE World Haptics**).
+* Link: https://doi.org/
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+![HW][2]
+![Result][3]
 
-## Header Level 2
+[1]: /img/research/mm-main.png
+[2]: /img/research/mm-hw.png
+[3]: /img/research/mm-data.png
+[4]: /img/research/mm-teasor.jpg
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
