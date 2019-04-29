@@ -10,7 +10,7 @@ title = ""
 * Gyeore Yun, **Seungjae Oh**, and Seungmoon Choi. 2019. *Seamless Phantom Sensation Moving across a Wide Range of Body* (**IEEE World Haptics**).
 * **Seungjae Oh**, Gyeore Yun, Chaeyong Park, Jinsoo Kim, and Seungmoon Choi. 2019. *VibEye: Vibration-Mediated Object Recognition for Tangible Interactive Applications* (**ACM CHI**).
 * Heejin Kim, **Seungjae Oh**, Sung H. Han, Min K. Chung. 2019. *Motion–Display Gain: A New Control–Display Mapping Reflecting Natural Human Pointing Gesture to Enhance Interaction with Large Displays at a Distance* (**International Journal of Human-Computer Interaction**).
-* **Seungjae Oh**, Hyo-Jeong So, Matthew Gaydos. 2018. *Hybrid Augmented Reality for Participatory Learning: The Hidden Efficacy of Multi-User Game-Based Simulation* (**IEEE Transactions on Learning Technologies**).
+* **Seungjae Oh**, Hyo-Jeong So, Matthew Gaydos. 2018. *[Hybrid Augmented Reality for Participatory Learning: The Hidden Efficacy of Multi-User Game-Based Simulation](https://doi.org/10.1109/TLT.2017.2750673)* (**IEEE Transactions on Learning Technologies**). 
 * Sei-Young Kim, Hyo-Jeong So, Soonmo Kwon, **Seungjae Oh**, Kyudong Park, Minjin Ko, Jaewon Yoo, Gyuhwan Oh. 2015. *Towards Designing a Mobile Social Learning Application with Meaningful Gamification Strategies* (**IEEE ICALT**).
 * Kyudong Park, **Seungjae Oh**, Heung-Chang Lee, Hyo-Jeong So. 2014. *Dynamic feedback mechanism for maximizing interaction in online social network services* (**IEEE/ACM ASONAM**).
 
