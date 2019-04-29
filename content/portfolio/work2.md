@@ -10,10 +10,12 @@ weight = 1
 A Interactive Installation for Election Day
 <!--more-->
 
->"Action, or Not Action"
->Art & Tech Collaboration with ENTech. 
+> "Action, or Not Action"
+
+> Art & Tech Collaboration with ENTech. 
 
 ![Application][1]
+
 ![App][2]
 
 * Link: https://www.facebook.com/arttechbiz/videos/1955000268054800/
