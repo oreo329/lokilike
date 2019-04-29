@@ -24,7 +24,7 @@ An Interactive Installation for Election Day
 * Art: Hansol Seo
 * Director: Miri Choi
 
-> This project is collaboration with AGIT Pohang, Platform Changdong 61.
+> This project is in a collaboration with AGIT Pohang, Platform Changdong 61.
 
 #### ENTech
 * Facebook: fb.me/arttechbiz

@@ -1,17 +1,17 @@
 +++
 date = "2016-11-05T19:41:01+05:30"
-title = "Action, or Not Action"
+title = "Project: Dream Square"
 draft = false
 image = "img/portfolio/en1-teasor.png"
 showonlyimage = true
 weight = 1
 +++
 
-A Interactive Installation for Election Day
+An Interactive Installation at a Vacant Lot
 <!--more-->
 #### Description
 
-> "Action, or Not Action"
+> "Project: Dream Square"
 
 > Art & Tech Collaboration by ENTech.
 
@@ -19,12 +19,12 @@ A Interactive Installation for Election Day
 ![Application][1]
 ![App][2]
 
-* [Video] (https://www.facebook.com/arttechbiz/videos/1955000268054800/) & [Media](http://techm.kr/bbs/board.php?bo_table=article&wr_id=3903)
+* [Video] 
 * Technology & UX Design: Seungjae Oh
-* Art: Hansol Seo
+* Art: Wan Kim
 * Director: Miri Choi
 
-> This project is collaboration with AGIT Pohang, Platform Changdong 61.
+> This project is supported by Pohang Cultural Foundation
 
 #### ENTech
 * Facebook: fb.me/arttechbiz
