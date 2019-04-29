@@ -47,4 +47,4 @@ When she reached the first hills of the Italic Mountains, she had a last view ba
 [1]: /img/research/vibeye-teaser.png
 [2]: /img/research/vibeye-dataprocessing.png
 [3]: /img/research/vibeye-app.png
-[3]: /img/research/vibeye-hw.png
+[4]: /img/research/vibeye-hw.png
