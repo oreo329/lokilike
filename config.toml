@@ -41,8 +41,8 @@ googleAnalytics = ""
   url = "research/"
  
   [[params.navlinks]]
-  name = "Design"
-  url = "design/"
+  name = "Portfolio"
+  url = "portfolio/"
 
   [[params.navlinks]]
   name = "Contact"
