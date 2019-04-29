@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/portfolio/a4-paper.jpg"
+image = "img/research/other-hidden-app.png"
 date = "2016-11-05T18:25:22+05:30"
 title = "Others"
 weight = 0
@@ -9,6 +9,7 @@ weight = 0
 
 Gamification, Participatory Design, Augmented Reality, Social Media
 <!--more-->
+
 ![Hidden][1]
 ![Hidden][2]
 * **Seungjae Oh**, Hee-seung Kwon, Hyo-Jeong So. 2014. *Hidden UI: projection-based augmented reality for map navigation on multi-touch tabletop* (**ACM SUI WIP**).
