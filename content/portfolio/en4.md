@@ -16,7 +16,7 @@ An Interactive Installation at a Vacant Lot
  
 ![Scene][1]
 
-> This project is supported by Pohang Cultural Foundation.
+> This project was supported by Pohang Cultural Foundation.
 
 * [Video] 
 * Technology & UX Design: Seungjae Oh, Juhoon Jang

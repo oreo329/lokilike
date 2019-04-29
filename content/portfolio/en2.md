@@ -16,7 +16,7 @@ An Interactive Photozone
 
 ![Scene][1]
 
-> this project was deployed at Seoul HyeoHyun Moonlight Festival 2017.
+> This project was deployed at Seoul HyeoHyun Moonlight Festival 2017.
  
 * [Video] (https://www.facebook.com/arttechbiz/videos/2010782532476573/) 
 * Technology & UX Design: Seungjae Oh, Sangyoon Han
