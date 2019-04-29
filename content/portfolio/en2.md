@@ -2,7 +2,7 @@
 date = "2016-11-05T19:41:01+05:30"
 title = "Starry Light"
 draft = false
-image = "img/portfolio/en1-teasor.png"
+image = "img/portfolio/en2-teasor.png"
 showonlyimage = true
 weight = 1
 +++
@@ -15,20 +15,22 @@ An Interactive Photozone
 
 > 2nd Art & Tech Collaboration by ENTech.
 
+![Scene][2]
  
-![Application][1]
-![App][2]
-
 * [Video] (https://www.facebook.com/arttechbiz/videos/2010782532476573/) 
 * Technology & UX Design: Seungjae Oh, Sangyoon Han
 * Curation: Hansol Seo
 * Director: Miri Choi
 
-> 본 프로젝트는 <서울시 회현달빛축제>에서 진행되었습니다.
+![Scene][3]
+![Scene][2]
+
+> this project was deployed at Seoul HyeoHyun Moonlight Festival 2017.
 
 #### ENTech
 * Facebook: fb.me/arttechbiz
 * HomePage: www.arttech.biz
 
-[1]: /img/portfolio/en1-app1.png
-[2]: /img/portfolio/en1-app2.png
+[1]: /img/portfolio/en2-overview.png
+[2]: /img/portfolio/en2-kinect.png
+[3]: /img/portfolio/en2-light.png

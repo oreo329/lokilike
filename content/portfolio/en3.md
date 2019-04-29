@@ -26,7 +26,7 @@ A Table for Communication
 ![Result][4]
 ![Result][5]
 
-> This project was deployed at POSTECH TechRiver Conference 2018
+> This project was deployed at POSTECH TechRiver Conference 2017.
 
 #### ENTech
 * Facebook: fb.me/arttechbiz

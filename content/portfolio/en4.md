@@ -26,7 +26,7 @@ An Interactive Installation at a Vacant Lot
 ![App][3]
 ![App][4]
 
-> This project is supported by Pohang Cultural Foundation
+> This project is supported by Pohang Cultural Foundation.
 
 #### ENTech
 * Facebook: fb.me/arttechbiz
