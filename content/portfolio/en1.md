@@ -12,7 +12,7 @@ An Interactive Installation for Election Day
 
 > "Action, or Not Action"
 
-> 1st Art & Tech Collaboration by ENTech.
+> 1st Art & Tech Collaboration by [ENTech](https://www.facebook.com/arttechbiz).
  
 ![Application][1]
 ![App][2]
@@ -23,7 +23,7 @@ An Interactive Installation for Election Day
 * Technology & UX Design: Seungjae Oh
 * Art: Hansol Seo
 * Director: Miri Choi
-* [ENTech](https://www.facebook.com/arttechbiz)
+
 
 
 [1]: /img/portfolio/en1-app1.png

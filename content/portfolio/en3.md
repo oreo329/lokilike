@@ -12,7 +12,7 @@ A Table for Communication
 
 > "TaCo: A Table for Communication"
 
-> 3rd Art & Tech Collaboration by ENTech.
+> 3rd Art & Tech Collaboration by [ENTech](https://www.facebook.com/arttechbiz).
  
 ![Overview][1]
 
@@ -21,7 +21,7 @@ A Table for Communication
 * [Video] (https://www.facebook.com/arttechbiz/videos/2094705940750898/)
 * Technology & UX Design: Seungjae Oh, Sangyoon Han, Jungah Park
 * Director: Miri Choi
-* [ENTech](https://www.facebook.com/arttechbiz)
+
 
 ![System][2]
 ![HW][3]

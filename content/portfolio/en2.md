@@ -12,7 +12,7 @@ An Interactive Photo Zone at the Namsam Park
 
 > "Starry Light"
 
-> 2nd Art & Tech Collaboration by ENTech.
+> 2nd Art & Tech Collaboration by [ENTech](https://www.facebook.com/arttechbiz).
 
 ![Scene][1]
 
@@ -22,7 +22,7 @@ An Interactive Photo Zone at the Namsam Park
 * Technology & UX Design: Seungjae Oh, Sangyoon Han
 * Curation: Hansol Seo
 * Director: Miri Choi
-* [ENTech](https://www.facebook.com/arttechbiz)
+
 
 ![Scene][3]
 ![Scene][2]
