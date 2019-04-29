@@ -11,15 +11,15 @@ title = ""
 * **Seungjae Oh**, Gyeore Yun, Chaeyong Park, Jinsoo Kim, and Seungmoon Choi. 2019. *[VibEye: Vibration-Mediated Object Recognition for Tangible Interactive Applications](https://doi.org/10.1145/3290605.3300906)* (**ACM CHI**).
 * Heejin Kim, **Seungjae Oh**, Sung H. Han, Min K. Chung. 2019. *[Motion–Display Gain: A New Control–Display Mapping Reflecting Natural Human Pointing Gesture to Enhance Interaction with Large Displays at a Distance](https://doi.org/10.1080/10447318.2018.1447422)* (**International Journal of Human-Computer Interaction**).
 * **Seungjae Oh**, Hyo-Jeong So, Matthew Gaydos. 2018. *[Hybrid Augmented Reality for Participatory Learning: The Hidden Efficacy of Multi-User Game-Based Simulation](https://doi.org/10.1109/TLT.2017.2750673)* (**IEEE Transactions on Learning Technologies**). 
-* Sei-Young Kim, Hyo-Jeong So, Soonmo Kwon, **Seungjae Oh**, Kyudong Park, Minjin Ko, Jaewon Yoo, Gyuhwan Oh. 2015. *Towards Designing a Mobile Social Learning Application with Meaningful Gamification Strategies* (**IEEE ICALT**).
-* Kyudong Park, **Seungjae Oh**, Heung-Chang Lee, Hyo-Jeong So. 2014. *Dynamic feedback mechanism for maximizing interaction in online social network services* (**IEEE/ACM ASONAM**).
+* Sei-Young Kim, Hyo-Jeong So, Soonmo Kwon, **Seungjae Oh**, Kyudong Park, Minjin Ko, Jaewon Yoo, Gyuhwan Oh. 2015. *[Towards Designing a Mobile Social Learning Application with Meaningful Gamification Strategies](https://doi.org/10.1109/ICALT.2015.23)* (**IEEE ICALT**).
+* Kyudong Park, **Seungjae Oh**, Heung-Chang Lee, Hyo-Jeong So. 2014. *[Dynamic feedback mechanism for maximizing interaction in online social network services](https://doi.org/10.1109/ASONAM.2014.6921684)* (**IEEE/ACM ASONAM**).
 
 ##### Peer-reviewed Poster and Demonstration
 * **Seungjae Oh**, Kyudong Park, Soonmo Kwon, Hyo-Jeong So. 2016. *[Designing a Multi-user Interactive Simulation Using AR Glasses](https://doi.org/10.1145/2839462.2856521)* (**ACM TEI WIP**). 
-* Soonmo Kwon, **Seungjae Oh**, Kyudong Park, Sei-young Kim, Hyo-Jeong So. 2015. *Children as Participatory Designers of a New Type of Mobile Social Learning Application* (**ACM MobileHCI WIP**). 
+* Soonmo Kwon, **Seungjae Oh**, Kyudong Park, Sei-young Kim, Hyo-Jeong So. 2015. *[Children as Participatory Designers of a New Type of Mobile Social Learning Application](https://doi.org/10.1145/2786567.2793712)* (**ACM MobileHCI WIP**). 
 * **Seungjae Oh**, Heejin Kim, Hyo-Jeong So. 2014. *[Proposing a classification model for perceptual target selection on large displays](https://doi.org/10.1145/2659766.2661216)* (**ACM SUI WIP**). 
 * Heejin Kim, **Seungjae Oh**, Sung H. Han, Min K. Chung. 2014. *[Natural pointing posture in distal pointing tasks](https://doi.org/10.1145/2659766.2661213)* (**ACM SUI WIP, Best Poster Award**).
-* **Seungjae Oh**, Hee-seung Kwon, Hyo-Jeong So. 2014. *Hidden UI: projection-based augmented reality for map navigation on multi-touch tabletop* (**ACM SUI WIP**).
+* **Seungjae Oh**, Hee-seung Kwon, Hyo-Jeong So. 2014. *[Hidden UI: projection-based augmented reality for map navigation on multi-touch tabletop](https://doi.org/10.1145/2659766.2661228)* (**ACM SUI WIP**).
 * **Seungjae Oh**, Heejin Kim, Min K. Chung. 2014. *[Understanding of spatial gestural motor space: A study on cursorless absolute freehand pointing on large displays](https://doi.org/10.1109/3DUI.2014.6798873)* (**IEEE 3DUI POSTER**).
 
 
