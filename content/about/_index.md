@@ -26,7 +26,7 @@ title = ""
 #### Patents
 
 ##### Domestic
-* Heejin Kim, **Seungjae Oh**, Sung H. Han, Min K. Chung. Application: 2016.9.30. Publication: 2018.4.4. *3D INTERACTION METHOD FOR DISPLAY*.
+* *3D INTERACTION METHOD FOR DISPLAY*. Heejin Kim, **Seungjae Oh**, Sung H. Han, Min K. Chung. Application: 2016.9.30. Publication: 2018.4.4. 
 
 
 #### Education
