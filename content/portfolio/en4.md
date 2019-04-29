@@ -12,7 +12,7 @@ An Interactive Installation at a Vacant Lot
 
 > "Project: Dream Square"
 
-> 4th Art & Tech Collaboration by ENTech.
+> 4th Art & Tech Collaboration by [ENTech](https://www.arttech.biz/).
  
 ![Scene][1]
 
@@ -23,13 +23,11 @@ An Interactive Installation at a Vacant Lot
 * Art: Wan Kim, Miri Choi, Soonhyo Kim
 * Director: Jintaek Kim
 
-#### [ENTech](https://www.facebook.com/arttechbiz)
-
 ![App][2]
 ![App][3]
 ![App][4]
 
-
+#### [ENTech](https://www.facebook.com/arttechbiz)
 
 [1]: /img/portfolio/en4-scene.jpg
 [2]: /img/portfolio/en4-under.jpg

@@ -12,7 +12,7 @@ An Interactive Photo Zone at the Namsam Park
 
 > "Starry Light"
 
-> 2nd Art & Tech Collaboration by [ENTech](https://www.facebook.com/arttechbiz).
+> 2nd Art & Tech Collaboration by [ENTech](https://www.arttech.biz/).
 
 ![Scene][1]
 
@@ -26,6 +26,8 @@ An Interactive Photo Zone at the Namsam Park
 
 ![Scene][3]
 ![Scene][2]
+
+#### [ENTech](https://www.facebook.com/arttechbiz)
 
 
 [1]: /img/portfolio/en2-overview.png
