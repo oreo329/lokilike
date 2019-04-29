@@ -21,6 +21,7 @@ A Table for Communication
 * Technology & UX Design: Seungjae Oh, Sangyoon Han, Jungah Park
 * Director: Miri Choi
 
+
 ![System][2]
 ![HW][3]
 ![Result][4]
