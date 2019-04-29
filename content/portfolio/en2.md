@@ -29,7 +29,6 @@ An Interactive Photo Zone at the Namsam Park
 
 #### [ENTech](https://www.facebook.com/arttechbiz)
 
-
 [1]: /img/portfolio/en2-overview.png
 [2]: /img/portfolio/en2-kinect.png
 [3]: /img/portfolio/en2-light.png
