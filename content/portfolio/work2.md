@@ -3,7 +3,7 @@ date = "2016-11-05T19:41:01+05:30"
 title = "Action, or Not Action"
 draft = false
 image = "img/portfolio/en1-teasor.png"
-showonlyimage = True
+showonlyimage = true
 weight = 1
 +++
 
