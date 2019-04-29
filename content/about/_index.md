@@ -28,6 +28,7 @@ title = "Seungjae Oh"
 
 #### Grants, Honors, & Awards
 
+* Outstanding Presenation Award. 2019 Spring Academic Workshop, SIGCHI Korea Local Chapter. **2019**
 * MSRA Collaborative Research. Microsoft Research Lab, Asia. **2019**
 * Best Poster Award. ACM Symposium on Spatial User Interaction. **2013**
 * Graduate Scholarship. Kwanjeong Educational Foundation. **2012.3 - 2014.2**
