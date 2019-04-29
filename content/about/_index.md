@@ -51,8 +51,8 @@ title = "Seungjae Oh"
 
 
 #### Professional Service
-* Review. Computers & Education. 
-* Review. ACM Human Factors in Computing Systems LBW. **2019**
+* Reviewer. Computers & Education. **2019**
+* Reviewer. ACM Human Factors in Computing Systems LBW. **2019**
 
 
 #### Activities
