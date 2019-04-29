@@ -26,6 +26,7 @@ Vibration-Mediated Object Recognition for Tangible Interactive Applications
 
 ![Application][3]
 ![Dataprocessing][2]
+![HW][4]
 
 <!-- 1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 2. Aliquam tincidunt mauris eu risus.
@@ -46,3 +47,4 @@ When she reached the first hills of the Italic Mountains, she had a last view ba
 [1]: /img/research/vibeye-teaser.png
 [2]: /img/research/vibeye-dataprocessing.png
 [3]: /img/research/vibeye-app.png
+[3]: /img/research/vibeye-hw.png
