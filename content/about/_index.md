@@ -5,8 +5,7 @@ title = "Seungjae Oh"
 
 #### Publications
 ##### Peer-reviewed Conference Paper and Journal Articles 
-* Chaeyong Park, Jaeyoung Park, **Seungjae Oh**, and Seungmoon Choi. 2019. 
-###### Realistic Haptic Rendering of Collision Effects Using Multimodal Vibrotactile and Impact Feedback (*IEEE World Haptics*).
+* Chaeyong Park, Jaeyoung Park, **Seungjae Oh**, and Seungmoon Choi. 2019. *Realistic Haptic Rendering of Collision Effects Using Multimodal Vibrotactile and Impact Feedback* (**IEEE World Haptics**).
 * Gyeore Yun, **Seungjae Oh**, and Seungmoon Choi. Seamless Phantom Sensation Moving across a Wide Range of Body (*IEEE World Haptics, 2019*).
 * **Seungjae Oh**, Gyeore Yun, Chaeyong Park, Jinsoo Kim, and Seungmoon Choi. 2019. VibEye: Vibration-Mediated Object Recognition for Tangible Interactive Applications (*ACM CHI*).
 * Heejin Kim, **Seungjae Oh**, Sung H. Han, Min K. Chung. Motion–Display Gain: A New Control–Display Mapping Reflecting Natural Human Pointing Gesture to Enhance Interaction with Large Displays at a Distance (*International Journal of Human-Computer Interaction, 2019*). 
@@ -35,17 +34,20 @@ title = "Seungjae Oh"
 
 ![This is me][1]
 
-#### Grants, Honors, & Awards
+#### Scholarships, Honors & Awards
 * Outstanding Presenation Award. 2019 Spring Academic Workshop, SIGCHI Korea Local Chapter. **2019**
-* MSRA Collaborative Research. Microsoft Research Lab, Asia. **2019**
 * Best Poster Award. ACM Symposium on Spatial User Interaction. **2013**
 * Graduate Scholarship. Kwanjeong Educational Foundation. **2012.3 - 2014.2**
 * Undergraduate Student Scholarship Program. Korea Foundation for Advanced Studies. **2010.3 - 2012.2**
 * National Scholarship for Science and Engineering. Ministry of Education, South Korea. **2008.3 - 2012.2**
 
+#### Grants & Contracts
+* Vibration-Mediated Recognition of Hand Contact State for Tangible/Surface Interaction. MSRA Collaborative Research (PI: Seungmoon Choi), Microsoft Research Lab Asia. **2019**
+* Research on the Development of Embodied Participatory Simulation and its Effects from Embodied Cognition Perspectives. Young Researcher Program (PI: Hyo-Jeong So), Korea Research Foundation (NRF). **2015**
+
 #### Professional Service
-* Review. Computers & Education, **2019**
-* Review. ACM Human Factors in Computing Systems LBW, **2019**
+* Review, Computers & Education. 
+* Review, ACM Human Factors in Computing Systems LBW. **2019**
 
 #### Activities
 * Student Volunteer. ACM International Conference on Tangible, Embedded, and Embodied Interaction. **2016.2**
