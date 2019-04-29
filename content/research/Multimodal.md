@@ -4,7 +4,7 @@ draft = false
 image = "img/research/mm-main.png"
 date = "2016-11-05T18:25:22+05:30"
 title = "Vibration+Impact"
-weight = 0
+weight = 1
 +++
 
 Realistic Haptic Rendering of Collision Effects Using Multimodal Vibrotactile and Impact Feedback

@@ -4,7 +4,7 @@ showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
 title = "VibEye"
 draft = false
-weight = 2
+weight = 3
 +++
 
 Vibration-Mediated Object Recognition for Tangible Interactive Applications
