@@ -13,8 +13,7 @@ An Interactive Installation at a Vacant Lot
 
 > "Project: Dream Square"
 
-> Art & Tech Collaboration by ENTech.
-
+> 4th Art & Tech Collaboration by ENTech.
  
 ![Scene][1]
 
@@ -33,4 +32,5 @@ An Interactive Installation at a Vacant Lot
 * HomePage: www.arttech.biz
 
 [1]: /img/portfolio/en4-scene.jpg
-[2]: /img/portfolio/en4-under.jpg
+[2]: /img/portfolio/en4-chair.jpg
+[3]: /img/portfolio/en4-infinity.jpg

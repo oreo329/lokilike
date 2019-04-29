@@ -13,7 +13,7 @@ An Interactive Photozone
 
 > "Starry Light"
 
-> Art & Tech Collaboration by ENTech.
+> 2nd Art & Tech Collaboration by ENTech.
 
  
 ![Application][1]

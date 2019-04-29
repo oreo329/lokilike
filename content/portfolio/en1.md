@@ -12,7 +12,7 @@ An Interactive Installation for Election Day
 
 > "Action, or Not Action"
 
-> Art & Tech Collaboration by ENTech.
+> 1st Art & Tech Collaboration by ENTech.
 
  
 ![Application][1]
