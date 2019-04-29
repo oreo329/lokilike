@@ -20,7 +20,7 @@ Hybrid Augmented Reality for Participatory Learning: The Hidden Efficacy of Mult
 
 * **Seungjae Oh**, Hyo-Jeong So, Matthew Gaydos. 2018. *[Hybrid Augmented Reality for Participatory Learning: The Hidden Efficacy of Multi-User Game-Based Simulation](https://doi.org/10.1109/TLT.2017.2750673)* (**IEEE Transactions on Learning Technologies**). 
 * **Seungjae Oh**, Kyudong Park, Soonmo Kwon, Hyo-Jeong So. 2016. *[Designing a Multi-user Interactive Simulation Using AR Glasses](https://doi.org/10.1145/2839462.2856521)* (**ACM TEI WIP**). 
-* Video: https://www.youtube.com/watch?v=5zN8R4iCjII
+* [Video](https://www.youtube.com/watch?v=5zN8R4iCjII)
 
 ![System][2]
 ![AR][3]
