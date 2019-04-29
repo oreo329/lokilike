@@ -23,9 +23,9 @@ Vibration-Mediated Object Recognition for Tangible Interactive Applications
 * Video(overall): https://www.dropbox.com/s/i200b19tz2vyj90/CameraReady_Video.mp4?dl=0
 * Video(application): https://www.youtube.com/watch?v=zgzgOyxWXD8&feature=youtu.be   
 
-![Application][4]
-![CubePCA][2]![EverydayObjects][3]
 
+![Application][3]
+![Dataprocessing][2]
 
 <!-- 1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 2. Aliquam tincidunt mauris eu risus.
@@ -44,6 +44,5 @@ The Big Oxmox advised her not to do so, because there were thousands of bad Comm
 When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then   -->
 
 [1]: /img/research/vibeye-teaser.png
-[2]: /img/research/vibeye-pca.png
-[3]: /img/research/vibeye-every.png
-[4]: /img/research/vibeye-app1.png
+[2]: /img/research/vibeye-dataprocessing.png
+[3]: /img/research/vibeye-app1.png
