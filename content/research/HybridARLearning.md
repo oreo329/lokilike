@@ -29,5 +29,5 @@ Hybrid Augmented Reality for Participatory Learning: The Hidden Efficacy of Mult
 
 
 [1]: /img/research/arlearn-user.png
-[2]: /img/research/vibeye-system.png
-[3]: /img/research/vibeye-app1.png
+[2]: /img/research/arlearn-system.png
+[3]: /img/research/arlearn-app1.png
