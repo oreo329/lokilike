@@ -1,17 +1,17 @@
 +++
 date = "2016-11-05T19:41:01+05:30"
-title = "Action, or Not Action"
+title = "TaCo"
 draft = false
 image = "img/portfolio/en1-teasor.png"
 showonlyimage = true
 weight = 1
 +++
 
-A Interactive Installation for Election Day
+A Table for Communication
 <!--more-->
 #### Description
 
-> "Action, or Not Action"
+> "TaCo: A Table for Communication"
 
 > Art & Tech Collaboration by ENTech.
 
@@ -19,12 +19,11 @@ A Interactive Installation for Election Day
 ![Application][1]
 ![App][2]
 
-* [Video] (https://www.facebook.com/arttechbiz/videos/1955000268054800/) & [Media](http://techm.kr/bbs/board.php?bo_table=article&wr_id=3903)
-* Technology & UX Design: Seungjae Oh
-* Art: Hansol Seo
+* [Video] (https://www.facebook.com/arttechbiz/videos/2094705940750898/)
+* Technology & UX Design: Seungjae Oh, Sangyoon Han, Jungah Park
 * Director: Miri Choi
 
-> This project is collaboration with AGIT Pohang, Platform Changdong 61.
+> 본 프로젝트는 <POSTECH TechRiver Conference>에서 진행되었습니다.
 
 #### ENTech
 * Facebook: fb.me/arttechbiz

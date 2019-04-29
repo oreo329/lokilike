@@ -1,17 +1,17 @@
 +++
 date = "2016-11-05T19:41:01+05:30"
-title = "Action, or Not Action"
+title = "Starry Light"
 draft = false
 image = "img/portfolio/en1-teasor.png"
 showonlyimage = true
 weight = 1
 +++
 
-A Interactive Installation for Election Day
+An Interactive Photozone 
 <!--more-->
 #### Description
 
-> "Action, or Not Action"
+> "Starry Light"
 
 > Art & Tech Collaboration by ENTech.
 
@@ -19,12 +19,12 @@ A Interactive Installation for Election Day
 ![Application][1]
 ![App][2]
 
-* [Video] (https://www.facebook.com/arttechbiz/videos/1955000268054800/) & [Media](http://techm.kr/bbs/board.php?bo_table=article&wr_id=3903)
-* Technology & UX Design: Seungjae Oh
-* Art: Hansol Seo
+* [Video] (https://www.facebook.com/arttechbiz/videos/2010782532476573/) 
+* Technology & UX Design: Seungjae Oh, Sangyoon Han
+* Curation: Hansol Seo
 * Director: Miri Choi
 
-> This project is collaboration with AGIT Pohang, Platform Changdong 61.
+> 본 프로젝트는 <서울시 회현달빛축제>에서 진행되었습니다.
 
 #### ENTech
 * Facebook: fb.me/arttechbiz
