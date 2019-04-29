@@ -16,7 +16,7 @@ A series of research on 3D interaction around large displays
 
 > This is an initial attempt to reflect natural human pointing gesture in distal pointing technique, and the developed technique (MD gain) was experimentally proved to be superior to the existing techniques. This achievement is worthy because even a marginal improvement in the performance of pointing task, which is a fundamental and frequent task, can have a large effect on users’ productivity. These results can be used as a resource to understand the characteristics of user’s natural hand movement, and MD gain can be directly applied to situations in which distal pointing is needed, such as interacting with smart TVs or with wall displays. Furthermore, the concept that maps natural human behavior in motor space and an object in visual space can be applied to any interactive system.
 
-![Res][4]
+![Result][4]
 
 * Heejin Kim, **Seungjae Oh**, Sung H. Han, Min K. Chung. 2019. *Motion–Display Gain: A New Control–Display Mapping Reflecting Natural Human Pointing Gesture to Enhance Interaction with Large Displays at a Distance* (**International Journal of Human-Computer Interaction**).
 * Link: https://doi.org/10.1080/10447318.2018.1447422
@@ -28,8 +28,8 @@ A series of research on 3D interaction around large displays
 * Link: https://doi.org/10.1145/2659766.2661216
 
 ![Teasor][1]
-![Res][2]
-![Res][3]
+![Result][2]
+![Result][3]
 
 [1]: /img/research/pointing-teaser.png
 [2]: /img/research/pointing-res.png
