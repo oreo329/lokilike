@@ -7,7 +7,7 @@ draft = false
 weight = 2
 +++
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
+Multiple AR Technologies for Informal Learning
 <!--more-->
 
 > The goal of this research is to articulate and test a new hybrid Augmented Reality (AR) environment for conceptual understanding. From the theoretical lens of embodied interaction, we have designed a multi-user participatory simulation called ARfract where visitors in a science museum can learn about complex scientific concepts on the refraction of light through full-body immersion using optical see-through AR glasses, projection-based AR, and gesture technology. 
