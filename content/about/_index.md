@@ -37,7 +37,7 @@ title = ""
 ![This is me][1]
 
 #### Scholarships, Honors & Awards
-* Outstanding Presenation Award. 2019 Spring Academic Workshop, SIGCHI Korea Local Chapter. **2019**
+* Outstanding Presentation Award. 2019 Spring Academic Workshop, SIGCHI Korea Local Chapter. **2019**
 * Ranked top 250 out of 1000 selected applicants. Intel RealSense Application Challenge: IDEA Phase, Intel. **2014**
 * Best Poster Award. ACM Symposium on Spatial User Interaction. **2013**
 * Graduate Scholarship. Kwanjeong Educational Foundation. **2012.3 - 2014.2**
