@@ -4,9 +4,9 @@ title = "Seungjae Oh"
 +++
 
 #### Publications
-* Chaeyong Park, Jaeyoung Park, **Seungjae Oh**, and Seungmoon Choi. Realistic Haptic Rendering of Collision Effects Using Multimodal Vibrotactile and Impact Feedback (*IEEE World Haptics, 2019*).
+* Chaeyong Park, Jaeyoung Park, **Seungjae Oh**, and Seungmoon Choi. 2019. Realistic Haptic Rendering of Collision Effects Using Multimodal Vibrotactile and Impact Feedback (*IEEE World Haptics*).
 * Gyeore Yun, **Seungjae Oh**, and Seungmoon Choi. Seamless Phantom Sensation Moving across a Wide Range of Body (*IEEE World Haptics, 2019*).
-* **Seungjae Oh**, Gyeore Yun, Chaeyong Park, Jinsoo Kim, and Seungmoon Choi. VibEye: Vibration-Mediated Object Recognition for Tangible Interactive Applications (*ACM CHI, 2019*).
+* **Seungjae Oh**, Gyeore Yun, Chaeyong Park, Jinsoo Kim, and Seungmoon Choi. 2019. VibEye: Vibration-Mediated Object Recognition for Tangible Interactive Applications (*ACM CHI*).
 * Heejin Kim, **Seungjae Oh**, Sung H. Han, Min K. Chung. Motion–Display Gain: A New Control–Display Mapping Reflecting Natural Human Pointing Gesture to Enhance Interaction with Large Displays at a Distance (*International Journal of Human-Computer Interaction, 2019*). 
 * **Seungjae Oh**, Hyo-Jeong So, Matthew Gaydos. Hybrid Augmented Reality for Participatory Learning: The Hidden Efficacy of Multi-User Game-Based Simulation (*IEEE Transactions on Learning technologies, 2018*). 
 * **Seungjae Oh**, Kyudong Park, Soonmo Kwon, Hyo-Jeong So. Designing a Multi-user Interactive Simulation Using AR Glasses (*ACM TEI WIP, 2016*). 
