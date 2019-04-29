@@ -59,5 +59,9 @@ title = ""
 * Student Volunteer. ACM International Conference on Tangible, Embedded, and Embodied Interaction. **2016.2**
 * Vice President. Young Engineers Honor Society (YEHS). **2010.1 - 2010.12**
 
+#### Media
+* 예술과 과학기술 결합해 만든 투표 독려 영상 화제. Tech M. **2017.5** [link] (http://techm.kr/bbs/board.php?bo_table=article&wr_id=3903)
+* 포항시 중앙동 꿈틀로 ‘꿈틀로 스퀘어’ 작품 설치. 경북일보. **2019.4** [link] (http://www.kyongbuk.co.kr/news/articleView.html?idxno=1059262#09Sk)
+
 
 [1]: /img/seungjae.jpg
