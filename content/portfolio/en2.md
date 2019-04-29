@@ -7,7 +7,7 @@ showonlyimage = true
 weight = 1
 +++
 
-An Interactive Photozone 
+An Interactive Photo Zone at the Namsam Park
 <!--more-->
 
 > "Starry Light"
