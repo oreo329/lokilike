@@ -18,14 +18,10 @@ A series of research on 3D interaction around large displays
 
 ![Result][4]
 
-* Heejin Kim, **Seungjae Oh**, Sung H. Han, Min K. Chung. 2019. *Motion–Display Gain: A New Control–Display Mapping Reflecting Natural Human Pointing Gesture to Enhance Interaction with Large Displays at a Distance* (**International Journal of Human-Computer Interaction**).
-* Link: https://doi.org/10.1080/10447318.2018.1447422
-* Heejin Kim, **Seungjae Oh**, Sung H. Han, Min K. Chung. 2014. *Natural pointing posture in distal pointing tasks* (**ACM SUI WIP, Best Poster Award**).
-* Link: https://doi.org/10.1145/2659766.2661213
-* **Seungjae Oh**, Heejin Kim, Min K. Chung. 2014. *Understanding of spatial gestural motor space: A study on cursorless absolute freehand pointing on large displays* (**IEEE 3DUI POSTER**).
-* Link: https://doi.org/10.1109/3DUI.2014.6798873
-* **Seungjae Oh**, Heejin Kim, Hyo-Jeong So. 2014. *Proposing a classification model for perceptual target selection on large displays* (**ACM SUI WIP**).
-* Link: https://doi.org/10.1145/2659766.2661216
+* Heejin Kim, **Seungjae Oh**, Sung H. Han, Min K. Chung. 2019. *[Motion–Display Gain: A New Control–Display Mapping Reflecting Natural Human Pointing Gesture to Enhance Interaction with Large Displays at a Distance](https://doi.org/10.1080/10447318.2018.1447422)* (**International Journal of Human-Computer Interaction**).
+* Heejin Kim, **Seungjae Oh**, Sung H. Han, Min K. Chung. 2014. *[Natural pointing posture in distal pointing tasks](https://doi.org/10.1145/2659766.2661213)* (**ACM SUI WIP, Best Poster Award**).
+* **Seungjae Oh**, Heejin Kim, Min K. Chung. 2014. *[Understanding of spatial gestural motor space: A study on cursorless absolute freehand pointing on large displays](https://doi.org/10.1109/3DUI.2014.6798873)* (**IEEE 3DUI POSTER**).
+* **Seungjae Oh**, Heejin Kim, Hyo-Jeong So. 2014. *[Proposing a classification model for perceptual target selection on large displays](https://doi.org/10.1145/2659766.2661216)* (**ACM SUI WIP**). 
 
 ![Teasor][1]
 ![Result][2]
