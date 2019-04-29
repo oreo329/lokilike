@@ -14,7 +14,8 @@ A Table for Communication
 
 > 3rd Art & Tech Collaboration by [ENTech](https://www.arttech.biz/).
  
-![Overview][1]
+
+![Overview][0]
 
 > This project was deployed at POSTECH TechRiver Conference 2017.
 
@@ -22,6 +23,7 @@ A Table for Communication
 * Technology & UX Design: Seungjae Oh, Sangyoon Han, Jungah Park
 * Director: Miri Choi
 
+![Overview][1]
 ![System][2]
 ![HW][3]
 ![Result][4]
@@ -29,6 +31,7 @@ A Table for Communication
 
 #### [ENTech](https://www.facebook.com/arttechbiz)
 
+[0]: /img/portfolio/en3-overview2.png
 [1]: /img/portfolio/en3-overview.png
 [2]: /img/portfolio/en3-system.png
 [3]: /img/portfolio/en3-table.png
