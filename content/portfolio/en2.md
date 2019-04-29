@@ -22,14 +22,11 @@ An Interactive Photozone
 * Technology & UX Design: Seungjae Oh, Sangyoon Han
 * Curation: Hansol Seo
 * Director: Miri Choi
+* [ENTech](fb.me/arttechbiz)
 
 ![Scene][3]
 ![Scene][2]
 
-
-#### ENTech
-* Facebook: fb.me/arttechbiz
-* HomePage: www.arttech.biz
 
 [1]: /img/portfolio/en2-overview.png
 [2]: /img/portfolio/en2-kinect.png

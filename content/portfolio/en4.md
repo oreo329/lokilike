@@ -22,15 +22,13 @@ An Interactive Installation at a Vacant Lot
 * Technology & UX Design: Seungjae Oh, Juhoon Jang
 * Art: Wan Kim, Miri Choi, Soonhyo Kim
 * Director: Jintaek Kim
+* [ENTech](fb.me/arttechbiz)
 
 ![App][2]
 ![App][3]
 ![App][4]
 
 
-#### ENTech
-* Facebook: fb.me/arttechbiz
-* HomePage: www.arttech.biz
 
 [1]: /img/portfolio/en4-scene.jpg
 [2]: /img/portfolio/en4-under.jpg
