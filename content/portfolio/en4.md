@@ -9,7 +9,6 @@ weight = 1
 
 An Interactive Installation at a Vacant Lot
 <!--more-->
-#### Description
 
 > "Project: Dream Square"
 

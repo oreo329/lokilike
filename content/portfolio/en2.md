@@ -9,7 +9,6 @@ weight = 1
 
 An Interactive Photozone 
 <!--more-->
-#### Description
 
 > "Starry Light"
 
