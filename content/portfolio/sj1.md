@@ -7,7 +7,7 @@ showonlyimage = true
 weight = 1
 +++
 
-
+A simple illustration of 'lokilike'
 <!--more-->
 
 > A simple illustration of 'lokilike'. 
