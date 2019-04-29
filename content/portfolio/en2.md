@@ -2,7 +2,7 @@
 date = "2016-11-05T19:41:01+05:30"
 title = "Starry Light"
 draft = false
-image = "img/portfolio/en2-teasor.png"
+image = "img/portfolio/en2-light.png"
 showonlyimage = true
 weight = 1
 +++
