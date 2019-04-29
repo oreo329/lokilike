@@ -22,8 +22,9 @@ An Interactive Installation at a Vacant Lot
 * Art: Wan Kim, Miri Choi, Soonhyo Kim
 * Director: Jintaek Kim
 
-
 ![App][2]
+![App][3]
+![App][4]
 
 > This project is supported by Pohang Cultural Foundation
 
@@ -32,5 +33,6 @@ An Interactive Installation at a Vacant Lot
 * HomePage: www.arttech.biz
 
 [1]: /img/portfolio/en4-scene.jpg
-[2]: /img/portfolio/en4-chair.jpg
-[3]: /img/portfolio/en4-infinity.jpg
+[2]: /img/portfolio/en4-under.jpg
+[3]: /img/portfolio/en4-chair.jpg
+[4]: /img/portfolio/en4-infinity.jpg
