@@ -11,10 +11,9 @@ An Interactive Installation for Election Day
 <!--more-->
 
 > "Action, or Not Action"
-
-> 1st Art & Tech Collaboration by [ENTech](https://www.arttech.biz/).
 {{< youtube zxsVkQ2j5qE >}}
 
+> 1st Art & Tech Collaboration by [ENTech](https://www.arttech.biz/).
 
 > This project was in a collaboration with AGIT Pohang, Platform Changdong 61.
 
