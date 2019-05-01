@@ -18,13 +18,13 @@ An Interactive Installation for Election Day
 
 > This project was in a collaboration with AGIT Pohang, Platform Changdong 61.
 
-![Application][1]
-![App][2]
-
 * [Video] (https://www.facebook.com/arttechbiz/videos/1955000268054800/), [Media](http://techm.kr/bbs/board.php?bo_table=article&wr_id=3903) & [Technology] (https://www.facebook.com/arttechbiz/videos/1960989367455890/)
 * Technology & UX Design: Seungjae Oh
 * Art: Hansol Seo
 * Director: Miri Choi
+
+![Application][1]
+![App][2]
 
 #### [ENTech](https://www.facebook.com/arttechbiz)
 
