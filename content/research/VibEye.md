@@ -9,7 +9,7 @@ weight = 1
 
 Vibration-Mediated Object Recognition for Tangible Interactive Applications
 <!--more-->
-
+{{< youtube id="zgzgOyxWXD8" autoplay="true">}}
 > We present VibEye: a vibration-mediated recognition system of objects for tangible interaction. A user holds an object between two fingers wearing VibEye. VibEye triggers a vibration from one finger, and the vibration that has propagated through the object is sensed at the other finger. This vibration includes information about the object’s identity, and we represent it using a spectrogram. 
 
 > Collecting the spectrograms of many objects, we formulate the object recognition problem to a classical classification problem among the images. This simple method, when tested with 20 users, shows 92.5% accuracy for 16 objects of the same shape with various materials. This material-based classifier is also extended to the recognition of everyday objects. 
@@ -21,7 +21,6 @@ Vibration-Mediated Object Recognition for Tangible Interactive Applications
 * **Seungjae Oh**, Gyeore Yun, Chaeyong Park, Jinsoo Kim, and Seungmoon Choi. 2019. *[VibEye: Vibration-Mediated Object Recognition for Tangible Interactive Applications](https://doi.org/10.1145/3290605.3300906)* (**ACM CHI**).
 * [Video](https://www.dropbox.com/s/i200b19tz2vyj90/CameraReady_Video.mp4?dl=0) (overall) & [Video](https://www.youtube.com/watch?v=zgzgOyxWXD8&feature=youtu.be) (application)
 
-{{< youtube zgzgOyxWXD8 >}}
 
 ![Application][3]
 ![Dataprocessing][2]

@@ -13,7 +13,6 @@ An Interactive Installation for Election Day
 > "Action, or Not Action"
 
 > 1st Art & Tech Collaboration by [ENTech](https://www.arttech.biz/).
- 
 {{< youtube zxsVkQ2j5qE >}}
 
 
