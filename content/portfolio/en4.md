@@ -10,11 +10,8 @@ weight = 1
 An Interactive Installation at a Vacant Lot
 <!--more-->
 ![Scene][1]
-> "Project: Dream Square"
 
 > 4th Art & Tech Collaboration by [ENTech](https://www.arttech.biz/).
- 
-
 
 > This project was supported by Pohang Cultural Foundation.
 
