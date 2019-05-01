@@ -16,6 +16,7 @@ An Interactive Installation for Election Day
  
 {{< youtube zxsVkQ2j5qE >}}
 
+
 > This project was in a collaboration with AGIT Pohang, Platform Changdong 61.
 
 * [Video] (https://www.facebook.com/arttechbiz/videos/1955000268054800/), [Media](http://techm.kr/bbs/board.php?bo_table=article&wr_id=3903) & [Technology] (https://www.facebook.com/arttechbiz/videos/1960989367455890/)
