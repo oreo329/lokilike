@@ -10,7 +10,6 @@ weight = 1
 An Interactive Photo Zone at the Namsam Park
 <!--more-->
 
-> "Starry Light"
 ![Scene][1]
 
 > 2nd Art & Tech Collaboration by [ENTech](https://www.arttech.biz/).
@@ -21,7 +20,6 @@ An Interactive Photo Zone at the Namsam Park
 * Technology & UX Design: Seungjae Oh, Sangyoon Han
 * Curation: Hansol Seo
 * Director: Miri Choi
-
 
 ![Scene][3]
 ![Scene][2]

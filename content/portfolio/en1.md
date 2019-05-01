@@ -10,8 +10,7 @@ weight = 1
 An Interactive Installation for Election Day
 <!--more-->
 
-> "Action, or Not Action"
-{{< youtube zxsVkQ2j5qE >}}
+{{< youtube id="zxsVkQ2j5qE" autoplay="true" >}}
 
 > 1st Art & Tech Collaboration by [ENTech](https://www.arttech.biz/).
 
