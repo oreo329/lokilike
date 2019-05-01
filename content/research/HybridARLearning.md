@@ -22,6 +22,8 @@ Hybrid Augmented Reality for Participatory Learning: The Hidden Efficacy of Mult
 * **Seungjae Oh**, Kyudong Park, Soonmo Kwon, Hyo-Jeong So. 2016. *[Designing a Multi-user Interactive Simulation Using AR Glasses](https://doi.org/10.1145/2839462.2856521)* (**ACM TEI WIP**). 
 * [Video](https://www.youtube.com/watch?v=5zN8R4iCjII)
 
+{{< youtube 5zN8R4iCjII >}}
+
 ![System][2]
 ![AR][3]
 
