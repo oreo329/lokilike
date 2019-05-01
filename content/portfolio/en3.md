@@ -10,12 +10,9 @@ weight = 1
 A Table for Communication
 <!--more-->
 
-> "TaCo: A Table for Communication"
+![Overview][0]
 
 > 3rd Art & Tech Collaboration by [ENTech](https://www.arttech.biz/).
- 
-
-![Overview][0]
 
 > This project was deployed at POSTECH TechRiver Conference 2017.
 
