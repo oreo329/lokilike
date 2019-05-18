@@ -18,7 +18,8 @@ Vibration-Mediated Object Recognition for Tangible Interactive Applications
 
 > Lastly, we demonstrate several tangible applications where VibEye provides the needed functionality while enhancing user experiences. VibEye is particularly effective for recognizing objects made of different materials, which is difficult to distinguish by other means such as light and sound.
 
-{{< youtube id="zgzgOyxWXD8" autoplay="true">}}
+<!-- {{< youtube id="zgzgOyxWXD8" autoplay="true">}} -->
+{{< youtube id="rH7KywQ0Z-8" autoplay="true">}}
 
 * **Seungjae Oh**, Gyeore Yun, Chaeyong Park, Jinsoo Kim, and Seungmoon Choi. 2019. *[VibEye: Vibration-Mediated Object Recognition for Tangible Interactive Applications](https://doi.org/10.1145/3290605.3300906)* (**ACM CHI**).
 * [Video](https://www.dropbox.com/s/i200b19tz2vyj90/CameraReady_Video.mp4?dl=0) (overall) & [Video](https://www.youtube.com/watch?v=zgzgOyxWXD8&feature=youtu.be) (application)
