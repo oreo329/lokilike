@@ -5,7 +5,8 @@ title = ""
 
 #### Publications
 
-##### Peer-reviewed Conference Paper and Journal Articles 
+##### Peer-reviewed Conference Paper and Journal Article
+* **Seungjae Oh**, and Seungmoon Choi. 2019. *Effects of Contact Force and Vibration Frequency on Vibrotactile Sensitivity During Active Touch* (**IEEE Transactions on Haptics, Accepted**). 
 * Chaeyong Park, Jaeyoung Park, **Seungjae Oh**, and Seungmoon Choi. 2019. *Realistic Haptic Rendering of Collision Effects Using Multimodal Vibrotactile and Impact Feedback* (**IEEE World Haptics**, **Candidate for the Best Paper Award**). 
 * Gyeore Yun, **Seungjae Oh**, and Seungmoon Choi. 2019. *Seamless Phantom Sensation Moving across a Wide Range of Body* (**IEEE World Haptics**).
 * **Seungjae Oh**, Gyeore Yun, Chaeyong Park, Jinsoo Kim, and Seungmoon Choi. 2019. *[VibEye: Vibration-Mediated Object Recognition for Tangible Interactive Applications](https://doi.org/10.1145/3290605.3300906)* (**ACM CHI**).
@@ -15,6 +16,7 @@ title = ""
 * Kyudong Park, **Seungjae Oh**, Heung-Chang Lee, Hyo-Jeong So. 2014. *[Dynamic feedback mechanism for maximizing interaction in online social network services](https://doi.org/10.1109/ASONAM.2014.6921684)* (**IEEE/ACM ASONAM**).
 
 ##### Peer-reviewed Poster and Demonstration
+* **Seungjae Oh**, Chaeyong Park, Jinsoo Kim, Gyeore Yun,and Seungmoon Choi. 2019. *VibEye: A System for Identification of Hand-held Object by Visualizing Vibration Propagation Dynamics* (**IEEE World Haptics**).
 * **Seungjae Oh**, Kyudong Park, Soonmo Kwon, Hyo-Jeong So. 2016. *[Designing a Multi-user Interactive Simulation Using AR Glasses](https://doi.org/10.1145/2839462.2856521)* (**ACM TEI WIP**). 
 * Soonmo Kwon, **Seungjae Oh**, Kyudong Park, Sei-young Kim, Hyo-Jeong So. 2015. *[Children as Participatory Designers of a New Type of Mobile Social Learning Application](https://doi.org/10.1145/2786567.2793712)* (**ACM MobileHCI WIP**). 
 * **Seungjae Oh**, Heejin Kim, Hyo-Jeong So. 2014. *[Proposing a classification model for perceptual target selection on large displays](https://doi.org/10.1145/2659766.2661216)* (**ACM SUI WIP**). 
