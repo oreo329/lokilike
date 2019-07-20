@@ -6,7 +6,7 @@ title = "About"
 #### Publications
 
 ##### Peer-reviewed Conference Paper and Journal Article
-* **Seungjae Oh**, and Seungmoon Choi. 2019. *Effects of Contact Force and Vibration Frequency on Vibrotactile Sensitivity During Active Touch* (**IEEE Transactions on Haptics, Accepted**). 
+* **Seungjae Oh** and Seungmoon Choi. 2019. *[Effects of Contact Force and Vibration Frequency on Vibrotactile Sensitivity During Active Touch](http://doi.org/10.1109/TOH.2019.2929521)* (**IEEE Transactions on Haptics, Early Access**). 
 * Chaeyong Park, Jaeyoung Park, **Seungjae Oh**, and Seungmoon Choi. 2019. *Realistic Haptic Rendering of Collision Effects Using Multimodal Vibrotactile and Impact Feedback* (**IEEE World Haptics**, **Candidate for the Best Paper Award**). 
 * Gyeore Yun, **Seungjae Oh**, and Seungmoon Choi. 2019. *Seamless Phantom Sensation Moving across a Wide Range of Body* (**IEEE World Haptics**).
 * **Seungjae Oh**, Gyeore Yun, Chaeyong Park, Jinsoo Kim, and Seungmoon Choi. 2019. *[VibEye: Vibration-Mediated Object Recognition for Tangible Interactive Applications](https://doi.org/10.1145/3290605.3300906)* (**ACM CHI**).
