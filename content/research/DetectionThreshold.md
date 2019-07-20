@@ -16,9 +16,9 @@ Effects of Contact Force and Vibration Frequency on Vibrotactile Sensitivity Dur
 
 * **Seungjae Oh**, and Seungmoon Choi. 2019. *Effects of Contact Force and Vibration Frequency on Vibrotactile Sensitivity During Active Touch* (**IEEE Transactions on Haptics, Accepted**). 
 
-![Experiment][1]
+<!-- ![Experiment][1] -->
 ![Result][2]
 
 
-[1]: /img/research/dt-exp.jpg
+<!-- [1]: /img/research/dt-exp.jpg -->
 [2]: /img/research/dt-res.png
