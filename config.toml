@@ -35,7 +35,6 @@ googleAnalytics = "UA-139247202-1"
   name = "About"
   url = "about/"
 
-
   [[params.navlinks]]
   name = "Research"
   url = "research/"

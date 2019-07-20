@@ -1,5 +1,5 @@
 +++
-image = "img/research/vibeye-main2.png"
+image = "img/research/vibeye-main.png"
 showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
 title = "VibEye"
