@@ -10,7 +10,7 @@ weight = 1
 An Interactive Installation for Election Day
 <!--more-->
 
-{{< youtube id="zxsVkQ2j5qE" autoplay="true" >}}
+{{< youtube id="RYKdbh5FokY" autoplay="true" >}}
 
 > 1st Art & Tech Collaboration by [ENTech](https://www.arttech.biz/).
 
