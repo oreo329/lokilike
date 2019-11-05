@@ -15,7 +15,8 @@ Realistic Haptic Rendering of Collision Effects Using Multimodal Vibrotactile an
 ![Main][1]
 
 * Chaeyong Park, Jaeyoung Park, **Seungjae Oh**, and Seungmoon Choi. 2019. *Realistic Haptic Rendering of Collision Effects Using Multimodal Vibrotactile and Impact Feedback* (**IEEE World Haptics**).
-* Link: https://doi.org/
+* Link: https://doi.org/10.1109/WHC.2019.8816116
+* [Video](https://youtu.be/wjVvP031OLE)
 
 ![HW][2]
 ![Result][3]
