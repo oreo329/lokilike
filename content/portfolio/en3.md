@@ -10,11 +10,13 @@ weight = 1
 A Table for Communication
 <!--more-->
 
-![Overview][0]
+{{< youtube id="RyiNjB_yl5k" autoplay="true" >}}
 
 > 3rd Art & Tech Collaboration by [ENTech](https://www.arttech.biz/).
 
 > This project was deployed at POSTECH TechRiver Conference 2017.
+
+![Overview][0]
 
 * [Video] (https://www.facebook.com/arttechbiz/videos/2094705940750898/)
 * Technology & UX Design: Seungjae Oh, Sangyoon Han, Jungah Park

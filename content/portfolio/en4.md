@@ -9,11 +9,14 @@ weight = 1
 
 An Interactive Installation at a Vacant Lot
 <!--more-->
-![Scene][1]
+
+{{< youtube id="woFNvnmwM5o" autoplay="true" >}}
 
 > 4th Art & Tech Collaboration by [ENTech](https://www.arttech.biz/).
 
 > This project was supported by Pohang Cultural Foundation.
+
+![Scene][1]
 
 * [Media](http://www.kyongbuk.co.kr/news/articleView.html?idxno=1059262#09Sk) 
 * Technology & UX Design: Seungjae Oh, Juhoon Jang
