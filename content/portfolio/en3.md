@@ -16,12 +16,11 @@ A Table for Communication
 
 > This project was deployed at POSTECH TechRiver Conference 2017.
 
-![Overview][0]
-
 * [Video] (https://www.facebook.com/arttechbiz/videos/2094705940750898/)
 * Technology & UX Design: Seungjae Oh, Sangyoon Han, Jungah Park
 * Director: Miri Choi
 
+![Overview][0]
 ![Overview][1]
 ![System][2]
 ![HW][3]

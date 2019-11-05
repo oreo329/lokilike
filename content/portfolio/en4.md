@@ -16,13 +16,12 @@ An Interactive Installation at a Vacant Lot
 
 > This project was supported by Pohang Cultural Foundation.
 
-![Scene][1]
-
 * [Media](http://www.kyongbuk.co.kr/news/articleView.html?idxno=1059262#09Sk) 
 * Technology & UX Design: Seungjae Oh, Juhoon Jang
 * Art: Wan Kim, Miri Choi, Soonhyo Kim
 * Director: Jintaek Kim
 
+![Scene][1]
 ![App][2]
 ![App][3]
 ![App][4]

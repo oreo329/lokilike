@@ -15,14 +15,13 @@ An Interactive Photo Zone at the Namsam Park
 > 2nd Art & Tech Collaboration by [ENTech](https://www.arttech.biz/).
 
 > This project was deployed at Seoul HyeoHyun Moonlight Festival 2017.
- 
-![Scene][1]
 
 * [Video] (https://www.facebook.com/arttechbiz/videos/2010782532476573/) 
 * Technology & UX Design: Seungjae Oh, Sangyoon Han
 * Curation: Hansol Seo
 * Director: Miri Choi
-
+ 
+![Scene][1]
 ![Scene][3]
 ![Scene][2]
 
