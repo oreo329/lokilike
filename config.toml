@@ -34,12 +34,12 @@ googleAnalytics = "UA-139247202-1"
   [[params.navlinks]]
   name = "About"
   url = "about/"
+  home = true
 
   [[params.navlinks]]
   name = "Research"
   url = "research/"
-  home = true
- 
+  
   [[params.navlinks]]
   name = "Portfolio"
   url = "portfolio/"
