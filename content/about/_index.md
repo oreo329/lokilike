@@ -6,9 +6,9 @@ title = "About"
 #### Publications
 
 ##### Peer-reviewed Conference Paper and Journal Article
-* Jinsoo Kim<sup>*</sup>, **Seungjae Oh**<sup>*</sup>, Chaeyong Park, and Seungmoon Choi. 2020.<br>Tactile Rendering of Body Penetrating Phantom Sensations<br>**ACM CHI 2020** (Co-first Author<sup>*</sup>) 
-* **Seungjae Oh** and Seungmoon Choi. 2019.<br>*[Effects of Contact Force and Vibration Frequency on Vibrotactile Sensitivity During Active Touch](https://doi.org/10.1109/TOH.2019.2929521)* (**IEEE Transactions on Haptics, Early Access**). 
-* Chaeyong Park, Jaeyoung Park, **Seungjae Oh**, and Seungmoon Choi. 2019.<br>*[Realistic Haptic Rendering of Collision Effects Using Multimodal Vibrotactile and Impact Feedback](https://doi.org/10.1109/WHC.2019.8816116)* (**IEEE World Haptics 2019**, **Candidate for the Best Paper Award**). 
+* Jinsoo Kim<sup>*</sup>, **Seungjae Oh**<sup>*</sup>, Chaeyong Park, and Seungmoon Choi.<br>Tactile Rendering of Body Penetrating Phantom Sensations<br>**ACM CHI 2020** (Co-first Author<sup>*</sup>) 
+* **Seungjae Oh** and Seungmoon Choi.<br>*[Effects of Contact Force and Vibration Frequency on Vibrotactile Sensitivity During Active Touch](https://doi.org/10.1109/TOH.2019.2929521)* <br>**IEEE Transactions on Haptics, Early Access** 
+* Chaeyong Park, Jaeyoung Park, **Seungjae Oh**, and Seungmoon Choi. 2019.<br>*[Realistic Haptic Rendering of Collision Effects Using Multimodal Vibrotactile and Impact Feedback](https://doi.org/10.1109/WHC.2019.8816116)* <br>**IEEE World Haptics 2019** (**Candidate for the Best Paper Award**). 
 * Gyeore Yun, **Seungjae Oh**, and Seungmoon Choi. 2019.<br>*[Seamless Phantom Sensation Moving across a Wide Range of Body](https://doi.org/10.1109/WHC.2019.8816104)* (**IEEE World Haptics 2019**).
 * **Seungjae Oh**, Gyeore Yun, Chaeyong Park, Jinsoo Kim, and Seungmoon Choi. 2019.<br>*[VibEye: Vibration-Mediated Object Recognition for Tangible Interactive Applications](https://doi.org/10.1145/3290605.3300906)* (**ACM CHI 2019**).
 * Heejin Kim, **Seungjae Oh**, Sung H. Han, Min K. Chung. 2019.<br>*[Motion–Display Gain: A New Control–Display Mapping Reflecting Natural Human Pointing Gesture to Enhance Interaction with Large Displays at a Distance](https://doi.org/10.1080/10447318.2018.1447422)* (**International Journal of Human-Computer Interaction**).
