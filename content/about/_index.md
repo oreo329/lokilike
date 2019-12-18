@@ -6,7 +6,7 @@ title = "About"
 #### Publications
 
 ##### Peer-reviewed Conference Paper and Journal Article
-* Jinsoo Kim<sup>*</sup>, **Seungjae Oh**<sup>*</sup>, Chaeyong Park, and Seungmoon Choi. 2020.<br>Tactile Rendering of Body Penetrating Phantom Sensations (**ACM CHI 2020**; Co-first Author<sup>*</sup>). 
+* Jinsoo Kim<sup>*</sup>, **Seungjae Oh**<sup>*</sup>, Chaeyong Park, and Seungmoon Choi. 2020.<br>Tactile Rendering of Body Penetrating Phantom Sensations<br>**ACM CHI 2020** (Co-first Author<sup>*</sup>) 
 * **Seungjae Oh** and Seungmoon Choi. 2019.<br>*[Effects of Contact Force and Vibration Frequency on Vibrotactile Sensitivity During Active Touch](https://doi.org/10.1109/TOH.2019.2929521)* (**IEEE Transactions on Haptics, Early Access**). 
 * Chaeyong Park, Jaeyoung Park, **Seungjae Oh**, and Seungmoon Choi. 2019.<br>*[Realistic Haptic Rendering of Collision Effects Using Multimodal Vibrotactile and Impact Feedback](https://doi.org/10.1109/WHC.2019.8816116)* (**IEEE World Haptics 2019**, **Candidate for the Best Paper Award**). 
 * Gyeore Yun, **Seungjae Oh**, and Seungmoon Choi. 2019.<br>*[Seamless Phantom Sensation Moving across a Wide Range of Body](https://doi.org/10.1109/WHC.2019.8816104)* (**IEEE World Haptics 2019**).
