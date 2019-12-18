@@ -86,7 +86,7 @@ title = "About"
 * Virtual Reality: Oculus Rift, HTC Vive, Meta One, and Microsoft Hololens
 * Others: Iphone, Android, Optitrack Trio, Microsoft Kinect, Philips Hue & Bridge, Laser cutter, and 3D printer
 
-##### Software (level of expertise:0-10)
+##### Software (Expertise Level:0-10)
 * Programming: Matlab (9), Python(5), Processing (8), Java (3), and C\# (5)
 * Tools: R (7), Adobe Photoshop (3) \& Illustrator (5), LaTex (6), and Microsoft Office (10)
 
