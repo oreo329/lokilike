@@ -74,9 +74,9 @@ title = "About"
 
 ##### Experiment and Analysis
 * Human Experiment: Psychophysics & Perception, Human Performance, Quantitative, and Qualitative
-* Statistical Analysis: Parametric, Non-parametric, Regression, Dimension Reduction, Survey Anaylsis
+* Statistical Analysis: Comparison (Parametric & Non-parametric), Regression, Dimension Reduction, Survey Analysis
 
-##### Data
+##### Data Analysis
 * Spectral Analysis, Signal Processing, and Machine Learning
 
 ##### Hardware
