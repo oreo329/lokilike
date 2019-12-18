@@ -17,15 +17,15 @@ title = "About"
 * Kyudong Park, **Seungjae Oh**, Heung-Chang Lee, and Hyo-Jeong So. 2014.<br>*[Dynamic Feedback Mechanism for Maximizing Interaction in Online Social Network Services](https://doi.org/10.1109/ASONAM.2014.6921684)* <br>**IEEE/ACM ASONAM 2014**
 
 ##### Peer-reviewed Poster and Demonstration
-* **Seungjae Oh**, Chaeyong Park, Jinsoo Kim, Gyeore Yun,and Seungmoon Choi. 2019.<br>*VibEye: A System for Identification of Hand-held Object by Visualizing Vibration Propagation Dynamics* (**IEEE World Haptics 2019**).
-* Chaeyong Park, Jaeyoung Park, **Seungjae Oh**, and Seungmoon Choi. 2019.<br>*Realistic Haptic Rendering of Collision Effects Using Multimodal Vibrotactile and Impact Feedback* (**IEEE World Haptics 2019**). 
-* Gyeore Yun, **Seungjae Oh**, and Seungmoon Choi. 2019.<br>*Seamless Phantom Sensation Moving across a Wide Range of Body* (**IEEE World Haptics 2019**).
-* **Seungjae Oh**, Kyudong Park, Soonmo Kwon, and Hyo-Jeong So. 2016.<br>*[Designing a Multi-user Interactive Simulation Using AR Glasses](https://doi.org/10.1145/2839462.2856521)* (**ACM TEI WIP 2016**). 
-* Soonmo Kwon, **Seungjae Oh**, Kyudong Park, Sei-young Kim, and Hyo-Jeong So. 2015.<br>*[Children as Participatory Designers of a New Type of Mobile Social Learning Application](https://doi.org/10.1145/2786567.2793712)* (**ACM MobileHCI WIP 2015**). 
-* **Seungjae Oh**, Heejin Kim, and Hyo-Jeong So. 2014.<br>*[Proposing a Classification Model for Perceptual Target Selection on Large Displays](https://doi.org/10.1145/2659766.2661216)* (**ACM SUI WIP 2014**). 
-* Heejin Kim, **Seungjae Oh**, Sung H. Han, and Min K. Chung. 2014.<br>*[Natural Pointing Posture in Distal Pointing tasks](https://doi.org/10.1145/2659766.2661213)* (**ACM SUI WIP 2014, Best Poster Award**).
-* **Seungjae Oh**, Hee-seung Kwon, and Hyo-Jeong So. 2014.<br>*[Hidden UI: Projection-based Augmented Reality for Map Navigation on Multi-touch Tabletop](https://doi.org/10.1145/2659766.2661228)* (**ACM SUI WIP 2014**).
-* **Seungjae Oh**, Heejin Kim, and Min K. Chung. 2014.<br>*[Understanding of Spatial Gestural Motor Space: a Study on Cursorless Absolute Freehand Pointing on Large Displays](https://doi.org/10.1109/3DUI.2014.6798873)* (**IEEE 3DUI POSTER 2014**).
+* **Seungjae Oh**, Chaeyong Park, Jinsoo Kim, Gyeore Yun,and Seungmoon Choi.<br>*VibEye: A System for Identification of Hand-held Object by Visualizing Vibration Propagation Dynamics*<br>**IEEE World Haptics Demo 2019**
+* Chaeyong Park, Jaeyoung Park, **Seungjae Oh**, and Seungmoon Choi.<br>*Realistic Haptic Rendering of Collision Effects Using Multimodal Vibrotactile and Impact Feedback*<br>**IEEE World Haptics Demo 2019** 
+* Gyeore Yun, **Seungjae Oh**, and Seungmoon Choi.<br>*Seamless Phantom Sensation Moving across a Wide Range of Body*<br>**IEEE World Haptics Demo 2019**
+* **Seungjae Oh**, Kyudong Park, Soonmo Kwon, and Hyo-Jeong So.<br>*[Designing a Multi-user Interactive Simulation Using AR Glasses](https://doi.org/10.1145/2839462.2856521)*<br>**ACM TEI WIP 2016**
+* Soonmo Kwon, **Seungjae Oh**, Kyudong Park, Sei-young Kim, and Hyo-Jeong So.<br>*[Children as Participatory Designers of a New Type of Mobile Social Learning Application](https://doi.org/10.1145/2786567.2793712)*<br>**ACM MobileHCI WIP 2015**
+* **Seungjae Oh**, Heejin Kim, and Hyo-Jeong So.<br>*[Proposing a Classification Model for Perceptual Target Selection on Large Displays](https://doi.org/10.1145/2659766.2661216)*<br>**ACM SUI WIP 2014**
+* Heejin Kim, **Seungjae Oh**, Sung H. Han, and Min K. Chung.<br>*[Natural Pointing Posture in Distal Pointing tasks](https://doi.org/10.1145/2659766.2661213)*<br>**ACM SUI WIP 2014, Best Poster Award**
+* **Seungjae Oh**, Hee-seung Kwon, and Hyo-Jeong So.<br>*[Hidden UI: Projection-based Augmented Reality for Map Navigation on Multi-touch Tabletop](https://doi.org/10.1145/2659766.2661228)*<br>**ACM SUI WIP 2014**
+* **Seungjae Oh**, Heejin Kim, and Min K. Chung.<br>*[Understanding of Spatial Gestural Motor Space: a Study on Cursorless Absolute Freehand Pointing on Large Displays](https://doi.org/10.1109/3DUI.2014.6798873)* <br>**IEEE 3DUI POSTER 2014**
 
 
 #### Patents
