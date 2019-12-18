@@ -6,26 +6,26 @@ title = "About"
 #### Publications
 
 ##### Peer-reviewed Conference Paper and Journal Article
-* Jinsoo Kim<sup>*</sup>, **Seungjae Oh**<sup>*</sup>, Chaeyong Park, and Seungmoon Choi. 2020.<br/>Tactile Rendering of Body Penetrating Phantom Sensations (**ACM CHI**; Co-first Author<sup>*</sup>). 
-* **Seungjae Oh** and Seungmoon Choi. 2019. *[Effects of Contact Force and Vibration Frequency on Vibrotactile Sensitivity During Active Touch](https://doi.org/10.1109/TOH.2019.2929521)* (**IEEE Transactions on Haptics, Early Access**). 
-* Chaeyong Park, Jaeyoung Park, **Seungjae Oh**, and Seungmoon Choi. 2019. *[Realistic Haptic Rendering of Collision Effects Using Multimodal Vibrotactile and Impact Feedback](https://doi.org/10.1109/WHC.2019.8816116)* (**IEEE World Haptics**, **Candidate for the Best Paper Award**). 
-* Gyeore Yun, **Seungjae Oh**, and Seungmoon Choi. 2019. /*[Seamless Phantom Sensation Moving across a Wide Range of Body](https://doi.org/10.1109/WHC.2019.8816104)* (**IEEE World Haptics**).
-* **Seungjae Oh**, Gyeore Yun, Chaeyong Park, Jinsoo Kim, and Seungmoon Choi. 2019. *[VibEye: Vibration-Mediated Object Recognition for Tangible Interactive Applications](https://doi.org/10.1145/3290605.3300906)* (**ACM CHI**).
-* Heejin Kim, **Seungjae Oh**, Sung H. Han, Min K. Chung. 2019. <br>*[Motion–Display Gain: A New Control–Display Mapping Reflecting Natural Human Pointing Gesture to Enhance Interaction with Large Displays at a Distance](https://doi.org/10.1080/10447318.2018.1447422)* (**International Journal of Human-Computer Interaction**).
-* **Seungjae Oh**, Hyo-Jeong So, and Matthew Gaydos. 2018. *[Hybrid Augmented Reality for Participatory Learning: The Hidden Efficacy of Multi-User Game-Based Simulation](https://doi.org/10.1109/TLT.2017.2750673)* (**IEEE Transactions on Learning Technologies**). 
-* Sei-Young Kim, Hyo-Jeong So, Soonmo Kwon, **Seungjae Oh**, Kyudong Park, Minjin Ko, Jaewon Yoo, Gyuhwan Oh. 2015. *[Towards Designing a Mobile Social Learning Application with Meaningful Gamification Strategies](https://doi.org/10.1109/ICALT.2015.23)* (**IEEE ICALT**).
-* Kyudong Park, **Seungjae Oh**, Heung-Chang Lee, and Hyo-Jeong So. 2014. *[Dynamic Feedback Mechanism for Maximizing Interaction in Online Social Network Services](https://doi.org/10.1109/ASONAM.2014.6921684)* (**IEEE/ACM ASONAM**).
+* Jinsoo Kim<sup>*</sup>, **Seungjae Oh**<sup>*</sup>, Chaeyong Park, and Seungmoon Choi. 2020.<br>Tactile Rendering of Body Penetrating Phantom Sensations (**ACM CHI 2020**; Co-first Author<sup>*</sup>). 
+* **Seungjae Oh** and Seungmoon Choi. 2019.<br>*[Effects of Contact Force and Vibration Frequency on Vibrotactile Sensitivity During Active Touch](https://doi.org/10.1109/TOH.2019.2929521)* (**IEEE Transactions on Haptics, Early Access**). 
+* Chaeyong Park, Jaeyoung Park, **Seungjae Oh**, and Seungmoon Choi. 2019.<br>*[Realistic Haptic Rendering of Collision Effects Using Multimodal Vibrotactile and Impact Feedback](https://doi.org/10.1109/WHC.2019.8816116)* (**IEEE World Haptics 2019**, **Candidate for the Best Paper Award**). 
+* Gyeore Yun, **Seungjae Oh**, and Seungmoon Choi. 2019.<br>*[Seamless Phantom Sensation Moving across a Wide Range of Body](https://doi.org/10.1109/WHC.2019.8816104)* (**IEEE World Haptics 2019**).
+* **Seungjae Oh**, Gyeore Yun, Chaeyong Park, Jinsoo Kim, and Seungmoon Choi. 2019.<br>*[VibEye: Vibration-Mediated Object Recognition for Tangible Interactive Applications](https://doi.org/10.1145/3290605.3300906)* (**ACM CHI 2019**).
+* Heejin Kim, **Seungjae Oh**, Sung H. Han, Min K. Chung. 2019.<br>*[Motion–Display Gain: A New Control–Display Mapping Reflecting Natural Human Pointing Gesture to Enhance Interaction with Large Displays at a Distance](https://doi.org/10.1080/10447318.2018.1447422)* (**International Journal of Human-Computer Interaction**).
+* **Seungjae Oh**, Hyo-Jeong So, and Matthew Gaydos. 2018.<br>*[Hybrid Augmented Reality for Participatory Learning: The Hidden Efficacy of Multi-User Game-Based Simulation](https://doi.org/10.1109/TLT.2017.2750673)* (**IEEE Transactions on Learning Technologies**). 
+* Sei-Young Kim, Hyo-Jeong So, Soonmo Kwon, **Seungjae Oh**, Kyudong Park, Minjin Ko, Jaewon Yoo, Gyuhwan Oh. 2015.<br>*[Towards Designing a Mobile Social Learning Application with Meaningful Gamification Strategies](https://doi.org/10.1109/ICALT.2015.23)* (**IEEE ICALT 2015**).
+* Kyudong Park, **Seungjae Oh**, Heung-Chang Lee, and Hyo-Jeong So. 2014. *[Dynamic Feedback Mechanism for Maximizing Interaction in Online Social Network Services](https://doi.org/10.1109/ASONAM.2014.6921684)* (**IEEE/ACM ASONAM 2014**).
 
 ##### Peer-reviewed Poster and Demonstration
-* **Seungjae Oh**, Chaeyong Park, Jinsoo Kim, Gyeore Yun,and Seungmoon Choi. 2019. *VibEye: A System for Identification of Hand-held Object by Visualizing Vibration Propagation Dynamics* (**IEEE World Haptics**).
-* Chaeyong Park, Jaeyoung Park, **Seungjae Oh**, and Seungmoon Choi. 2019. *Realistic Haptic Rendering of Collision Effects Using Multimodal Vibrotactile and Impact Feedback* (**IEEE World Haptics**). 
-* Gyeore Yun, **Seungjae Oh**, and Seungmoon Choi. 2019. *Seamless Phantom Sensation Moving across a Wide Range of Body* (**IEEE World Haptics**).
-* **Seungjae Oh**, Kyudong Park, Soonmo Kwon, and Hyo-Jeong So. 2016. *[Designing a Multi-user Interactive Simulation Using AR Glasses](https://doi.org/10.1145/2839462.2856521)* (**ACM TEI WIP**). 
-* Soonmo Kwon, **Seungjae Oh**, Kyudong Park, Sei-young Kim, and Hyo-Jeong So. 2015. *[Children as Participatory Designers of a New Type of Mobile Social Learning Application](https://doi.org/10.1145/2786567.2793712)* (**ACM MobileHCI WIP**). 
-* **Seungjae Oh**, Heejin Kim, and Hyo-Jeong So. 2014. *[Proposing a Classification Model for Perceptual Target Selection on Large Displays](https://doi.org/10.1145/2659766.2661216)* (**ACM SUI WIP**). 
-* Heejin Kim, **Seungjae Oh**, Sung H. Han, and Min K. Chung. 2014. *[Natural Pointing Posture in Distal Pointing tasks](https://doi.org/10.1145/2659766.2661213)* (**ACM SUI WIP, Best Poster Award**).
-* **Seungjae Oh**, Hee-seung Kwon, and Hyo-Jeong So. 2014. *[Hidden UI: Projection-based Augmented Reality for Map Navigation on Multi-touch Tabletop](https://doi.org/10.1145/2659766.2661228)* (**ACM SUI WIP**).
-* **Seungjae Oh**, Heejin Kim, and Min K. Chung. 2014. *[Understanding of Spatial Gestural Motor Space: a Study on Cursorless Absolute Freehand Pointing on Large Displays](https://doi.org/10.1109/3DUI.2014.6798873)* (**IEEE 3DUI POSTER**).
+* **Seungjae Oh**, Chaeyong Park, Jinsoo Kim, Gyeore Yun,and Seungmoon Choi. 2019.<br>*VibEye: A System for Identification of Hand-held Object by Visualizing Vibration Propagation Dynamics* (**IEEE World Haptics 2019**).
+* Chaeyong Park, Jaeyoung Park, **Seungjae Oh**, and Seungmoon Choi. 2019. *Realistic Haptic Rendering of Collision Effects Using Multimodal Vibrotactile and Impact Feedback* (**IEEE World Haptics 2019**). 
+* Gyeore Yun, **Seungjae Oh**, and Seungmoon Choi. 2019. *Seamless Phantom Sensation Moving across a Wide Range of Body* (**IEEE World Haptics 2019**).
+* **Seungjae Oh**, Kyudong Park, Soonmo Kwon, and Hyo-Jeong So. 2016. *[Designing a Multi-user Interactive Simulation Using AR Glasses](https://doi.org/10.1145/2839462.2856521)* (**ACM TEI WIP 2016**). 
+* Soonmo Kwon, **Seungjae Oh**, Kyudong Park, Sei-young Kim, and Hyo-Jeong So. 2015. *[Children as Participatory Designers of a New Type of Mobile Social Learning Application](https://doi.org/10.1145/2786567.2793712)* (**ACM MobileHCI WIP 2015**). 
+* **Seungjae Oh**, Heejin Kim, and Hyo-Jeong So. 2014. *[Proposing a Classification Model for Perceptual Target Selection on Large Displays](https://doi.org/10.1145/2659766.2661216)* (**ACM SUI WIP 2014**). 
+* Heejin Kim, **Seungjae Oh**, Sung H. Han, and Min K. Chung. 2014. *[Natural Pointing Posture in Distal Pointing tasks](https://doi.org/10.1145/2659766.2661213)* (**ACM SUI WIP 2014, Best Poster Award**).
+* **Seungjae Oh**, Hee-seung Kwon, and Hyo-Jeong So. 2014. *[Hidden UI: Projection-based Augmented Reality for Map Navigation on Multi-touch Tabletop](https://doi.org/10.1145/2659766.2661228)* (**ACM SUI WIP 2014**).
+* **Seungjae Oh**, Heejin Kim, and Min K. Chung. 2014. *[Understanding of Spatial Gestural Motor Space: a Study on Cursorless Absolute Freehand Pointing on Large Displays](https://doi.org/10.1109/3DUI.2014.6798873)* (**IEEE 3DUI POSTER 2014**).
 
 
 #### Patents
