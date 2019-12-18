@@ -70,7 +70,27 @@ title = "About"
 * [예술과 과학기술 결합해 만든 투표 독려 영상 화제](http://techm.kr/bbs/board.php?bo_table=article&wr_id=3903). Tech M. **2017.5**  
 * [포항시 중앙동 꿈틀로 ‘꿈틀로 스퀘어’ 작품 설치](http://www.kyongbuk.co.kr/news/articleView.html?idxno=1059262#09Sk). 경북일보. **2019.4** 
 
-#### Skill
+#### Technical Skills
 
+##### Experiment and Analysis
+* Human Experiment: Psychophysics & Perception, Human Performance, Quantitative, and Qualitative
+* Statistical Analysis: Parametric, Non-parametric, Regression, Dimension Reduction, Survey Anaylsis
+
+##### Data
+* Spectral Analysis, Signal Processing, and Machine Learning
+
+##### Hardware
+* Actuators: Shaker, Surface transducer, Voice coil, and ERM/LRA
+* Sensors: Load cell, Accelerometer, Force/Torque sensor, Microphone, and Contact Microphone
+* Data Acquisition: NI DAQ, Soundcard Real-time Processing, and Arduino
+* Virtual Reality: Oculus Rift, HTC Vive, Meta One, and Microsoft Hololens
+* Others: Iphone, Android, Optitrack Trio, Microsoft Kinect, Philips Hue & Bridge, Laser cutter, and 3D printer
+
+##### Software
+* Programming: Matlab, Python, Processing, Java, and C\#
+* Tools: R, Adobe Photoshop \& Illustrator, LaTex, and Microsoft Office
+
+
+      
 
 [1]: /img/seungjae.jpg
