@@ -14,7 +14,7 @@ title = "About"
 * Heejin Kim, **Seungjae Oh**, Sung H. Han, Min K. Chung.<br>*[Motion–Display Gain: A New Control–Display Mapping Reflecting Natural Human Pointing Gesture to Enhance Interaction with Large Displays at a Distance](https://doi.org/10.1080/10447318.2018.1447422)*<br>**International Journal of Human-Computer Interaction**
 * **Seungjae Oh**, Hyo-Jeong So, and Matthew Gaydos.<br>*[Hybrid Augmented Reality for Participatory Learning: The Hidden Efficacy of Multi-User Game-Based Simulation](https://doi.org/10.1109/TLT.2017.2750673)* <br>**IEEE Transactions on Learning Technologies** 
 * Sei-Young Kim, Hyo-Jeong So, Soonmo Kwon, **Seungjae Oh**, Kyudong Park, Minjin Ko, Jaewon Yoo, Gyuhwan Oh.<br>*[Towards Designing a Mobile Social Learning Application with Meaningful Gamification Strategies](https://doi.org/10.1109/ICALT.2015.23)*<br>**IEEE ICALT 2015**
-* Kyudong Park, **Seungjae Oh**, Heung-Chang Lee, and Hyo-Jeong So. 2014.<br>*[Dynamic Feedback Mechanism for Maximizing Interaction in Online Social Network Services](https://doi.org/10.1109/ASONAM.2014.6921684)* <br>**IEEE/ACM ASONAM 2014**
+* Kyudong Park, **Seungjae Oh**, Heung-Chang Lee, and Hyo-Jeong So.<br>*[Dynamic Feedback Mechanism for Maximizing Interaction in Online Social Network Services](https://doi.org/10.1109/ASONAM.2014.6921684)* <br>**IEEE/ACM ASONAM 2014**
 
 ##### Peer-reviewed Poster and Demonstration
 * **Seungjae Oh**, Chaeyong Park, Jinsoo Kim, Gyeore Yun,and Seungmoon Choi.<br>*VibEye: A System for Identification of Hand-held Object by Visualizing Vibration Propagation Dynamics*<br>**IEEE World Haptics Demo 2019**
@@ -31,9 +31,9 @@ title = "About"
 #### Patents
 
 ##### Domestic
-* Chaeyong Park, **Seungjae Oh**, and Seungmoon Choi. Application: 2019.12.6 <br>*APPARATUS AND METHOD FOR RENDERING TACTILE TO PROVIDE MULTIPLE SENSE*
-* **Seungjae Oh** and Seungmoon Choi. Application: 2019.11.29 <br>*OBJECT IDENTIFICATION APPARATUS AND METHOD, SYSTEM COMPRISING THE SAME*
-* Heejin Kim, **Seungjae Oh**, Sung H. Han, and Min K. Chung. Application: 2016.9.30. Publication: 2018.4.4. <br>*3D INTERACTION METHOD FOR DISPLAY*
+* Chaeyong Park, **Seungjae Oh**, and Seungmoon Choi.<br>*APPARATUS AND METHOD FOR RENDERING TACTILE TO PROVIDE MULTIPLE SENSE*<br>Application: 2019.12.6
+* **Seungjae Oh** and Seungmoon Choi. <br>*OBJECT IDENTIFICATION APPARATUS AND METHOD, SYSTEM COMPRISING THE SAME* <br>Application: 2019.11.29
+* Heejin Kim, **Seungjae Oh**, Sung H. Han, and Min K. Chung. <br>*3D INTERACTION METHOD FOR DISPLAY* <br>Application: 2016.9.30, Publication: 2018.4.4
 
 #### Education
 * Haptics and Virtual Reality Lab (Director: Seungmoon Choi), Pohang University of Science and Techonlogy. **2016.8 - present**
