@@ -23,7 +23,7 @@ title = "About"
 * **Seungjae Oh**, Kyudong Park, Soonmo Kwon, and Hyo-Jeong So.<br>*[Designing a Multi-user Interactive Simulation Using AR Glasses](https://doi.org/10.1145/2839462.2856521)*<br>**ACM TEI WIP 2016**
 * Soonmo Kwon, **Seungjae Oh**, Kyudong Park, Sei-young Kim, and Hyo-Jeong So.<br>*[Children as Participatory Designers of a New Type of Mobile Social Learning Application](https://doi.org/10.1145/2786567.2793712)*<br>**ACM MobileHCI WIP 2015**
 * **Seungjae Oh**, Heejin Kim, and Hyo-Jeong So.<br>*[Proposing a Classification Model for Perceptual Target Selection on Large Displays](https://doi.org/10.1145/2659766.2661216)*<br>**ACM SUI WIP 2014**
-* Heejin Kim, **Seungjae Oh**, Sung H. Han, and Min K. Chung.<br>*[Natural Pointing Posture in Distal Pointing tasks](https://doi.org/10.1145/2659766.2661213)*<br>**ACM SUI WIP 2014, Best Poster Award**
+* Heejin Kim, **Seungjae Oh**, Sung H. Han, and Min K. Chung.<br>*[Natural Pointing Posture in Distal Pointing tasks](https://doi.org/10.1145/2659766.2661213)*<br>**ACM SUI WIP 2014 (Best Poster Award)**
 * **Seungjae Oh**, Hee-seung Kwon, and Hyo-Jeong So.<br>*[Hidden UI: Projection-based Augmented Reality for Map Navigation on Multi-touch Tabletop](https://doi.org/10.1145/2659766.2661228)*<br>**ACM SUI WIP 2014**
 * **Seungjae Oh**, Heejin Kim, and Min K. Chung.<br>*[Understanding of Spatial Gestural Motor Space: a Study on Cursorless Absolute Freehand Pointing on Large Displays](https://doi.org/10.1109/3DUI.2014.6798873)* <br>**IEEE 3DUI POSTER 2014**
 
