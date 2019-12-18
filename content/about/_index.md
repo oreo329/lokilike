@@ -43,9 +43,9 @@ title = "About"
 ![This is me][1]
 
 #### Scholarships, Honors & Awards
-* Best Poster/Demo Award. Asian CHI Symposium (CHI 2019 Workshop), SIGCHI Japan Chapter. **2019**
-* Outstanding Presentation Award. 2019 Spring Academic Workshop, SIGCHI Korea Local Chapter. **2019**
-* Ranked top 250 out of 1000 selected applicants. Intel RealSense Application Challenge: IDEA Phase, Intel. **2014**
+* Best Poster/Demo Award. Asian CHI Symposium (CHI 2019 Workshop), SIGCHI Japan Chapter. **2019**<br>*VibEye: Vibration-Mediated Object Recognition for Tangible Interactive Applications*
+* Outstanding Presentation Award. 2019 Spring Academic Workshop, SIGCHI Korea Local Chapter. **2019**<br>*VibEye: Vibration-Mediated Object Recognition for Tangible Interactive Applications*
+* Ranked top 250 out of 1000 selected applicants. Intel RealSense Application Challenge: IDEA Phase, Intel. **2014**<br>*DisCo: A multi-agent collaborative discussion tool based on multimodal interaction*
 * Best Poster Award. ACM Symposium on Spatial User Interaction. **2013**
 * Graduate Scholarship. Kwanjeong Educational Foundation. **2012.3 - 2014.2**
 * Undergraduate Student Scholarship Program. Korea Foundation for Advanced Studies. **2010.3 - 2012.2**
@@ -69,6 +69,8 @@ title = "About"
 #### Media
 * [예술과 과학기술 결합해 만든 투표 독려 영상 화제](http://techm.kr/bbs/board.php?bo_table=article&wr_id=3903). Tech M. **2017.5**  
 * [포항시 중앙동 꿈틀로 ‘꿈틀로 스퀘어’ 작품 설치](http://www.kyongbuk.co.kr/news/articleView.html?idxno=1059262#09Sk). 경북일보. **2019.4** 
+
+#### Skill
 
 
 [1]: /img/seungjae.jpg
