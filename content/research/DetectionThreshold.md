@@ -7,18 +7,18 @@ title = "Vibrotactile Sensitivity+Pressure"
 weight = 1
 +++
 
-Effects of Contact Force and Vibration Frequency on Vibrotactile Sensitivity During Active Touch
+Effects of Contact Force and Vibration Frequency on Vibrotactile Sensitivity During Active Touch (IEEE Transactions on Haptics)
 <!--more-->
 
 >Humans require precise force control to execute fine manual tasks, which is generally facilitated to the great extent by providing adequate feedback. Currently, such dexterous manual tasks can be an input source of computing. To design appropriate vibrotactile stimuli for manual tasks, it is essential to quantify human vibrotactile sensitivity over a large range of contact forces. 
 
 >In this paper, we report the psychophysical detection thresholds for vibrotactile stimuli measured for five pressing forces that cover the range of forces encountered during ordinary manual tasks. The experimental results showed stark contrasts between stimulus frequencies, depending on actively exerted pressing force. The detection thresholds for 40 Hz stimuli first increased then decreased as the pressing force increased, but the detection thresholds for 250 Hz stimuli generally decreased as the force increased. These results have immediate consequences on the design of vibrotactile feedback for manual tasks in many applications of tangible interaction, tele-operation, and VR.
 
-* **Seungjae Oh** and Seungmoon Choi. 2019. *[Effects of Contact Force and Vibration Frequency on Vibrotactile Sensitivity During Active Touch](http://doi.org/10.1109/TOH.2019.2929521)* (**IEEE Transactions on Haptics, Early Access**). 
+* **Seungjae Oh** and Seungmoon Choi.<br>*[Effects of Contact Force and Vibration Frequency on Vibrotactile Sensitivity During Active Touch](https://doi.org/10.1109/TOH.2019.2929521)* <br>**IEEE Transactions on Haptics 12(4), 2019** 
 
-<!-- ![Experiment][1] -->
+![Experiment][1]
 ![Result][2]
 
 
-<!-- [1]: /img/research/dt-exp.jpg -->
+[1]: /img/research/dt-exp.jpg
 [2]: /img/research/dt-res.png

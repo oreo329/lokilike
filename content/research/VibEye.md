@@ -21,11 +21,11 @@ Vibration-Mediated Object Recognition for Tangible Interactive Applications
 <!-- {{< youtube id="zgzgOyxWXD8" autoplay="true">}} -->
 {{< youtube id="rH7KywQ0Z-8" autoplay="true">}}
 
-* **Seungjae Oh**, Gyeore Yun, Chaeyong Park, Jinsoo Kim, and Seungmoon Choi. 2019. *[VibEye: Vibration-Mediated Object Recognition for Tangible Interactive Applications](https://doi.org/10.1145/3290605.3300906)* (**ACM CHI**).
+* **Seungjae Oh**, Gyeore Yun, Chaeyong Park, Jinsoo Kim, and Seungmoon Choi.<br>*[VibEye: Vibration-Mediated Object Recognition for Tangible Interactive Applications](https://doi.org/10.1145/3290605.3300906)*<br>**ACM CHI 2019**
 * Link: https://doi.org/10.1145/3290605.3300906
 * [Video](https://www.dropbox.com/s/i200b19tz2vyj90/CameraReady_Video.mp4?dl=0) (overall) & [Video](https://www.youtube.com/watch?v=zgzgOyxWXD8&feature=youtu.be) (application)
 
-
+![Possibility][5]
 ![Application][3]
 ![Dataprocessing][2]
 ![HW][4]
@@ -50,3 +50,4 @@ When she reached the first hills of the Italic Mountains, she had a last view ba
 [2]: /img/research/vibeye-dataprocessing.png
 [3]: /img/research/vibeye-app.png
 [4]: /img/research/vibeye-hw.png
+[5]: /img/research/vibeye-possibility.png
