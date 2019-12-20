@@ -74,7 +74,7 @@ title = "About"
 
 ##### Experiment and Analysis
 * Human Experiment: Psychophysics & Perception, Human Performance, Quantitative, and Qualitative
-* Statistical Analysis: Comparison (Parametric & Non-parametric), Regression, Dimension Reduction, Survey Analysis
+* Statistical Analysis: Comparison (Parametric & Non-parametric), Regression, Dimension Reduction, and Survey Analysis
 
 ##### Data Analysis
 * Spectral Analysis, Signal Processing, and Machine Learning
@@ -87,7 +87,7 @@ title = "About"
 * Others: Iphone, Android, Optitrack Trio, Microsoft Kinect, Philips Hue & Bridge, Laser cutter, and 3D printer
 
 ##### Software (Expertise Level:0-10)
-* Programming: Matlab (9), Python(5), Processing (8), Java (3), and C\# (5)
+* Programming: Matlab (9), Python(5), Processing (8), Java (2), and C\# (5)
 * Tools: R (7), Adobe Photoshop (3) \& Illustrator (5), LaTex (6), and Microsoft Office (10)
 
 
