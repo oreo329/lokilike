@@ -7,7 +7,7 @@ title = "Vibrotactile Illusion"
 weight = 3
 +++
 
-Seamless Phantom Sensation Moving across a Wide Range of Body (IEEE World Haptics 2019)
+Seamless Phantom Sensation Moving across a Wide Range of Body<br>(IEEE World Haptics 2019)
 <!--more-->
 
 ![Basic][1]
@@ -18,11 +18,9 @@ Seamless Phantom Sensation Moving across a Wide Range of Body (IEEE World Haptic
 
 {{< youtube id="PTAj4zyKdYs" autoplay="true" >}}
 
-* Gyeore Yun, **Seungjae Oh**, and Seungmoon Choi. 2019. *Seamless Phantom Sensation Moving across a Wide Range of Body* (**IEEE World Haptics**).
+* Gyeore Yun, **Seungjae Oh**, and Seungmoon Choi.<br>*[Seamless Phantom Sensation Moving across a Wide Range of Body](https://doi.org/10.1109/WHC.2019.8816104)*<br>**IEEE World Haptics 2019**
 <!-- * Link: [Full Paper](https://doi.org/10.1109/WHC.2019.8816104) -->
 * Video: [Overall](https://youtu.be/PTAj4zyKdYs)
-
-
 
 ![Result][2]
 

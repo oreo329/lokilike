@@ -16,6 +16,7 @@ title = "I'm looking for postdoc opportunities"
 * Sei-Young Kim, Hyo-Jeong So, Soonmo Kwon, **Seungjae Oh**, Kyudong Park, Minjin Ko, Jaewon Yoo, Gyuhwan Oh.<br>*[Towards Designing a Mobile Social Learning Application with Meaningful Gamification Strategies](https://doi.org/10.1109/ICALT.2015.23)*<br>**IEEE ICALT 2015**
 * Kyudong Park, **Seungjae Oh**, Heung-Chang Lee, and Hyo-Jeong So.<br>*[Dynamic Feedback Mechanism for Maximizing Interaction in Online Social Network Services](https://doi.org/10.1109/ASONAM.2014.6921684)* <br>**IEEE/ACM ASONAM 2014**
 
+
 ##### Peer-reviewed Poster and Demonstration
 * **Seungjae Oh**, Chaeyong Park, Jinsoo Kim, Gyeore Yun,and Seungmoon Choi.<br>*[VibEye: A System for Identification of Hand-held Object by Visualizing Vibration Propagation Dynamics](https://doi.org/10.1145/3290605.3300906)*<br>**IEEE World Haptics Demo 2019**
 * Chaeyong Park, Jaeyoung Park, **Seungjae Oh**, and Seungmoon Choi.<br>*[Realistic Haptic Rendering of Collision Effects Using Multimodal Vibrotactile and Impact Feedback](https://doi.org/10.1109/WHC.2019.8816116)*<br>**IEEE World Haptics Demo 2019** 
@@ -34,6 +35,7 @@ title = "I'm looking for postdoc opportunities"
 * Chaeyong Park, **Seungjae Oh**, and Seungmoon Choi.<br>*APPARATUS AND METHOD FOR RENDERING TACTILE TO PROVIDE MULTIPLE SENSE*<br>Application: 2019.12.6
 * **Seungjae Oh** and Seungmoon Choi. <br>*OBJECT IDENTIFICATION APPARATUS AND METHOD, SYSTEM COMPRISING THE SAME* <br>Application: 2019.11.29
 * Heejin Kim, **Seungjae Oh**, Sung H. Han, and Min K. Chung. <br>*3D INTERACTION METHOD FOR DISPLAY* <br>Application: 2016.9.30; Publication: 2018.4.4
+
 
 #### Education
 * Haptics and Virtual Reality Lab (Director: Seungmoon Choi), Pohang University of Science and Techonlogy. **2016.8 - present**
@@ -62,13 +64,11 @@ title = "I'm looking for postdoc opportunities"
 * Reviewer. ACM CHI LBW. **2019**
 * Reviewer. ACM SIGGRAPH Asia Emerging Technologies. **2019**
 
+
 #### Activities
 * Student Volunteer. ACM International Conference on Tangible, Embedded, and Embodied Interaction. **2016.2**
 * Vice President. Young Engineers Honor Society (YEHS). **2010.1 - 2010.12**
 
-#### Media
-* [예술과 과학기술 결합해 만든 투표 독려 영상 화제](http://techm.kr/bbs/board.php?bo_table=article&wr_id=3903). Tech M. **2017.5**  
-* [포항시 중앙동 꿈틀로 ‘꿈틀로 스퀘어’ 작품 설치](http://www.kyongbuk.co.kr/news/articleView.html?idxno=1059262#09Sk). 경북일보. **2019.4** 
 
 #### Technical Skills
 
@@ -91,6 +91,9 @@ title = "I'm looking for postdoc opportunities"
 * Tools: R (7), Adobe Photoshop (3) \& Illustrator (5), LaTex (6), and Microsoft Office (10)
 
 
+#### Media
+* [예술과 과학기술 결합해 만든 투표 독려 영상 화제](http://techm.kr/bbs/board.php?bo_table=article&wr_id=3903). Tech M. **2017.5**  
+* [포항시 중앙동 꿈틀로 ‘꿈틀로 스퀘어’ 작품 설치](http://www.kyongbuk.co.kr/news/articleView.html?idxno=1059262#09Sk). 경북일보. **2019.4** 
       
 
 [1]: /img/seungjae.jpg

@@ -7,7 +7,7 @@ draft = false
 weight = 2
 +++
 
-Hybrid Augmented Reality for Participatory Learning: The Hidden Efficacy of Multi-User Game-Based Simulation (IEEE Transactions on Learning Technologies)
+Hybrid Augmented Reality for Participatory Learning: The Hidden Efficacy of Multi-User Game-Based Simulation<br>(IEEE Transactions on Learning Technologies)
 <!--more-->
 
 ![Teasor][1]
