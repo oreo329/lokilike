@@ -20,7 +20,7 @@ Tactile Phantom Sensations that Feel Like Penetrating Body (CHI 2020)
 
 *  Jinsoo Kim<sup>*</sup>, **Seungjae Oh**<sup>*</sup>, Chaeyong Park, and Seungmoon Choi.<br>Tactile Rendering of Body Penetrating Phantom Sensations<br>**ACM CHI 2020 (Co-first Author<sup>*</sup>)** 
 * Link: To appear
-* [Video](https://www.dropbox.com/s/rmd73wrbs0gx88q/CHI2020_Submission_Video.mp4?dl=0) (overall) 
+* Video: [Overall](https://www.dropbox.com/s/rmd73wrbs0gx88q/CHI2020_Submission_Video.mp4?dl=0) 
 
 ![Apparatus][2]
 ![Result][3]

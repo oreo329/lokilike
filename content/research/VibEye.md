@@ -7,7 +7,7 @@ draft = false
 weight = 1
 +++
 
-Vibration-Mediated Object Recognition for Tangible Interactive Applications
+Vibration-Mediated Object Recognition for Tangible Interactive Applications (CHI 2019)
 <!--more-->
 
 ![Teasor][1]
@@ -22,8 +22,8 @@ Vibration-Mediated Object Recognition for Tangible Interactive Applications
 {{< youtube id="rH7KywQ0Z-8" autoplay="true">}}
 
 * **Seungjae Oh**, Gyeore Yun, Chaeyong Park, Jinsoo Kim, and Seungmoon Choi.<br>*[VibEye: Vibration-Mediated Object Recognition for Tangible Interactive Applications](https://doi.org/10.1145/3290605.3300906)*<br>**ACM CHI 2019**
-* Link: https://doi.org/10.1145/3290605.3300906
-* [Video](https://www.dropbox.com/s/i200b19tz2vyj90/CameraReady_Video.mp4?dl=0) (overall) & [Video](https://www.youtube.com/watch?v=zgzgOyxWXD8&feature=youtu.be) (application)
+* Link: [Acm DL](https://doi.org/10.1145/3290605.3300906)
+* Video: [Overall](https://www.dropbox.com/s/i200b19tz2vyj90/CameraReady_Video.mp4?dl=0) & [Application](https://www.youtube.com/watch?v=zgzgOyxWXD8&feature=youtu.be)
 
 ![Possibility][5]
 ![Application][3]
