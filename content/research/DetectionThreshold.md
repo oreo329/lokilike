@@ -7,8 +7,10 @@ title = "Vibrotactile Sensitivity+Pressure"
 weight = 1
 +++
 
-Effects of Contact Force and Vibration Frequency on Vibrotactile Sensitivity During Active Touch (IEEE Transactions on Haptics)
+Effects of Contact Force and Vibration Frequency on Vibrotactile Sensitivity During Active Touch<br>(IEEE Transactions on Haptics)
 <!--more-->
+
+![Experiment][1]
 
 >Humans require precise force control to execute fine manual tasks, which is generally facilitated to the great extent by providing adequate feedback. Currently, such dexterous manual tasks can be an input source of computing. To design appropriate vibrotactile stimuli for manual tasks, it is essential to quantify human vibrotactile sensitivity over a large range of contact forces. 
 
@@ -17,7 +19,6 @@ Effects of Contact Force and Vibration Frequency on Vibrotactile Sensitivity Dur
 * **Seungjae Oh** and Seungmoon Choi.<br>*[Effects of Contact Force and Vibration Frequency on Vibrotactile Sensitivity During Active Touch](https://doi.org/10.1109/TOH.2019.2929521)* <br>**IEEE Transactions on Haptics 12(4), 2019** 
 <!-- * Link: [Full Paper](https://doi.org/10.1109/TOH.2019.2929521) -->
 
-![Experiment][1]
 ![Result][2]
 
 
