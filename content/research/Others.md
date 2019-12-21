@@ -7,24 +7,26 @@ title = "Others"
 weight = 4
 +++
 
-Gamification, Participatory Design, Augmented Reality, Social Media
+Gamification, Participatory Design, Augmented Reality, and Social Media
 <!--more-->
 
-* **Seungjae Oh**, Hee-seung Kwon, Hyo-Jeong So. 2014. *[Hidden UI: projection-based augmented reality for map navigation on multi-touch tabletop](https://doi.org/10.1145/2659766.2661228)* (**ACM SUI WIP**).
+* **ACM SUI WIP 2014**<br>**Seungjae Oh**, Hee-seung Kwon, and Hyo-Jeong So.<br>*[Hidden UI: Projection-based Augmented Reality for Map Navigation on Multi-touch Tabletop](https://doi.org/10.1145/2659766.2661228)*
+
 
 ![Hidden][1]
 ![Hidden][2]
 
-* Kyudong Park, **Seungjae Oh**, Heung-Chang Lee, Hyo-Jeong So. 2014. *[Dynamic feedback mechanism for maximizing interaction in online social network services](https://doi.org/10.1109/ASONAM.2014.6921684)* (**IEEE/ACM ASONAM**).
+* **IEEE/ACM ASONAM 2014**<br>Kyudong Park, **Seungjae Oh**, Heung-Chang Lee, and Hyo-Jeong So.<br>*[Dynamic Feedback Mechanism for Maximizing Interaction in Online Social Network Services](https://doi.org/10.1109/ASONAM.2014.6921684)* 
+
 
 ![Social][3]
 
-* Sei-Young Kim, Hyo-Jeong So, Soonmo Kwon, **Seungjae Oh**, Kyudong Park, Minjin Ko, Jaewon Yoo, Gyuhwan Oh. 2015. *[Towards Designing a Mobile Social Learning Application with Meaningful Gamification Strategies](https://doi.org/10.1109/ICALT.2015.23)* (**IEEE ICALT**).
+* **IEEE ICALT 2015**<br>Sei-Young Kim, Hyo-Jeong So, Soonmo Kwon, **Seungjae Oh**, Kyudong Park, Minjin Ko, Jaewon Yoo, Gyuhwan Oh.<br>*[Towards Designing a Mobile Social Learning Application with Meaningful Gamification Strategies](https://doi.org/10.1109/ICALT.2015.23)*
 
 ![Gamification][4]
 
 
-* Soonmo Kwon, **Seungjae Oh**, Kyudong Park, Sei-young Kim, Hyo-Jeong So. 2015. *[Children as Participatory Designers of a New Type of Mobile Social Learning Application](https://doi.org/10.1145/2786567.2793712)* (**ACM MobileHCI WIP**). 
+* **ACM MobileHCI WIP 2015**<br>Soonmo Kwon, **Seungjae Oh**, Kyudong Park, Sei-young Kim, and Hyo-Jeong So.<br>*[Children as Participatory Designers of a New Type of Mobile Social Learning Application](https://doi.org/10.1145/2786567.2793712)*
 
 ![Paricipatory][5]
 
