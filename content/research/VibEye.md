@@ -25,7 +25,7 @@ Vibration-Mediated Object Recognition for Tangible Interactive Applications<br>(
 * **IEEE World Haptics Demo 2019**<br>**Seungjae Oh**, Chaeyong Park, Jinsoo Kim, Gyeore Yun,and Seungmoon Choi.<br>*[VibEye: A System for Identification of Hand-held Object by Visualizing Vibration Propagation Dynamics](https://doi.org/10.1145/3290605.3300906)*
 * **Domestic Patent**<br>**Seungjae Oh** and Seungmoon Choi. <br>*OBJECT IDENTIFICATION APPARATUS AND METHOD, SYSTEM COMPRISING THE SAME* <br>Application: 2019.11.29
 <!-- * Link: [Full Paper](https://doi.org/10.1145/3290605.3300906) -->
-* Video: [Overall](https://www.dropbox.com/s/i200b19tz2vyj90/CameraReady_Video.mp4?dl=0) & [Application](https://www.youtube.com/watch?v=zgzgOyxWXD8&feature=youtu.be)
+* Video: [Overall](https://www.youtube.com/watch?v=yOi4Mv8VzTA) & [Application](https://www.youtube.com/watch?v=zgzgOyxWXD8&feature=youtu.be)
 
 ![Possibility][5]
 ![Application][3]

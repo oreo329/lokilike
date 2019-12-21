@@ -18,7 +18,7 @@ Seamless Phantom Sensation Moving across a Wide Range of Body<br>(IEEE World Hap
 
 {{< youtube id="PTAj4zyKdYs" autoplay="true" >}}
 
-* Gyeore Yun, **Seungjae Oh**, and Seungmoon Choi.<br>*[Seamless Phantom Sensation Moving across a Wide Range of Body](https://doi.org/10.1109/WHC.2019.8816104)*<br>**IEEE World Haptics 2019**
+* **IEEE World Haptics 2019**<br>Gyeore Yun, **Seungjae Oh**, and Seungmoon Choi.<br>*[Seamless Phantom Sensation Moving across a Wide Range of Body](https://doi.org/10.1109/WHC.2019.8816104)*
 <!-- * Link: [Full Paper](https://doi.org/10.1109/WHC.2019.8816104) -->
 * Video: [Overall](https://youtu.be/PTAj4zyKdYs)
 
