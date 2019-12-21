@@ -18,11 +18,12 @@ A Series of Research on 3D Interaction around Large Displays<br>(Interational Jo
 
 ![Result][4]
 
-* Heejin Kim, **Seungjae Oh**, Sung H. Han, Min K. Chung.<br>*[Motion–Display Gain: A New Control–Display Mapping Reflecting Natural Human Pointing Gesture to Enhance Interaction with Large Displays at a Distance](https://doi.org/10.1080/10447318.2018.1447422)*<br>**International Journal of Human-Computer Interaction 35(2), 2019**
-* Heejin Kim, **Seungjae Oh**, Sung H. Han, and Min K. Chung. <br>*3D INTERACTION METHOD FOR DISPLAY* <br>Application: 2016.9.30; Publication: 2018.4.4
-* **Seungjae Oh**, Heejin Kim, and Hyo-Jeong So.<br>*[Proposing a Classification Model for Perceptual Target Selection on Large Displays](https://doi.org/10.1145/2659766.2661216)*<br>**ACM SUI WIP 2014**
-* Heejin Kim, **Seungjae Oh**, Sung H. Han, and Min K. Chung.<br>*[Natural Pointing Posture in Distal Pointing tasks](https://doi.org/10.1145/2659766.2661213)*<br>**ACM SUI WIP 2014 (Best Poster Award)**
-* **Seungjae Oh**, Heejin Kim, and Min K. Chung.<br>*[Understanding of Spatial Gestural Motor Space: a Study on Cursorless Absolute Freehand Pointing on Large Displays](https://doi.org/10.1109/3DUI.2014.6798873)* <br>**IEEE 3DUI POSTER 2014**
+* **International Journal of Human-Computer Interaction 35(2), 2019**<br> Heejin Kim, **Seungjae Oh**, Sung H. Han, Min K. Chung.<br>*[Motion–Display Gain: A New Control–Display Mapping Reflecting Natural Human Pointing Gesture to Enhance Interaction with Large Displays at a Distance](https://doi.org/10.1080/10447318.2018.1447422)*
+* **ACM SUI WIP 2014**<br>**Seungjae Oh**, Heejin Kim, and Hyo-Jeong So.<br>*[Proposing a Classification Model for Perceptual Target Selection on Large Displays](https://doi.org/10.1145/2659766.2661216)*
+* **ACM SUI WIP 2014 (Best Poster Award)**<br>Heejin Kim, **Seungjae Oh**, Sung H. Han, and Min K. Chung.<br>*[Natural Pointing Posture in Distal Pointing tasks](https://doi.org/10.1145/2659766.2661213)*
+* **IEEE 3DUI POSTER 2014**<br>**Seungjae Oh**, Heejin Kim, and Min K. Chung.<br>*[Understanding of Spatial Gestural Motor Space: a Study on Cursorless Absolute Freehand Pointing on Large Displays](https://doi.org/10.1109/3DUI.2014.6798873)*
+* **Domestic Patent**<br>Heejin Kim, **Seungjae Oh**, Sung H. Han, and Min K. Chung. <br>*3D INTERACTION METHOD FOR DISPLAY* <br>Application: 2016.9.30; Publication: 2018.4.4
+
 
 ![Teasor][1]
 ![Result][2]

@@ -7,7 +7,7 @@ title = "Vibration+Impact"
 weight = 3
 +++
 
-Realistic Haptic Rendering of Collision Effects Using Multimodal Vibrotactile and Impact Feedback (IEEE World Haptics 2019)
+Realistic Haptic Rendering of Collision Effects Using Multimodal Vibrotactile and Impact Feedback<br> (IEEE World Haptics 2019)
 <!--more-->
 
 ![Main][1]
@@ -16,9 +16,9 @@ Realistic Haptic Rendering of Collision Effects Using Multimodal Vibrotactile an
 
 {{< youtube id="wjVvP031OLE" autoplay="true" >}}
 
-* Chaeyong Park, Jaeyoung Park, **Seungjae Oh**, and Seungmoon Choi. <br>*[Realistic Haptic Rendering of Collision Effects Using Multimodal Vibrotactile and Impact Feedback](https://doi.org/10.1109/WHC.2019.8816116)* <br>**IEEE World Haptics 2019 (Candidate for the Best Paper Award)** 
-* Chaeyong Park, Jaeyoung Park, **Seungjae Oh**, and Seungmoon Choi.<br>*[Realistic Haptic Rendering of Collision Effects Using Multimodal Vibrotactile and Impact Feedback](https://doi.org/10.1109/WHC.2019.8816116)*<br>**IEEE World Haptics Demo 2019** 
-* Chaeyong Park, **Seungjae Oh**, and Seungmoon Choi.<br>*APPARATUS AND METHOD FOR RENDERING TACTILE TO PROVIDE MULTIPLE SENSE*<br>Application: 2019.12.6
+* **IEEE World Haptics 2019 (Candidate for the Best Paper Award)**<br>Chaeyong Park, Jaeyoung Park, **Seungjae Oh**, and Seungmoon Choi. <br>*[Realistic Haptic Rendering of Collision Effects Using Multimodal Vibrotactile and Impact Feedback](https://doi.org/10.1109/WHC.2019.8816116)* 
+* **IEEE World Haptics Demo 2019**<br>Chaeyong Park, Jaeyoung Park, **Seungjae Oh**, and Seungmoon Choi.<br>*[Realistic Haptic Rendering of Collision Effects Using Multimodal Vibrotactile and Impact Feedback](https://doi.org/10.1109/WHC.2019.8816116)*
+* **Domestic Patent**<br>Chaeyong Park, **Seungjae Oh**, and Seungmoon Choi.<br>*APPARATUS AND METHOD FOR RENDERING TACTILE TO PROVIDE MULTIPLE SENSE*<br>Application: 2019.12.6
 <!-- * Link: [Full Paper](https://doi.org/10.1109/WHC.2019.8816116) -->
 * Video: [Overall](https://youtu.be/wjVvP031OLE)
 
