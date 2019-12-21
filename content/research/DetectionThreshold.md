@@ -25,4 +25,4 @@ Effects of Contact Force and Vibration Frequency on Vibrotactile Sensitivity Dur
 
 [1]: /img/research/dt-exp.jpg
 [2]: /img/research/dt-res.png
-[2]: /img/research/dt-hw.png
+[3]: /img/research/dt-hw.png
