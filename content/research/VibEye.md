@@ -7,7 +7,7 @@ draft = false
 weight = 1
 +++
 
-Vibration-Mediated Object Recognition for Tangible Interactive Applications (CHI 2019)
+Vibration-Mediated Object Recognition for Tangible Interactive Applications<br>(CHI 2019)
 <!--more-->
 
 ![Teasor][1]
