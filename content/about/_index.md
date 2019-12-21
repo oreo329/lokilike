@@ -18,9 +18,9 @@ title = "I'm looking for postdoc opportunities"
 
 
 ##### Peer-reviewed Poster and Demonstration
-* **Seungjae Oh**, Chaeyong Park, Jinsoo Kim, Gyeore Yun,and Seungmoon Choi.<br>*[VibEye: A System for Identification of Hand-held Object by Visualizing Vibration Propagation Dynamics](https://doi.org/10.1145/3290605.3300906)*<br>**IEEE World Haptics Demo 2019**
-* Chaeyong Park, Jaeyoung Park, **Seungjae Oh**, and Seungmoon Choi.<br>*[Realistic Haptic Rendering of Collision Effects Using Multimodal Vibrotactile and Impact Feedback](https://doi.org/10.1109/WHC.2019.8816116)*<br>**IEEE World Haptics Demo 2019** 
-* Gyeore Yun, **Seungjae Oh**, and Seungmoon Choi.<br>*[Seamless Phantom Sensation Moving across a Wide Range of Body](https://doi.org/10.1109/WHC.2019.8816104)*<br>**IEEE World Haptics Demo 2019**
+* **Seungjae Oh**, Chaeyong Park, Jinsoo Kim, Gyeore Yun,and Seungmoon Choi.<br>*[VibEye: A System for Identification of Hand-held Object by Visualizing Vibration Propagation Dynamics](https://youtu.be/UFgp7A1IK7o?t=53)*<br>**IEEE World Haptics Demo 2019**
+* Chaeyong Park, Jaeyoung Park, **Seungjae Oh**, and Seungmoon Choi.<br>*[Realistic Haptic Rendering of Collision Effects Using Multimodal Vibrotactile and Impact Feedback](https://youtu.be/UFgp7A1IK7o?t=61)*<br>**IEEE World Haptics Demo 2019** 
+* Gyeore Yun, **Seungjae Oh**, and Seungmoon Choi.<br>*[Seamless Phantom Sensation Moving across a Wide Range of Body](https://youtu.be/UFgp7A1IK7o?t=141)*<br>**IEEE World Haptics Demo 2019**
 * **Seungjae Oh**, Kyudong Park, Soonmo Kwon, and Hyo-Jeong So.<br>*[Designing a Multi-user Interactive Simulation Using AR Glasses](https://doi.org/10.1145/2839462.2856521)*<br>**ACM TEI WIP 2016**
 * Soonmo Kwon, **Seungjae Oh**, Kyudong Park, Sei-young Kim, and Hyo-Jeong So.<br>*[Children as Participatory Designers of a New Type of Mobile Social Learning Application](https://doi.org/10.1145/2786567.2793712)*<br>**ACM MobileHCI WIP 2015**
 * **Seungjae Oh**, Heejin Kim, and Hyo-Jeong So.<br>*[Proposing a Classification Model for Perceptual Target Selection on Large Displays](https://doi.org/10.1145/2659766.2661216)*<br>**ACM SUI WIP 2014**
