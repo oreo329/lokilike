@@ -65,11 +65,6 @@ title = "I'm looking for postdoc opportunities"
 * Reviewer. ACM SIGGRAPH Asia Emerging Technologies. **2019**
 
 
-#### Activities
-* Student Volunteer. ACM International Conference on Tangible, Embedded, and Embodied Interaction. **2016.2**
-* Vice President. Young Engineers Honor Society (YEHS). **2010.1 - 2010.12**
-
-
 #### Technical Skills
 
 ##### Experiment and Analysis
@@ -90,6 +85,9 @@ title = "I'm looking for postdoc opportunities"
 * Programming: Matlab (9), Python(5), Processing (7), Java (2), and C\# (5)
 * Tools: R (7), Adobe Photoshop (3) \& Illustrator (5), LaTex (6), and Microsoft Office (10)
 
+#### Activities
+* Student Volunteer. ACM International Conference on Tangible, Embedded, and Embodied Interaction. **2016.2**
+* Vice President. Young Engineers Honor Society (YEHS). **2010.1 - 2010.12**
 
 #### Media
 * [예술과 과학기술 결합해 만든 투표 독려 영상 화제](http://techm.kr/bbs/board.php?bo_table=article&wr_id=3903). Tech M. **2017.5**  
