@@ -10,7 +10,7 @@ weight = 3
 Realistic Haptic Rendering of Collision Effects Using Multimodal Vibrotactile and Impact Feedback<br> (IEEE World Haptics 2019)
 <!--more-->
 
-![Main][1]
+![HW][2]
 
 > This paper addresses the potential benefits of multimodal haptic feedback combining vibrotactile and impact stimuli for the target domain of virtual collision simulation. In this hybrid approach, we complement the limitation of each modality with the advantage of the other modality. We present the design of a hybrid device including both vibration and impact actuators and a physics-based rendering method for realistic collision simulation. We also report a user study carried out to comparatively assess the subjective quality of haptic collision rendering using vibration only, impact only, and multimodal (vibration + impact) stimuli. Experimental results demonstrate that our multimodal approach can contribute to critically expanding the dynamic range of virtual collision simulation, especially between highly stiff objects.
 
@@ -22,7 +22,8 @@ Realistic Haptic Rendering of Collision Effects Using Multimodal Vibrotactile an
 <!-- * Link: [Full Paper](https://doi.org/10.1109/WHC.2019.8816116) -->
 * Video: [Overall](https://youtu.be/wjVvP031OLE)
 
-![HW][2]
+
+![Main][1]
 ![Result][3]
 
 [1]: /img/research/mm-main.png
