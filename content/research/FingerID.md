@@ -19,9 +19,10 @@ Recognizing Contact Finger(s) on Rigid Surfaces by Augmenting fingers with Vibra
 <!-- * Link: To appear
 * Video: [Overall](https://www.dropbox.com/s/rmd73wrbs0gx88q/CHI2020_Submission_Video.mp4?dl=0)  -->
 
-![Signal][2]
-
+![SignalTime][2]
+![SignalFreq][3]
 
 [1]: /img/research/fid-tablet.png
-[2]: /img/research/fid-recsample.png
+[2]: /img/research/fid-recsampletime.png
+[3]: /img/research/fid-recsamplefreq.png
 
