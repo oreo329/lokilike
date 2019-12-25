@@ -10,7 +10,7 @@ weight = 3
 Seamless Phantom Sensation Moving across a Wide Range of Body<br>(IEEE World Haptics 2019)
 <!--more-->
 
-![Basic][1]
+![overview][1]
 
 #### Abstract
 >This paper reports experimental research aimed to provide seamlessly moving illusory tactile sensations across a large area of the body using a few vibration actuators. The human vibrotactile sensitivity differences among the body sites are calibrated using empirically-measured psychophysical magnitude functions. 
@@ -26,15 +26,32 @@ Seamless Phantom Sensation Moving across a Wide Range of Body<br>(IEEE World Hap
 * Video: [Overall](https://youtu.be/PTAj4zyKdYs)
 
 #### Figure
+
+![pi][7]
+The results of the magnitude estimation experiment about vibration at four different body sites (Exp 1). The four psychophysical curves were fitted according to Steven's power law. Each curve represents the relationship between the amplitudes of physical stimulus and their perceived intensity.
+
+![lin][3]
+![log][4]
+![pilin][5]
+![pinorm][6]
+Four rendering methods for phantom sensations. The first two are common rendering functions for phantom sensations, and the latter two are compensated by the results of the magnitude estimation experiment.
+
 ![Result][2]
+The percieved qualities of phantom sensations with respect to the rendering methods and durations (Short: 0.75 s; Middle: 1.5 s; Long: 2 s).
 
 #### Conclusion
 >The work reported in this paper aimed to design a rendering method for dynamic phantom sensations that deliver realistic illusory tactile sensations moving across a wide range of the body, from the thigh to the upper back, with a few actuators. In order to compensate for the sensitivity differences across the body, we measured in Exp. I four psychophysical magnitude functions of vibrotactile stimuli at the four body sites of thigh, waist, hip, and upper back. Then we designed a new phantom sensation rendering method that uses the Gaussian function in the profile of perceived
 intensity to support smoother transitions at even actuator locations. Our method was evaluated in Exp. II along with three other previous rendering methods. Results indicated that our method provides illusory motion of the best quality in terms of the spatial continuity of movement and the temporal consistency of intensity. Our findings can contribute to appropriate designs of tactile displays and rendering algorithms stimulating the body in a long distance.
 
+#### Contribution
 * Gyeore Yun: Idea, Implementation (HW&SW), Experiment, Experimental Design and Analysis, Graphics, and Video 
-* Seungjae Oh: Idea, Ideation and Experimental Design
+* Seungjae Oh: Idea, Ideation, and Experimental Design
 * Seungmoon Choi: Director
 
-[1]: /img/research/phantom-basic.png
+[1]: /img/research/phantom-config.png
 [2]: /img/research/phantom-res.png
+[7]: /img/research/phantom-pi.png
+[3]: /img/research/phantom-profilelinear.png
+[4]: /img/research/phantom-profilelog.png
+[5]: /img/research/phantom-profilepilinear.png
+[6]: /img/research/phantom-profilepinormal.png
