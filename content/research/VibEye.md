@@ -12,6 +12,7 @@ Vibration-Mediated Object Recognition for Tangible Interactive Applications<br>(
 
 ![Teasor][1]
 
+#### Abstract
 > We present VibEye: a vibration-mediated recognition system of objects for tangible interaction. A user holds an object between two fingers wearing VibEye. VibEye triggers a vibration from one finger, and the vibration that has propagated through the object is sensed at the other finger. This vibration includes information about the object’s identity, and we represent it using a spectrogram. 
 
 > Collecting the spectrograms of many objects, we formulate the object recognition problem to a classical classification problem among the images. This simple method, when tested with 20 users, shows 92.5% accuracy for 16 objects of the same shape with various materials. This material-based classifier is also extended to the recognition of everyday objects. 
@@ -21,35 +22,35 @@ Vibration-Mediated Object Recognition for Tangible Interactive Applications<br>(
 <!-- {{< youtube id="zgzgOyxWXD8" autoplay="true">}} -->
 {{< youtube id="rH7KywQ0Z-8" autoplay="true">}}
 
+#### Publication
 * **ACM CHI 2019**<br>**Seungjae Oh**, Gyeore Yun, Chaeyong Park, Jinsoo Kim, and Seungmoon Choi.<br>*[VibEye: Vibration-Mediated Object Recognition for Tangible Interactive Applications](https://doi.org/10.1145/3290605.3300906)*
 * **IEEE World Haptics Demo 2019**<br>**Seungjae Oh**, Chaeyong Park, Jinsoo Kim, Gyeore Yun,and Seungmoon Choi.<br>*[VibEye: A System for Identification of Hand-held Object by Visualizing Vibration Propagation Dynamics](https://youtu.be/UFgp7A1IK7o?t=53)*
 * **Domestic Patent**<br>**Seungjae Oh** and Seungmoon Choi. <br>*OBJECT IDENTIFICATION APPARATUS AND METHOD, SYSTEM COMPRISING THE SAME* <br>Application: 2019.11.29
 <!-- * Link: [Full Paper](https://doi.org/10.1145/3290605.3300906) -->
 * Video: [Overall](https://www.youtube.com/watch?v=yOi4Mv8VzTA) & [Application](https://www.youtube.com/watch?v=zgzgOyxWXD8&feature=youtu.be)
 
-![Possibility][5]
+#### Figures
 ![Application][3]
-![Dataprocessing][2]
+
 ![HW][4]
+Hardware design of VibEye.
 
-<!-- 1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+![Dataprocessing][2]
+The overview of computational procedure for signal processing and object recognition.
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+![SampleSTFT][6]
+Spectrograms of 16 standard objects. Objects are marked with material properties(R:rigid, E:elastic, V:viscous, P:plastic, and S:stacked). 
 
-## Header Level 2
+![Possibility][5]
+The further sensing possibiliteis of VibEye. The four sets of everyday objects and their PCA results (20 rep. each):(A) Liquid body products in soft tubes, (B) Candies in hard containers, (C) Stacked papers, and (D) A spray bottle.
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then   -->
+#### Conclusion
+>	In this work, we have presented a system for vibration-mediated object recognition. VibEye is simple: its hardware requires only a vibration emitter and a sensor, and its software processes the data using well-defined image-based methods. Essentially, VibEye transforms the object recognition problem to an image classification problem. We have validated the effectiveness of VibEye in several ways, using the cross-validation results for the standard objects of the same shape but different materials, and recognition performance for other users' data and other unseen various everyday objects' data. We envision tightly-coupled virtual and real environments that are seamlessly controlled by tangible objects. We hope that the concepts embodied by VibEye could pave the way.
 
 [1]: /img/research/vibeye-teaser.png
 [2]: /img/research/vibeye-dataprocessing.png
 [3]: /img/research/vibeye-app.png
 [4]: /img/research/vibeye-hw.png
 [5]: /img/research/vibeye-possibility.png
+[6]: /img/research/vibeye-stft.png
