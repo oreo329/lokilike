@@ -26,10 +26,10 @@ Realistic Haptic Rendering of Collision Effects Using Multimodal Vibrotactile an
 
 #### Figure
 ![Main][1]
-Schematic description of our multimodal haptic rendering device.
+Schematic description of our multimodal haptic device.
 
 ![Result][3]
-Accelerometer recordings of our multimodal haptic rendering device.
+Accelerometer recordings of our multimodal haptic device.
 
 #### Conclusion
 >In this paper, we have addressed the idea of combining vibrotactile and impact feedback to improve the realism of virtual contact represented by haptic stimuli. A design of simple hardware for such multimodal feedback is presented, as well as the software based on a physics engine for the rendering of realistic collisions. We also report the methods and results of a user study comparing the perceptual qualities of three different types of haptic feedback: vibration only, impact only, and multimodal. Experimental results advocate the use of impact feedback in conjunction with more popular vibrotactile feedback; it can fundamentally enlarge the class of the virtual objects whose contact sensations can be rendered with high realism. For future work, we consider sophisticating our multimodal rendering hardware and software and then applying it to the handheld controllers for HMDs.
