@@ -19,7 +19,7 @@ Recognizing Contact Finger(s) on Rigid Surfaces by Augmenting Fingers with Vibra
 #### Publication
 * **Seungjae Oh** and Seungmoon Choi.<br>Recognizing Contact Finger(s) on Rigid Surfaces by Augmenting Fingers with Vibration
 
-#### Publication
+#### Figure
 ![SignalTime][2]
 A Sample Recording of Vibro-acoustic Signal (Time domain)
 

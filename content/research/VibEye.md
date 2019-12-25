@@ -29,7 +29,7 @@ Vibration-Mediated Object Recognition for Tangible Interactive Applications<br>(
 <!-- * Link: [Full Paper](https://doi.org/10.1145/3290605.3300906) -->
 * Video: [Overall](https://www.youtube.com/watch?v=yOi4Mv8VzTA) & [Application](https://www.youtube.com/watch?v=zgzgOyxWXD8&feature=youtu.be)
 
-#### Figures
+#### Figure
 ![Application][3]
 
 ![HW][4]

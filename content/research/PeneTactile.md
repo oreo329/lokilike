@@ -24,7 +24,7 @@ Tactile Phantom Sensations that Feel Like Penetrating Body<br>(CHI 2020)
 * Link: To appear
 * Video: [Overall](https://www.dropbox.com/s/rmd73wrbs0gx88q/CHI2020_Submission_Video.mp4?dl=0) 
 
-#### Figures
+#### Figure
 ![Apparatus][2]
 Schematic description of vibrotactile displays for hand (left) and torso (right)
 
