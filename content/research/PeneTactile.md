@@ -26,7 +26,7 @@ Tactile Phantom Sensations that Feel Like Penetrating Body<br>(CHI 2020)
 
 #### Figure
 ![Apparatus][2]
-Schematic description of vibrotactile displays for hand (left) and torso (right)
+Schematic description of vibrotactile displays for hand (left) and torso (right).
 
 ![Result][3]
 Scatter plot for DIRECTION CLARITY vs. PENETRATION for each Body Site (rows) and Vibration Frequency (columns).
