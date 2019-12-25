@@ -42,7 +42,7 @@ A interaction scene with descriptions about AR visualizaitons.
 #### Contribution
 * Seungjae Oh: Implementation (HW), Writing, Experiment, Experimental Design & Analysis, and Graphics
 * Kyudong Park: Implementation (SW) and Experiment
-* Matthew Gaydos: Literature and Ideation
+* Others: Literature and Ideation
 * Hyo-Jeong So: Director
 
 [1]: /img/research/arlearn-user.png
