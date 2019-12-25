@@ -22,6 +22,11 @@ Recognizing Contact Finger(s) on Rigid Surfaces by Augmenting Fingers with Vibra
 ![SignalTime][2]
 ![SignalFreq][3]
 
+<!-- #### Contribution
+* Jinsoo Kim: Implementation (HW&SW), Experiment, and Graphics
+* Seungjae Oh: Idea, Implementation(HW), Experimental Design & Analysis, and Graphics
+* Chaeyong Park: Implementation(HW), and Graphics -->
+
 [1]: /img/research/fid-tablet.png
 [2]: /img/research/fid-recsampletime.png
 [3]: /img/research/fid-recsamplefreq.png
