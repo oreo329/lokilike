@@ -23,7 +23,7 @@ Effects of Contact Force and Vibration Frequency on Vibrotactile Sensitivity Dur
 
 #### Figure
 ![HW][3]
-Our Experimental Setup
+Our Experimental Setup.
 
 ![Result][2]
 Absolute thresholds in terms of peak acceleration in dB measured in all experimental conditions. Error bars show standard errors.
