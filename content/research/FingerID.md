@@ -17,7 +17,7 @@ Recognizing Contact Finger(s) on Rigid Surfaces by Augmenting Fingers with Vibra
 <!-- {{< youtube id="zgzgOyxWXD8" autoplay="true">}} -->
 
 #### Publication
-* **Seungjae Oh** and Seungmoon Choi.<br>Recognizing Contact Finger(s) on Rigid Surfaces by Augmenting Fingers with Vibration
+* **Seungjae Oh**, Jinhyuk Yoon and Seungmoon Choi.<br>Recognizing Contact Finger(s) on Rigid Surfaces by Augmenting Fingers with Vibration
 
 #### Figure
 ![SignalTime][2]
