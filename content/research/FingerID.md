@@ -26,10 +26,10 @@ A sample recording of vibro-acoustic signal (Time Domain)
 ![SignalFreq][3]
 Sample recordings of vibro-acoustic signal with different contact conditions (Frequency domain)
 
-<!-- #### Contribution
-* Jinsoo Kim: Implementation (HW&SW), Experiment, and Graphics
-* Seungjae Oh: Idea, Implementation(HW), Experimental Design & Analysis, and Graphics
-* Chaeyong Park: Implementation(HW), and Graphics -->
+#### Contribution
+* Seungjae Oh: Idea, Implementation (HW&SW), Experimental Design & Analysis, and Graphics
+* Jinhyuk Yoon: Ring Modeling
+* Seungmoon Choi: Director
 
 [1]: /img/research/fid-tablet.png
 [2]: /img/research/fid-recsampletime.png
