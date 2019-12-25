@@ -30,11 +30,11 @@ A Series of Research on 3D Interaction around Large Displays<br>(Interational Jo
 #### Figure
 ![Teasor][1]
 ![Result][2]
-![Result][3]
+<!-- ![Result][3] -->
 
 #### Contribution 
-* Heejin Kim: Idea, Ideation, Experiment, Experimental Design and Analysis, Writing, and Graphics
-* Seungjae Oh: Ideation, Idea, Experimental Analysis, and Implementation (SW) 
+* Heejin Kim: Idea, Experiment, Experimental Design and Analysis, Writing, and Graphics
+* Seungjae Oh: Ideation and Implementation (SW) 
 * Min K. Chung and Sung H. Han: Directors
 
 [1]: /img/research/pointing-teaser.png
