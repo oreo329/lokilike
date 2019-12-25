@@ -44,7 +44,6 @@ Spectrograms of 16 standard objects. Objects are marked with material properties
 ![Possibility][5]
 The further sensing possibiliteis of VibEye. The four sets of everyday objects and their PCA results (20 rep. each):(A) Liquid body products in soft tubes, (B) Candies in hard containers, (C) Stacked papers, and (D) A spray bottle.
 
-
 #### Conclusion
 >	In this work, we have presented a system for vibration-mediated object recognition. VibEye is simple: its hardware requires only a vibration emitter and a sensor, and its software processes the data using well-defined image-based methods. Essentially, VibEye transforms the object recognition problem to an image classification problem. We have validated the effectiveness of VibEye in several ways, using the cross-validation results for the standard objects of the same shape but different materials, and recognition performance for other users' data and other unseen various everyday objects' data. We envision tightly-coupled virtual and real environments that are seamlessly controlled by tangible objects. We hope that the concepts embodied by VibEye could pave the way.
 
