@@ -35,9 +35,9 @@ Scatter plot for DIRECTION CLARITY vs. PENETRATION and for each Body (rows) and 
 >	We have explored the presentation of simulated tactile sensation appropriate for a virtual object passing through part of the human body. To elicit such a moving illusory sensation, vibrotactile phantom sensation is exploited. Through a series of perceptual experiments, we extensively investigated the parameters of phantom sensation that stimulates the hand and torso as if the tactile sensation penetrated the body site. Our empirical findings from the experiments can improve the quality of tactile rendering by providing ways to render more expressive tactile sensations. Future work may also consider comparison with other tactile modalities, e.g., thermal, or a combination with other modalities, e.g., vibro-thermal and vibro-auditory. Finally, we will further study the effectiveness of rendering passing-through illusions when a user conducts bare-hand manual tasks, e.g., finding an object of interest in mid-air and rendering the virtual ends of a motion tracking space.
 
 #### Contribution
-* Seungjae Oh: Idea, Writing, Implementation(HW), Experimental Design & Analysis, and Graphics
-* Jinsoo Kim: Implementation (HW&SW), Experiment, and Graphics
-* Chaeyong Park: Implementation(HW), and Graphics
+* Seungjae Oh: Idea, Writing, Implementation (HW), Experimental Design & Analysis, and Graphics
+* Jinsoo Kim: Implementation (HW&SW), Experimental Design, Experiment, and Graphics
+* Chaeyong Park: Implementation (HW), and Graphics
 * Seungmoon Choi: Director
  
 [1]: /img/research/pene-teasor.png
