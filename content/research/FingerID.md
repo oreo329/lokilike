@@ -24,7 +24,7 @@ Recognizing Contact Finger(s) on Rigid Surfaces by Augmenting Fingers with Vibra
 A sample recording of vibro-acoustic signal (Time Domain)
 
 ![SignalFreq][3]
-Sample recordings of vibro-acoustic signal with different contact conditions (Frequency domain)
+Sample recordings of vibro-acoustic signal with different contact conditions (Frequency Domain)
 
 #### Contribution
 * Seungjae Oh: Idea, Implementation (HW&SW), Experimental Design & Analysis, and Graphics
