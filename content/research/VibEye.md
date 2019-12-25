@@ -39,7 +39,7 @@ Hardware design of VibEye.
 The overview of computational procedure for signal processing and object recognition.
 
 ![SampleSTFT][6]
-Spectrograms of 16 standard objects. Objects are marked with material properties<br>(R: rigid, E: elastic, V: viscous, P: plastic, and S: stacked). 
+Spectrograms of 16 standard objects. Objects are marked with material properties.<br>R: rigid, E: elastic, V: viscous, P: plastic, and S: stacked. 
 
 ![Possibility][5]
 The further sensing possibiliteis of VibEye. The four sets of everyday objects and their PCA results (20 rep. each): (A) Liquid body products in soft tubes, (B) Candies in hard containers, (C) Stacked papers, and (D) A spray bottle.
