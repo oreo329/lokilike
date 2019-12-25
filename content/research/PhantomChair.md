@@ -38,7 +38,7 @@ The results of a magnitude estimation experiment about vibration at four differe
 Four rendering methods for phantom sensations. The first two are common rendering functions for phantom sensations, and the latter two are compensated by the results of our magnitude estimation experiment.
 
 ![Result][2]
-The percieved qualities of phantom sensations with respect to the rendering methods and durations (Short: 0.75 s; Middle: 1.5 s; Long: 2 s).
+The percieved qualities of phantom sensations with respect to the rendering methods and stimulus durations (Short: 0.75 s; Middle: 1.5 s; Long: 2 s).
 
 #### Conclusion
 >The work reported in this paper aimed to design a rendering method for dynamic phantom sensations that deliver realistic illusory tactile sensations moving across a wide range of the body, from the thigh to the upper back, with a few actuators. In order to compensate for the sensitivity differences across the body, we measured in Exp. I four psychophysical magnitude functions of vibrotactile stimuli at the four body sites of thigh, waist, hip, and upper back. Then we designed a new phantom sensation rendering method that uses the Gaussian function in the profile of perceived
