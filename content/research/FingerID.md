@@ -17,7 +17,7 @@ Recognizing Contact Finger(s) on Rigid Surfaces by Augmenting Fingers with Vibra
 <!-- {{< youtube id="zgzgOyxWXD8" autoplay="true">}} -->
 
 #### Publication
-* **Seungjae Oh**, Jinhyuk Yoon and Seungmoon Choi.<br>Recognizing Contact Finger(s) on Rigid Surfaces by Augmenting Fingers with Vibration
+* **Seungjae Oh**, Jinhyuk Yoon, Chaeyong Park, and Seungmoon Choi.<br>Recognizing Contact Finger(s) on Rigid Surfaces by Augmenting Fingers with Vibration
 
 #### Figure
 ![SignalTime][2]
@@ -28,7 +28,7 @@ Sample recordings of vibro-acoustic signal with different contact conditions (Fr
 
 #### Contribution
 * Seungjae Oh: Idea, Implementation (HW&SW), Experimental Design & Analysis, and Graphics
-* Jinhyuk Yoon: Ring Modeling
+* Jinhyuk Yoon & Chaeyong Park: Ring Modeling and Ideation
 * Seungmoon Choi: Director
 
 [1]: /img/research/fid-tablet.png
