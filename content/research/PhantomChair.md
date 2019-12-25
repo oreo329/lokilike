@@ -28,13 +28,14 @@ Seamless Phantom Sensation Moving across a Wide Range of Body<br>(IEEE World Hap
 #### Figure
 
 ![pi][7]
-The results of the magnitude estimation experiment about vibration at four different body sites (Exp 1). The four psychophysical curves were fitted according to Steven's power law. Each curve represents the relationship between the amplitudes of physical stimulus and their perceived intensity.
+The results of a magnitude estimation experiment about vibration at four different body sites (Exp 1). Each curve represents the relationship between the amplitudes of physical stimulus and their perceived intensity. 
+<!-- The four psychophysical curves were fitted according to Steven's power law. -->
 
 ![lin][3]
 ![log][4]
 ![pilin][5]
 ![pinorm][6]
-Four rendering methods for phantom sensations. The first two are common rendering functions for phantom sensations, and the latter two are compensated by the results of the magnitude estimation experiment.
+Four rendering methods for phantom sensations. The first two are common rendering functions for phantom sensations, and the latter two are compensated by the results of our magnitude estimation experiment.
 
 ![Result][2]
 The percieved qualities of phantom sensations with respect to the rendering methods and durations (Short: 0.75 s; Middle: 1.5 s; Long: 2 s).
