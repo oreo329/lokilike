@@ -82,8 +82,8 @@ title = "I'm looking for postdoc opportunities"
 * Others: Iphone, Android, Optitrack Trio, Microsoft Kinect, Philips Hue & Bridge, Laser cutter, and 3D printer
 
 ##### Software (Expertise Level:0-10)
-* Programming: Matlab (9), Python(5), Processing (7), Java (2), and C\# (5)
-* Tools: R (7), Adobe Photoshop (3) \& Illustrator (5), LaTex (6), and Microsoft Office (10)
+* Programming: Matlab (9), Python(5), Processing (7), Java (2), and C# (5)
+* Tools: R (7), Adobe Photoshop (3) & Illustrator (5), LaTex (6), and Microsoft Office (10)
 
 #### Activities
 * Student Volunteer. ACM International Conference on Tangible, Embedded, and Embodied Interaction. **2016.2**
