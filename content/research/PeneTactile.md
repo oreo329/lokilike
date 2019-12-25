@@ -37,7 +37,7 @@ Scatter plot for DIRECTION CLARITY vs. PENETRATION for each Body Site (rows) and
 #### Contribution
 * Seungjae Oh: Idea, Writing, Implementation (HW), Experimental Design & Analysis, and Graphics
 * Jinsoo Kim: Implementation (HW&SW), Experimental Design, Experiment, and Graphics
-* Chaeyong Park: Implementation (HW) and Graphics
+* Chaeyong Park: Implementation (HW) and Video
 * Seungmoon Choi: Director
  
 [1]: /img/research/pene-teasor.png
