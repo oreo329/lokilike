@@ -37,7 +37,7 @@ Accelerometer recordings of our multimodal haptic rendering device.
 #### Contribution
 * Chaeyong Park: Implementation (SW), Experiment, Experimental Design and Analysis, Writing, Graphics, and Video 
 * Jaeyong Park: Implementation (HW) and Writing
-* Seungjae Oh: Review of Experimental Design and Analysis, Ideation and Writing
+* Seungjae Oh: Review of Experimental Design and Analysis and Writing
 * Seungmoon Choi: Director
 
 [1]: /img/research/mm-main.png
