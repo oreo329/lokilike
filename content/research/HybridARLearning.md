@@ -39,6 +39,11 @@ A interaction scene with descriptions about AR visualizaitons.
 
 > In future studies, we will explore pedagogical and technological designs of the mixed reality exhibit in context, detail the effect of the design features, and unpack how visitors are engaged with this simulation through an in-depth analysis of observed interaction and discourse.
 
+#### Contribution
+* Seungjae Oh: Implementation (HW), Writing, Experiment, Experimental Design & Analysis, and Graphics
+* Kyudong Park: Implementation (SW) and Experiment
+* Matthew Gaydos: Literature and Ideation
+* Hyo-Jeong So: Director
 
 [1]: /img/research/arlearn-user.png
 [2]: /img/research/arlearn-system.png
