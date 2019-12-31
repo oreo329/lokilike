@@ -2,7 +2,7 @@
 date = "2016-11-05T21:05:33+05:30" 
 title = "I'm looking for postdoc opportunities" 
 +++
-#### [Curriculum Vitae](https://www.dropbox.com/s/27jva2glbxf85n3/CV_Seungjae%20Oh.pdf?dl=0)
+#### [Curriculum Vitae](https://www.dropbox.com/s/wx3tjnujfp00bz0/191231%20Curriculum%20Vitae_Seungjae%20Oh.pdf?dl=0)
 #### Publications
 
 ##### Peer-reviewed Conference Paper and Journal Article
