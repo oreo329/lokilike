@@ -21,7 +21,7 @@ Body-Penetrating Tactile Phantom Sensations<br>(CHI 2020)
 
 #### Publication
 * **ACM CHI 2020 (Co-first Author<sup>*</sup>)**<br>Jinsoo Kim<sup>*</sup>, **Seungjae Oh**<sup>*</sup>, Chaeyong Park, and Seungmoon Choi.<br>*[Body-Penetrating Tactile Phantom Sensations](https://dx.doi.org/10.1145/3313831.3376619)*
-* Video: [Overall](https://www.dropbox.com/s/rmd73wrbs0gx88q/CHI2020_Submission_Video.mp4?dl=0) 
+* Video: [Overall](https://www.dropbox.com/s/j8w4apo6mk9nnqu/CHI2020_CameraReady_Video.mp4?dl=0) 
 
 #### Figure
 ![Apparatus][2]
