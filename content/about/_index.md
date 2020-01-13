@@ -2,12 +2,12 @@
 date = "2016-11-05T21:05:33+05:30" 
 title = "Seungjae Oh" 
 +++
-#### I'm looking for postdoc opportunities, and [this link](https://www.dropbox.com/s/wx3tjnujfp00bz0/191231%20Curriculum%20Vitae_Seungjae%20Oh.pdf?dl=0) will redirect you to full Curriculum Vitae.
+#### I'm looking for postdoc opportunities, and [this link](https://www.dropbox.com/s/wx3tjnujfp00bz0/191231%20Curriculum%20Vitae_Seungjae%20Oh.pdf?dl=0) will redirect you to Curriculum Vitae.
 <!-- #### [Curriculum Vitae](https://www.dropbox.com/s/wx3tjnujfp00bz0/191231%20Curriculum%20Vitae_Seungjae%20Oh.pdf?dl=0) -->
 #### Publications
 
 ##### Peer-reviewed Conference Paper and Journal Article
-* Jinsoo Kim<sup>*</sup>, **Seungjae Oh**<sup>*</sup>, Chaeyong Park, and Seungmoon Choi.<br>*[Body-Penetrating Tactile Phantom Sensations](https://dx.doi.org/10.1145/3313831.3376619)* <br>**ACM CHI 2020 (Co-first Author)** 
+* Jinsoo Kim<sup>*</sup>, **Seungjae Oh**<sup>*</sup>, Chaeyong Park, and Seungmoon Choi.<br>*[Body-Penetrating Tactile Phantom Sensations](https://dx.doi.org/10.1145/3313831.3376619)*<br>**ACM CHI 2020 (Co-first Author)** 
 * **Seungjae Oh** and Seungmoon Choi.<br>*[Effects of Contact Force and Vibration Frequency on Vibrotactile Sensitivity During Active Touch](https://doi.org/10.1109/TOH.2019.2929521)* <br>**IEEE Transactions on Haptics 12(4), 2019** 
 * Chaeyong Park, Jaeyoung Park, **Seungjae Oh**, and Seungmoon Choi. <br>*[Realistic Haptic Rendering of Collision Effects Using Multimodal Vibrotactile and Impact Feedback](https://doi.org/10.1109/WHC.2019.8816116)* <br>**IEEE World Haptics 2019 (Candidate for the Best Paper Award)** 
 * Gyeore Yun, **Seungjae Oh**, and Seungmoon Choi.<br>*[Seamless Phantom Sensation Moving across a Wide Range of Body](https://doi.org/10.1109/WHC.2019.8816104)*<br>**IEEE World Haptics 2019**
