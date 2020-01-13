@@ -7,21 +7,20 @@ draft = false
 weight = 1
 +++
 
-Tactile Phantom Sensations that Feel Like Penetrating Body<br>(CHI 2020)
+Body-Penetrating Tactile Phantom Sensations<br>(CHI 2020)
 <!--more-->
 
 ![Teasor][1]
 
 #### Abstract
->In tactie interaction, a phantom sensation refers to an illusion felt on the skin between two distant points at which vibrations are applied. It can improve the spatial perceptual resolution of tactile stimulation with a few tactors. A phantom sensation can be stationary or moving, but most of the phantom sensations reported in the literature act on the skin. 
+>In tactile interaction, a phantom sensation refers to an illusion felt on the skin between two distant points at which vibrations are applied. It can improve the perceptual spatial resolution of tactile stimulation with a few tactors. All phantom sensations reported in the literature act on the skin or out of the body, but no such reports exist for those eliciting sensations penetrating the body. 
 
->In this paper, we address tactile phantom sensations that penetrate part of the body: two vibration actuators on the dorsal and palmar sides of the hand can elicit the illusion of vibration passing through the hand. We also demonstrate similar tactile illusions for the torso. For optimal design, we conducted user studies while varying vibration frequency, envelope function, stimulus duration, and penetrating direction. Based on the results, we present design guidelines on penetrating phantom sensations for its use in immersive virtual reality applications.
+>This paper addresses tactile phantom sensations in which two vibration actuators on the dorsal and palmar sides of the hand present an illusion of vibration passing through the hand. We also demonstrate similar tactile illusions for the torso. For optimal design, we conducted user studies while varying vibration frequency, envelope function, stimulus duration, and penetrating direction. Based on the results, we present design guidelines on penetrating phantom sensations for its use in immersive virtual reality applications.
 
 <!-- {{< youtube id="zgzgOyxWXD8" autoplay="true">}} -->
 
 #### Publication
-* **ACM CHI 2020 (Co-first Author<sup>*</sup>)**<br>Jinsoo Kim<sup>*</sup>, **Seungjae Oh**<sup>*</sup>, Chaeyong Park, and Seungmoon Choi.<br>Tactile Rendering of Body Penetrating Phantom Sensations 
-* Link: To appear
+* **ACM CHI 2020 (Co-first Author<sup>*</sup>)**<br>Jinsoo Kim<sup>*</sup>, **Seungjae Oh**<sup>*</sup>, Chaeyong Park, and Seungmoon Choi.<br>[Body-Penetrating Tactile Phantom Sensations](https://dx.doi.org/10.1145/3313831.3376619)
 * Video: [Overall](https://www.dropbox.com/s/rmd73wrbs0gx88q/CHI2020_Submission_Video.mp4?dl=0) 
 
 #### Figure
