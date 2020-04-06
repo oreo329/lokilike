@@ -61,8 +61,8 @@ title = "Seungjae Oh"
 
 
 #### Professional Service
-* **2019** Reviewer. Computers & Education. ACM CHI LBW. ACM SIGGRAPH Asia Emerging Technologies.
-* **2020** Reviewer. ACM CHI LBW. IEEE Robotics and Automation Letter. Eurohaptics
+* Reviewer(**2019**): Computers & Education. ACM CHI LBW. ACM SIGGRAPH Asia Emerging Technologies.
+* Reviewer(**2020**): ACM CHI LBW. IEEE Robotics and Automation Letter. Eurohaptics.
 
 
 #### Technical Skills
