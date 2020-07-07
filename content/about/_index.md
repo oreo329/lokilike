@@ -7,6 +7,7 @@ title = "Seungjae Oh"
 #### Publications
 
 ##### Peer-reviewed Conference Paper and Journal Article
+* Chaeyong Park, Jinhyuk Yoon, **Seungjae Oh**<sup>*</sup>, and Seungmoon Choi.<br> *[ Augmenting Physical Buttons with Vibrotactile Feedback for Programmable Feels]()* <br>**ACM UIST 2020**
 * Jinsoo Kim<sup>*</sup>, **Seungjae Oh**<sup>*</sup>, Chaeyong Park, and Seungmoon Choi.<br> *[Body-Penetrating Tactile Phantom Sensations](https://dx.doi.org/10.1145/3313831.3376619)* <br>**ACM CHI 2020 (Co-first Author)**
 * **Seungjae Oh** and Seungmoon Choi.<br>*[Effects of Contact Force and Vibration Frequency on Vibrotactile Sensitivity During Active Touch](https://doi.org/10.1109/TOH.2019.2929521)* <br>**IEEE Transactions on Haptics 12(4), 2019** 
 * Chaeyong Park, Jaeyoung Park, **Seungjae Oh**, and Seungmoon Choi. <br>*[Realistic Haptic Rendering of Collision Effects Using Multimodal Vibrotactile and Impact Feedback](https://doi.org/10.1109/WHC.2019.8816116)* <br>**IEEE World Haptics 2019 (Candidate for the Best Paper Award)** 
@@ -39,8 +40,8 @@ title = "Seungjae Oh"
 
 
 #### Education
-* Haptics and Virtual Reality Lab (Director: Seungmoon Choi), Pohang University of Science and Techonlogy. **2016.8 - present**
-* Creative IT Engineering (Candidate of PhD.), Pohang University of Science and Techonlogy. **2012.3 - present**
+* Haptics and Virtual Reality Lab (Director: Seungmoon Choi), Pohang University of Science and Techonlogy. **2016.8 - 2020.2**
+* Creative IT Engineering (Candidate of PhD.), Pohang University of Science and Techonlogy. **2012.3 - 2020.2**
 * Electrical Engineering (BS., Summa Cum Laude), Pohang University of Science and Techonlogy. **2008.3 - 2012.2**
 
 ![This is me][1]
@@ -56,13 +57,15 @@ title = "Seungjae Oh"
 
 
 #### Grants & Contracts
+* Science Exhibition Program (PI: Seungmoon Choi), Korea Research Foundation (NRF). **2020** <br>*Development and Validation of Real-Virtual Blended Exhibits for In-Depth Embodied Learning of Scientific Principles*
+* Postdoctoral Fellowship Program (PI: Seungjae Oh), Korea Research Foundation (NRF). **2020** <br>*Mutual Identification between User-Device toward Seamless Cross-Device Computing*
 * MSRA Collaborative Research (PI: Seungmoon Choi), Microsoft Research Lab Asia. **2019** <br>*Vibration-Mediated Recognition of Hand Contact State for Tangible/Surface Interaction*
 * Young Researcher Program (PI: Hyo-Jeong So), Korea Research Foundation (NRF). **2015** <br>*Research on the Development of Embodied Participatory Simulation and its Effects from Embodied Cognition Perspectives*
 
 
 #### Professional Service
 * Reviewer (**2019**): Computers & Education. ACM CHI LBW. ACM SIGGRAPH Asia Emerging Technologies.
-* Reviewer (**2020**): ACM CHI LBW. IEEE Robotics and Automation Letter. Eurohaptics.
+* Reviewer (**2020**): ACM CHI LBW. IEEE Robotics and Automation Letters. Eurohaptics. ACM UIST (2 Special Recognitions of Outstanding Reviews).
 
 
 #### Technical Skills
@@ -85,7 +88,7 @@ title = "Seungjae Oh"
 * Programming: Matlab (9), Python(5), Processing (7), Java (2), and C# (5)
 * Tools: R (7), Adobe Photoshop (3) & Illustrator (5), LaTex (6), and Microsoft Office (10)
 
-#### Activities
+#### Activities and Services
 * Student Volunteer. ACM International Conference on Tangible, Embedded, and Embodied Interaction. **2016.2**
 * Vice President. Young Engineers Honor Society (YEHS). **2010.1 - 2010.12**
 
