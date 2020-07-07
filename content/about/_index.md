@@ -4,6 +4,12 @@ title = "Seungjae Oh"
 +++
 <!--#### I'm looking for postdoc opportunities, and [this link](https://www.dropbox.com/s/wx3tjnujfp00bz0/191231%20Curriculum%20Vitae_Seungjae%20Oh.pdf?dl=0) will redirect you to Curriculum Vitae! -->
 <!-- #### [Curriculum Vitae](https://www.dropbox.com/s/wx3tjnujfp00bz0/191231%20Curriculum%20Vitae_Seungjae%20Oh.pdf?dl=0) -->
+#### Education
+* Haptics and Virtual Reality Lab (Director: Seungmoon Choi), Pohang University of Science and Techonlogy. **2016.8 - 2020.2**
+* Creative IT Engineering (PhD.), Pohang University of Science and Techonlogy. **2012.3 - 2020.2**
+* Electrical Engineering (BS., Summa Cum Laude), Pohang University of Science and Techonlogy. **2008.3 - 2012.2**
+
+
 #### Publications
 
 ##### Peer-reviewed Conference Paper and Journal Article
@@ -37,12 +43,6 @@ title = "Seungjae Oh"
 * Chaeyong Park, **Seungjae Oh**, and Seungmoon Choi.<br>*APPARATUS AND METHOD FOR RENDERING TACTILE TO PROVIDE MULTIPLE SENSE*<br>Application: 2019.12.6
 * **Seungjae Oh** and Seungmoon Choi. <br>*OBJECT IDENTIFICATION APPARATUS AND METHOD, SYSTEM COMPRISING THE SAME* <br>Application: 2019.11.29
 * Heejin Kim, **Seungjae Oh**, Sung H. Han, and Min K. Chung. <br>*3D INTERACTION METHOD FOR DISPLAY* <br>Application: 2016.9.30; Publication: 2018.4.4
-
-
-#### Education
-* Haptics and Virtual Reality Lab (Director: Seungmoon Choi), Pohang University of Science and Techonlogy. **2016.8 - 2020.2**
-* Creative IT Engineering (Candidate of PhD.), Pohang University of Science and Techonlogy. **2012.3 - 2020.2**
-* Electrical Engineering (BS., Summa Cum Laude), Pohang University of Science and Techonlogy. **2008.3 - 2012.2**
 
 
 #### Scholarships, Honors & Awards
