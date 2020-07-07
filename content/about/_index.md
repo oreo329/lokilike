@@ -44,7 +44,6 @@ title = "Seungjae Oh"
 * Creative IT Engineering (Candidate of PhD.), Pohang University of Science and Techonlogy. **2012.3 - 2020.2**
 * Electrical Engineering (BS., Summa Cum Laude), Pohang University of Science and Techonlogy. **2008.3 - 2012.2**
 
-![This is me][1]
 
 #### Scholarships, Honors & Awards
 * Best Poster/Demo Award. Asian CHI Symposium (CHI 2019 Workshop), SIGCHI Japan Chapter. **2019**<br>*VibEye: Vibration-Mediated Object Recognition for Tangible Interactive Applications*
@@ -88,13 +87,14 @@ title = "Seungjae Oh"
 * Programming: Matlab (9), Python(5), Processing (7), Java (2), and C# (5)
 * Tools: R (7), Adobe Photoshop (3) & Illustrator (5), LaTex (6), and Microsoft Office (10)
 
-#### Activities and Services
+#### Activities
 * Student Volunteer. ACM International Conference on Tangible, Embedded, and Embodied Interaction. **2016.2**
 * Vice President. Young Engineers Honor Society (YEHS). **2010.1 - 2010.12**
 
 #### Media
 * [예술과 과학기술 결합해 만든 투표 독려 영상 화제](http://techm.kr/bbs/board.php?bo_table=article&wr_id=3903). Tech M. **2017.5**  
 * [포항시 중앙동 꿈틀로 ‘꿈틀로 스퀘어’ 작품 설치](http://www.kyongbuk.co.kr/news/articleView.html?idxno=1059262#09Sk). 경북일보. **2019.4** 
-      
+
+![This is me][1]
 
 [1]: /img/seungjae.jpg
