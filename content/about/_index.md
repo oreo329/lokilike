@@ -7,7 +7,7 @@ title = "Seungjae Oh"
 #### Publications
 
 ##### Peer-reviewed Conference Paper and Journal Article
-* Chaeyong Park, Jinhyuk Yoon, **Seungjae Oh**<sup>*</sup>, and Seungmoon Choi.<br> *Augmenting Physical Buttons with Vibrotactile Feedback for Programmable Feels <br>**ACM UIST 2020**
+* Chaeyong Park, Jinhyuk Yoon, **Seungjae Oh**<sup>*</sup>, and Seungmoon Choi.<br> *Augmenting Physical Buttons with Vibrotactile Feedback for Programmable Feels* <br>**ACM UIST 2020**
 * Jinsoo Kim<sup>*</sup>, **Seungjae Oh**<sup>*</sup>, Chaeyong Park, and Seungmoon Choi.<br> *[Body-Penetrating Tactile Phantom Sensations](https://dx.doi.org/10.1145/3313831.3376619)* <br>**ACM CHI 2020 (Co-first Author)**
 * **Seungjae Oh** and Seungmoon Choi.<br>*[Effects of Contact Force and Vibration Frequency on Vibrotactile Sensitivity During Active Touch](https://doi.org/10.1109/TOH.2019.2929521)* <br>**IEEE Transactions on Haptics 12(4), 2019** 
 * Chaeyong Park, Jaeyoung Park, **Seungjae Oh**, and Seungmoon Choi. <br>*[Realistic Haptic Rendering of Collision Effects Using Multimodal Vibrotactile and Impact Feedback](https://doi.org/10.1109/WHC.2019.8816116)* <br>**IEEE World Haptics 2019 (Candidate for the Best Paper Award)** 
