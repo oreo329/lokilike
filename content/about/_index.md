@@ -57,14 +57,14 @@ title = "Seungjae Oh"
 
 #### Grants & Contracts
 * Science Exhibition Program (PI: Seungmoon Choi), Korea Research Foundation (NRF). **2020** <br>*Development and Validation of Real-Virtual Blended Exhibits for In-Depth Embodied Learning of Scientific Principles*
-* Postdoctoral Fellowship Program (PI: Seungjae Oh), Korea Research Foundation (NRF). **2020** <br>*Mutual Identification between User-Device toward Seamless Cross-Device Computing*
-* MSRA Collaborative Research (PI: Seungmoon Choi), Microsoft Research Lab Asia. **2019** <br>*Vibration-Mediated Recognition of Hand Contact State for Tangible/Surface Interaction*
+* **Postdoctoral Fellowship Program** (PI: Seungjae Oh), Korea Research Foundation (NRF). **2020** <br>*Mutual Identification between User-Device toward Seamless Cross-Device Computing*
+* **MSRA Collaborative Research** (PI: Seungmoon Choi), Microsoft Research Lab Asia. **2019** <br>*Vibration-Mediated Recognition of Hand Contact State for Tangible/Surface Interaction*
 * Young Researcher Program (PI: Hyo-Jeong So), Korea Research Foundation (NRF). **2015** <br>*Research on the Development of Embodied Participatory Simulation and its Effects from Embodied Cognition Perspectives*
 
 
 #### Professional Service
 * Reviewer (**2019**): Computers & Education. ACM CHI LBW. ACM SIGGRAPH Asia Emerging Technologies.
-* Reviewer (**2020**): ACM UIST (2 Special Recognitions of Outstanding Reviews). ACM CHI LBW. IEEE Robotics and Automation Letters. Eurohaptics. 
+* Reviewer (**2020**): ACM UIST (**2 Special Recognitions of Outstanding Reviews**). ACM CHI LBW. IEEE Robotics and Automation Letters. Eurohaptics. 
 
 
 #### Technical Skills
