@@ -56,10 +56,10 @@ title = ""
 
 
 #### Grants & Contracts
-* Science Exhibition Program (PI: Seungmoon Choi), Korea Research Foundation (NRF). **2020** <br>*Development and Validation of Real-Virtual Blended Exhibits for In-Depth Embodied Learning of Scientific Principles*
-* **Postdoctoral Fellowship Program** (PI: Seungjae Oh), Korea Research Foundation (NRF). **2020** <br>*Mutual Identification between User-Device toward Seamless Cross-Device Computing*
+* Science Exhibition Program (PI: Seungmoon Choi), National Research Foundation of Korea (NRF). **2020** <br>*Development and Validation of Real-Virtual Blended Exhibits for In-Depth Embodied Learning of Scientific Principles*
+* **Postdoctoral Fellowship Program** (PI: Seungjae Oh), National Research Foundation of Korea (NRF). **2020** <br>*Mutual Identification between User-Device toward Seamless Cross-Device Computing*
 * **MSRA Collaborative Research** (PI: Seungmoon Choi), Microsoft Research Lab Asia. **2019** <br>*Vibration-Mediated Recognition of Hand Contact State for Tangible/Surface Interaction*
-* Young Researcher Program (PI: Hyo-Jeong So), Korea Research Foundation (NRF). **2015** <br>*Research on the Development of Embodied Participatory Simulation and its Effects from Embodied Cognition Perspectives*
+* Young Researcher Program (PI: Hyo-Jeong So), National Research Foundation of Korea (NRF). **2015** <br>*Research on the Development of Embodied Participatory Simulation and its Effects from Embodied Cognition Perspectives*
 
 
 
