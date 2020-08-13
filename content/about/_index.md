@@ -5,8 +5,8 @@ title = ""
 <!--#### I'm looking for postdoc opportunities, and [this link](https://www.dropbox.com/s/wx3tjnujfp00bz0/191231%20Curriculum%20Vitae_Seungjae%20Oh.pdf?dl=0) will redirect you to Curriculum Vitae! -->
 <!-- #### [Curriculum Vitae](https://www.dropbox.com/s/wx3tjnujfp00bz0/191231%20Curriculum%20Vitae_Seungjae%20Oh.pdf?dl=0) -->
 #### Education & Employment
-* Postdoctoral Researcher (Computer Science and Engineering, Advisor: Seungmoon Choi), Pohang University of Science and Techonlogy. **2020.2 - 2020.9**
 * Haptics and Virtual Reality Laboratory (Director: Seungmoon Choi), Pohang University of Science and Techonlogy. **2016.8 - 2020.9**
+* Postdoctoral Researcher (Computer Science and Engineering), Pohang University of Science and Techonlogy. **2020.2 - 2020.9**
 * Ph.D. (Creative IT Engineering, Advisor: Seungmoon Choi), Pohang University of Science and Techonlogy. **2012.3 - 2020.2**
 * Exchange Student (Infomatiks), Technische Universität Berlin. **2011.4 - 2011.9**
 * B.S. (Electrical Engineering, Summa Cum Laude), Pohang University of Science and Techonlogy. **2008.3 - 2012.2**
