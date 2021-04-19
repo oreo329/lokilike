@@ -3,7 +3,7 @@ image = "img/research/fid-tablet.png"
 showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
 title = "Finger Identification"
-draft = false
+draft = true
 weight = 2
 +++
 
