@@ -1,8 +1,8 @@
 +++
-image = "img/research/bump-teasor.jpg"
+image = "img/research/bump-teaser.jpg"
 showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
-title = "Motion+Vibration"
+title = "Motion+Feedback"
 draft = false
 weight = 3
 +++
