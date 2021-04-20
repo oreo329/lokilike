@@ -4,9 +4,9 @@ title = ""
 +++
 <!--#### I'm looking for postdoc opportunities, and [this link](https://www.dropbox.com/s/wx3tjnujfp00bz0/191231%20Curriculum%20Vitae_Seungjae%20Oh.pdf?dl=0) will redirect you to Curriculum Vitae! -->
 <!-- #### [Curriculum Vitae](https://www.dropbox.com/s/wx3tjnujfp00bz0/191231%20Curriculum%20Vitae_Seungjae%20Oh.pdf?dl=0) -->
-#### Education & Employment
-* Haptics and Virtual Reality Laboratory (Computer Science and Engineering, Director: Seungmoon Choi), Pohang University of Science and Techonlogy. **2016.8 - 2020.9**
-* Postdoctoral Researcher (Computer Science and Engineering), Pohang University of Science and Techonlogy. **2020.2 - 2020.9**
+#### Education
+<!-- * Haptics and Virtual Reality Laboratory (Computer Science and Engineering, ), Pohang University of Science and Techonlogy. **2016.8 - 2020.9** -->
+* Postdoctoral Researcher (Computer Science and Engineering, Advisor: Seungmoon Choi), Pohang University of Science and Techonlogy. **2020.2 -**
 * Ph.D. (Creative IT Engineering, Advisor: Seungmoon Choi), Pohang University of Science and Techonlogy. **2012.3 - 2020.2**
 * Exchange Student (Infomatiks), Technische Universität Berlin. **2011.4 - 2011.9**
 * B.S. (Electrical Engineering, Summa Cum Laude), Pohang University of Science and Techonlogy. **2008.3 - 2012.2**
@@ -15,10 +15,11 @@ title = ""
 #### Publications
 
 ##### Peer-reviewed Conference Paper and Journal Article
+* Dajin Lee, **Seungjae Oh**, and Seungmoon Choi.<br>*Vibrotactile Metaphor of Physical Interaction Using Body-Penetrating Phantom Sensations: Stepping on a Virtual Object*<br>**IEEE World Haptics 2021**
 * Chaeyong Park, Jinhyuk Yoon, **Seungjae Oh**, and Seungmoon Choi.<br> *[Augmenting Physical Buttons with Vibrotactile Feedback for Programmable Feels](https://doi.org/10.1145/3379337.3415837)* <br>**ACM UIST 2020**
 * Jinsoo Kim<sup>*</sup>, **Seungjae Oh**<sup>*</sup>, Chaeyong Park, and Seungmoon Choi.<br> *[Body-Penetrating Tactile Phantom Sensations](https://dx.doi.org/10.1145/3313831.3376619)* <br>**ACM CHI 2020 (Co-first Author)**
 * **Seungjae Oh** and Seungmoon Choi.<br>*[Effects of Contact Force and Vibration Frequency on Vibrotactile Sensitivity During Active Touch](https://doi.org/10.1109/TOH.2019.2929521)* <br>**IEEE Transactions on Haptics 12(4), 2019** 
-* Chaeyong Park, Jaeyoung Park, **Seungjae Oh**, and Seungmoon Choi. <br>*[Realistic Haptic Rendering of Collision Effects Using Multimodal Vibrotactile and Impact Feedback](https://doi.org/10.1109/WHC.2019.8816116)* <br>**IEEE World Haptics 2019 (Candidate for the Best Paper Award)** 
+* Chaeyong Park, Jaeyoung Park, **Seungjae Oh**, and Seungmoon Choi.<br>*[Realistic Haptic Rendering of Collision Effects Using Multimodal Vibrotactile and Impact Feedback](https://doi.org/10.1109/WHC.2019.8816116)* <br>**IEEE World Haptics 2019 (Candidate for the Best Paper Award)** 
 * Gyeore Yun, **Seungjae Oh**, and Seungmoon Choi.<br>*[Seamless Phantom Sensation Moving across a Wide Range of Body](https://doi.org/10.1109/WHC.2019.8816104)*<br>**IEEE World Haptics 2019**
 * **Seungjae Oh**, Gyeore Yun, Chaeyong Park, Jinsoo Kim, and Seungmoon Choi.<br>*[VibEye: Vibration-Mediated Object Recognition for Tangible Interactive Applications](https://doi.org/10.1145/3290605.3300906)*<br>**ACM CHI 2019**
 * Heejin Kim, **Seungjae Oh**, Sung H. Han, Min K. Chung.<br>*[Motion–Display Gain: A New Control–Display Mapping Reflecting Natural Human Pointing Gesture to Enhance Interaction with Large Displays at a Distance](https://doi.org/10.1080/10447318.2018.1447422)*<br>**International Journal of Human-Computer Interaction 35(2), 2019**
