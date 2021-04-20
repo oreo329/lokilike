@@ -2,7 +2,7 @@
 image = "img/research/pene-teasor.png"
 showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
-title = "Penetrating Illusion"
+title = "Penetrating Tactile Illusion"
 draft = false
 weight = 1
 +++
