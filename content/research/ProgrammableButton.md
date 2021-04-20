@@ -37,8 +37,8 @@ with emphasis on their feels.
 
 #### Publication
 * Chaeyong Park, Jinhyuk Yoon, **Seungjae Oh**, and Seungmoon Choi.<br> *[Augmenting Physical Buttons with Vibrotactile Feedback for Programmable Feels](https://doi.org/10.1145/3379337.3415837)* <br>**ACM UIST 2020**
-* Video: [Regular](https://youtu.be/wjVvP031OLE)
-* Video: [Short Talk](https://youtu.be/wjVvP031OLE)
+* Video: [Regular](https://youtu.be/TZnR2OuxyAY)
+* Video: [Short Talk](https://youtu.be/c6BUkA2r2Mw)
 
 
 #### Figure
