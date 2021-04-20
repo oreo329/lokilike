@@ -45,7 +45,7 @@ conventionally by force feedback using considerably
 
 #### Contribution
 * Dajin Lee: Idea, Implementation (HW&SW), Experimental Design & Analysis
-* Seungjae Oh: Idea, Experimental Design & Analysis
+* Seungjae Oh: Idea, Experimental Design
 * Seungmoon Choi: Director
 
 [1]: /img/research/bump-teaser.jpg

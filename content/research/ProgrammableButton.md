@@ -1,47 +1,64 @@
 +++
 showonlyimage = false
-draft = true
-image = "img/research/mm-main.png"
+draft = false
+image = "img/research/btn-teaser.png"
 date = "2016-11-05T18:25:22+05:30"
-title = "Vibration+Impact"
-weight = 3
+title = "Programmable Haptic Button"
+weight = 2
 +++
 
-Realistic Haptic Rendering of Collision Effects Using Multimodal Vibrotactile and Impact Feedback<br> (IEEE World Haptics 2019)
+Augmenting Physical Buttons with Vibrotactile Feedback
+for Programmable Feels<br>(ACM UIST 2020)
 <!--more-->
 
-![HW][2]
+![hw][2]
+![rendering][3]
 
 #### Abstract
-> This paper addresses the potential benefits of multimodal haptic feedback combining vibrotactile and impact stimuli for the target domain of virtual collision simulation. In this hybrid approach, we complement the limitation of each modality with the advantage of the other modality. We present the design of a hybrid device including both vibration and impact actuators and a physics-based rendering method for realistic collision simulation. We also report a user study carried out to comparatively assess the subjective quality of haptic collision rendering using vibration only, impact only, and multimodal (vibration + impact) stimuli. Experimental results demonstrate that our multimodal approach can contribute to critically expanding the dynamic range of virtual collision simulation, especially between highly stiff objects.
+> Physical buttons provide clear haptic feedback when pressed and released, but their responses are unvarying. Physical buttons can be powered by force actuators to produce unlimited click sensations, but the cost is substantial. 
 
-{{< youtube id="wjVvP031OLE" autoplay="true" >}}
+> An alternative can be augmenting physical buttons with simple and inexpensive vibration actuators. When pushed, an augmented button generates
+a vibration overlayed on the button’s original kinesthetic
+response, under the general framework of haptic augmented
+reality. 
+
+> We explore the design space of augmented buttons
+while changing vibration frequency, amplitude, duration, and
+envelope. We then visualize the perceptual structure of augmented
+buttons by estimating a perceptual space for 7 physical
+buttons and 40 augmented buttons. Their sensations are also
+assessed against adjectives, and results are mapped into the
+perceptual space to identify meaningful perceptual dimensions.
+Our results contribute to understanding the benefits and limitations
+of programmable vibration-augmented physical buttons
+with emphasis on their feels.
+
+{{< youtube id="GlMEwPrSew0" autoplay="true" >}}
 
 #### Publication
-* **IEEE World Haptics 2019 (Candidate for the Best Paper Award)**<br>Chaeyong Park, Jaeyoung Park, **Seungjae Oh**, and Seungmoon Choi. <br>*[Realistic Haptic Rendering of Collision Effects Using Multimodal Vibrotactile and Impact Feedback](https://doi.org/10.1109/WHC.2019.8816116)* 
-* **IEEE World Haptics Demo 2019**<br>Chaeyong Park, Jaeyoung Park, **Seungjae Oh**, and Seungmoon Choi.<br>*[Realistic Haptic Rendering of Collision Effects Using Multimodal Vibrotactile and Impact Feedback](https://youtu.be/UFgp7A1IK7o?t=61)*
-* **Domestic Patent**<br>Chaeyong Park, **Seungjae Oh**, and Seungmoon Choi.<br>*APPARATUS AND METHOD FOR RENDERING TACTILE TO PROVIDE MULTIPLE SENSE*<br>Application: 2019.12.6
-<!-- * Link: [Full Paper](https://doi.org/10.1109/WHC.2019.8816116) -->
-* Video: [Overall](https://youtu.be/wjVvP031OLE)
+* Chaeyong Park, Jinhyuk Yoon, **Seungjae Oh**, and Seungmoon Choi.<br> *[Augmenting Physical Buttons with Vibrotactile Feedback for Programmable Feels](https://doi.org/10.1145/3379337.3415837)* <br>**ACM UIST 2020**
+* Video: [Regular](https://youtu.be/wjVvP031OLE)
+* Video: [Short Talk](https://youtu.be/wjVvP031OLE)
+
 
 #### Figure
-![Main][1]
-Schematic description of our multimodal haptic device.
+![PerceptualSpace][4]
 
-![Result][3]
-Accelerometer recordings of our multimodal haptic device.
+![Adjective][5]
 
 #### Conclusion
->In this paper, we have addressed the idea of combining vibrotactile and impact feedback to improve the realism of virtual contact represented by haptic stimuli. A design of simple hardware for such multimodal feedback is presented, as well as the software based on a physics engine for the rendering of realistic collisions. We also report the methods and results of a user study comparing the perceptual qualities of three different types of haptic feedback: vibration only, impact only, and multimodal. Experimental results advocate the use of impact feedback in conjunction with more popular vibrotactile feedback; it can fundamentally enlarge the class of the virtual objects whose contact sensations can be rendered with high realism. For future work, we consider sophisticating our multimodal rendering hardware and software and then applying it to the handheld controllers for HMDs.
+This paper has explored a design space of a haptic augmentation technique that enables modulation of the feel of a real physical button by providing vibrotactile feedback. For a demonstration of the concept, we designed a large number of augmented buttons for one base physical button by varying the frequency, amplitude, envelope, and duration of vibration. Two user experiments were conducted, and their results offer the 2D perceptual space and two primary perceptual dimensions that quantify the perceptual effects of vibrotactile button augmentation in a metric space. Design guidelines for
+effective button augmentation are also summarized.
 
 #### Contribution
-* Chaeyong Park: Implementation (SW), Experiment, Experimental Design and Analysis, Writing, Graphics, and Video 
-* Jaeyong Park: Implementation (HW) and Writing
-* Seungjae Oh: Review of Experimental Design, Analysis and Writing
+* Chaeyong Park: Implementation (HW & SW), Experiment, Experimental Design and Analysis, Graphics, and Video 
+* Jinhyuk Yoon: Implementation (HW) 
+* Seungjae Oh: Experimental Design and Analysis
 * Seungmoon Choi: Director
 
-[1]: /img/research/mm-main.png
-[2]: /img/research/mm-hw.png
-[3]: /img/research/mm-data.png
-[4]: /img/research/mm-teasor.jpg
+[1]: /img/research/btn-teaser.jpg
+[2]: /img/research/btn-hw.jpg
+[3]: /img/research/btn-rendering.jpg
+[4]: /img/research/btn-perceputalspace.jpg
+[5]: /img/research/btn-adjective.jpg
 
