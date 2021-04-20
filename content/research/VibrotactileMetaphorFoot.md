@@ -48,7 +48,7 @@ conventionally by force feedback using considerably
 * Seungmoon Choi: Director
 
 [1]: /img/research/bump-teasor.jpg
-[2]: /img/research/bump-profile.jpg
+[2]: /img/research/bump-profiles.jpg
 [3]: /img/research/bump-passive.jpg
 [4]: /img/research/bump-active.jpg
 
