@@ -10,7 +10,7 @@ weight = 3
 Vibrotactile Metaphor of Physical Interaction Using Body-Penetrating Phantom Sensations: Stepping on a Virtual Object
 <!--more-->
 
-![Teasor][1]
+![Teaser][1]
 
 #### Abstract
 > During locomotion, people perceive rich haptic information from the floor and object in contact with their feet. Conventional simulation of such physical interaction in virtual reality is mostly limited to expressing the material or texture of the floor by stimulating only the sole of a foot using vibrotactile stimuli. 
@@ -28,9 +28,10 @@ Vibration profiles coupled with the user-applied pressure for active haptic feed
 
 ![PassiveResults][3]
 Results of Passive Haptic Feedback. We asked participants that the tactile sensation feels as if the virtual object moved into and out of the foot.
-(V: Visual Only; V+H: Visual+Haptic) & (S: Sole Only; S+I: Sole+Instep)
+(H: Haptic Only; V+H: Visual+Haptic) & (S: Sole Only; S+I: Sole+Instep)
 
 ![ActiveResults][4]
+Results of Active Haptic Feedback.
 
 #### Conclusion
 > Vibrotactile feedback is suitable for delivering surface
@@ -47,7 +48,7 @@ conventionally by force feedback using considerably
 * Seungjae Oh: Idea, Experimental Design & Analysis
 * Seungmoon Choi: Director
 
-[1]: /img/research/bump-teasor.jpg
+[1]: /img/research/bump-teaser.jpg
 [2]: /img/research/bump-profiles.jpg
 [3]: /img/research/bump-passive.jpg
 [4]: /img/research/bump-active.jpg
