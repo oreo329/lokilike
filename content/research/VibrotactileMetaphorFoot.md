@@ -24,11 +24,11 @@ Vibrotactile Metaphor of Physical Interaction Using Body-Penetrating Phantom Sen
 
 #### Figure
 ![SignalProfile][2]
-Vibration profiles coupled with the user-applied pressure for active haptic feedback.
+Vibration profiles coupled with the user-applied pressure for active haptic feedback.<br>
 
 ![PassiveResults][3]
 Results of Passive Haptic Feedback. We asked participants that the tactile sensation feels as if the virtual object moved into and out of the foot.<br>
-(H: Haptic Only; V+H: Visual+Haptic) & (S: Sole Only; S+I: Sole+Instep)
+(H: Haptic Only; V+H: Visual+Haptic) & (S: Sole Only; S+I: Sole+Instep)<br>
 
 ![ActiveResults][4]
 Results of Active Haptic Feedback.
