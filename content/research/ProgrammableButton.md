@@ -47,7 +47,7 @@ with emphasis on their feels.
 ![Adjective][5]
 
 #### Conclusion
-This paper has explored a design space of a haptic augmentation technique that enables modulation of the feel of a real physical button by providing vibrotactile feedback. For a demonstration of the concept, we designed a large number of augmented buttons for one base physical button by varying the frequency, amplitude, envelope, and duration of vibration. Two user experiments were conducted, and their results offer the 2D perceptual space and two primary perceptual dimensions that quantify the perceptual effects of vibrotactile button augmentation in a metric space. Design guidelines for
+> This paper has explored a design space of a haptic augmentation technique that enables modulation of the feel of a real physical button by providing vibrotactile feedback. For a demonstration of the concept, we designed a large number of augmented buttons for one base physical button by varying the frequency, amplitude, envelope, and duration of vibration. Two user experiments were conducted, and their results offer the 2D perceptual space and two primary perceptual dimensions that quantify the perceptual effects of vibrotactile button augmentation in a metric space. Design guidelines for
 effective button augmentation are also summarized.
 
 #### Contribution
