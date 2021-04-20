@@ -7,7 +7,7 @@ draft = false
 weight = 3
 +++
 
-Vibrotactile Metaphor of Physical Interaction Using Body-Penetrating Phantom Sensations: Stepping on a Virtual Object
+Vibrotactile Metaphor of Physical Interaction Using Body-Penetrating Phantom Sensations: Stepping on a Virtual Object<br>(World Haptics 2021)
 <!--more-->
 
 ![Teaser][1]
@@ -27,7 +27,7 @@ Vibrotactile Metaphor of Physical Interaction Using Body-Penetrating Phantom Sen
 Vibration profiles coupled with the user-applied pressure for active haptic feedback.
 
 ![PassiveResults][3]
-Results of Passive Haptic Feedback. We asked participants that the tactile sensation feels as if the virtual object moved into and out of the foot.
+Results of Passive Haptic Feedback. We asked participants that the tactile sensation feels as if the virtual object moved into and out of the foot.<br>
 (H: Haptic Only; V+H: Visual+Haptic) & (S: Sole Only; S+I: Sole+Instep)
 
 ![ActiveResults][4]
