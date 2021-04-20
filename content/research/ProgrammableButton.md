@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/research/btn-teaser.png"
+image = "img/research/btn-teaser.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Programmable Haptic Button"
 weight = 2
@@ -37,7 +37,7 @@ with emphasis on their feels.
 
 #### Publication
 * Chaeyong Park, Jinhyuk Yoon, **Seungjae Oh**, and Seungmoon Choi.<br> *[Augmenting Physical Buttons with Vibrotactile Feedback for Programmable Feels](https://doi.org/10.1145/3379337.3415837)* <br>**ACM UIST 2020**
-* Video: [Regular](https://youtu.be/TZnR2OuxyAY)
+* Video: [Presentation](https://youtu.be/TZnR2OuxyAY)
 * Video: [Short Talk](https://youtu.be/c6BUkA2r2Mw)
 
 
@@ -59,6 +59,6 @@ effective button augmentation are also summarized.
 [1]: /img/research/btn-teaser.jpg
 [2]: /img/research/btn-hw.jpg
 [3]: /img/research/btn-rendering.jpg
-[4]: /img/research/btn-perceputalspace.jpg
+[4]: /img/research/btn-perceptualspace.jpg
 [5]: /img/research/btn-adjective.jpg
 
