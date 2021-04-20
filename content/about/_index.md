@@ -79,14 +79,14 @@ title = ""
 * Statistical Analysis: Comparison (Parametric & Non-parametric), Regression, Dimension Reduction, and Survey Analysis
 
 ##### Data Analysis
-* Spectral Analysis, Signal Processing, and Machine Learning
+* Signal and Systems, Signal Processing, and Machine Learning
 
 ##### Hardware
-* Actuators: Shaker, Surface transducer, Voice coil, and ERM/LRA
-* Sensors: Load cell, Accelerometer, Force/Torque sensor, Microphone, and Contact Microphone
+* Actuators: Shaker, Surface Transducer, Voice Coil, and ERM/LRA
+* Sensors: Load Cell, Accelerometer, Force/Torque Sensor, Microphone, and Contact Microphone
 * Data Acquisition: NI DAQ, Soundcard Real-time Processing, and Arduino
 * Virtual Reality: Oculus Rift, HTC Vive, Meta One, and Microsoft Hololens
-* Others: Iphone, Android, Optitrack Trio, Microsoft Kinect, Philips Hue & Bridge, Laser cutter, and 3D printer
+* Others: Iphone, Android, Optitrack Trio, Microsoft Kinect, Philips Hue & Bridge, Laser Cutter, and 3D Printer
 
 ##### Software (Expertise Level:0-10)
 * Programming: Matlab (9), Python(5), Processing (7), Java (2), and C# (5)
