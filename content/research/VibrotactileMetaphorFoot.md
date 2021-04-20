@@ -7,7 +7,7 @@ draft = false
 weight = 3
 +++
 
-Vibrotactile Metaphor of Physical Interaction Using Body-Penetrating Phantom Sensations: Stepping on a Virtual Object<br>(World Haptics 2021)
+Vibrotactile Metaphor of Physical Interaction Using Body-Penetrating Phantom Sensations: Stepping on a Virtual Object<br>(IEEE World Haptics 2021)
 <!--more-->
 
 ![Teaser][1]

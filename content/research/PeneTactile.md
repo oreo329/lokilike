@@ -7,7 +7,7 @@ draft = false
 weight = 1
 +++
 
-Body-Penetrating Tactile Phantom Sensations<br>(CHI 2020)
+Body-Penetrating Tactile Phantom Sensations<br>(ACM CHI 2020)
 <!--more-->
 
 ![Teasor][1]
