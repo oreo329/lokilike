@@ -11,9 +11,6 @@ Augmenting Physical Buttons with Vibrotactile Feedback
 for Programmable Feels<br>(ACM UIST 2020)
 <!--more-->
 
-![hw][2]
-![rendering][3]
-
 #### Abstract
 > Physical buttons provide clear haptic feedback when pressed and released, but their responses are unvarying. Physical buttons can be powered by force actuators to produce unlimited click sensations, but the cost is substantial. 
 
@@ -40,11 +37,19 @@ with emphasis on their feels.
 * Video: [Presentation](https://youtu.be/TZnR2OuxyAY)
 * Video: [Short Talk](https://youtu.be/c6BUkA2r2Mw)
 
-
 #### Figure
+![hw][2]
+Haptic Button Hardware
+
+![rendering][3]
+Acceleration and force profiles visualizing the effects of vibration
+augmentation on physical button click
+
 ![PerceptualSpace][4]
+2D perceptual space of the 47 augmented and physical buttons
 
 ![Adjective][5]
+Adjective pairs regressed into the 2D perceptual space (left), and semantic words regressed into the space (right)
 
 #### Conclusion
 > This paper has explored a design space of a haptic augmentation technique that enables modulation of the feel of a real physical button by providing vibrotactile feedback. For a demonstration of the concept, we designed a large number of augmented buttons for one base physical button by varying the frequency, amplitude, envelope, and duration of vibration. Two user experiments were conducted, and their results offer the 2D perceptual space and two primary perceptual dimensions that quantify the perceptual effects of vibrotactile button augmentation in a metric space. Design guidelines for
