@@ -6,7 +6,7 @@ title = ""
 <!-- #### [Curriculum Vitae](https://www.dropbox.com/s/wx3tjnujfp00bz0/191231%20Curriculum%20Vitae_Seungjae%20Oh.pdf?dl=0) -->
 #### Education
 <!-- * Haptics and Virtual Reality Laboratory (Computer Science and Engineering, ), Pohang University of Science and Techonlogy. **2016.8 - 2020.9** -->
-* Postdoctoral Researcher (Computer Science and Engineering, Advisor: Seungmoon Choi), Pohang University of Science and Techonlogy. **2020.2 -**
+* Postdoctoral Researcher (Computer Science and Engineering, Advisor: Seungmoon Choi & Christian Holz(Remotely Collaborate)), Pohang University of Science and Techonlogy. **2020.2 -**
 * Ph.D. (Creative IT Engineering, Advisor: Seungmoon Choi), Pohang University of Science and Techonlogy. **2012.3 - 2020.2**
 * Exchange Student (Infomatiks), Technische Universität Berlin. **2011.4 - 2011.9**
 * B.S. (Electrical Engineering, Summa Cum Laude), Pohang University of Science and Techonlogy. **2008.3 - 2012.2**
@@ -15,7 +15,7 @@ title = ""
 #### Publications
 
 ##### Peer-reviewed Conference Paper and Journal Article
-* Dajin Lee, **Seungjae Oh**, and Seungmoon Choi.<br>*Vibrotactile Metaphor of Physical Interaction Using Body-Penetrating Phantom Sensations: Stepping on a Virtual Object*<br>**IEEE World Haptics 2021**
+* Dajin Lee, **Seungjae Oh**, and Seungmoon Choi.<br>*[Vibrotactile Metaphor of Physical Interaction Using Body-Penetrating Phantom Sensations: Stepping on a Virtual Object](https://doi.org/10.1109/WHC49131.2021.9517144)*<br>**IEEE World Haptics 2021**
 * Chaeyong Park, Jinhyuk Yoon, **Seungjae Oh**, and Seungmoon Choi.<br> *[Augmenting Physical Buttons with Vibrotactile Feedback for Programmable Feels](https://doi.org/10.1145/3379337.3415837)* <br>**ACM UIST 2020**
 * Jinsoo Kim<sup>*</sup>, **Seungjae Oh**<sup>*</sup>, Chaeyong Park, and Seungmoon Choi.<br> *[Body-Penetrating Tactile Phantom Sensations](https://dx.doi.org/10.1145/3313831.3376619)* <br>**ACM CHI 2020 (<sup>*</sup>Equally Contributed)**
 * **Seungjae Oh** and Seungmoon Choi.<br>*[Effects of Contact Force and Vibration Frequency on Vibrotactile Sensitivity During Active Touch](https://doi.org/10.1109/TOH.2019.2929521)* <br>**IEEE Transactions on Haptics 12(4), 2019** 
@@ -44,7 +44,7 @@ title = ""
 
 ##### Domestic
 * Chaeyong Park, **Seungjae Oh**, and Seungmoon Choi.<br>*APPARATUS AND METHOD FOR RENDERING TACTILE TO PROVIDE MULTIPLE SENSE*<br>Application: 2019.12.6
-* **Seungjae Oh** and Seungmoon Choi. <br>*OBJECT IDENTIFICATION APPARATUS AND METHOD, SYSTEM COMPRISING THE SAME* <br>Application: 2019.11.29
+* **Seungjae Oh** and Seungmoon Choi. <br>*OBJECT IDENTIFICATION APPARATUS AND METHOD, SYSTEM COMPRISING THE SAME* <br>Application: 2019.11.29, Publication: 2021.6.24
 * Heejin Kim, **Seungjae Oh**, Sung H. Han, and Min K. Chung. <br>*3D INTERACTION METHOD FOR DISPLAY* <br>Application: 2016.9.30; Publication: 2018.4.4
 
 
@@ -69,7 +69,7 @@ title = ""
 #### Professional Service
 * Reviewer (**2019**): Computers & Education. ACM CHI LBW. ACM SIGGRAPH Asia Emerging Technologies.
 * Reviewer (**2020**): ACM UIST (**2 Special Recognitions of Outstanding Reviews**). ACM CHI LBW. IEEE Robotics and Automation Letters. Eurohaptics. 
-* Reviewer (**2021**): ACM CHI. ACM CHI LBW. IEEE World Haptics.
+* Reviewer (**2021**): ACM CHI. ACM CHI LBW. IEEE World Haptics. ACM UIST (**1 Special Recognitions of Outstanding Reviews**).
 
 
 #### Technical Skills
