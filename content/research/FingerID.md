@@ -3,11 +3,11 @@ image = "img/research/fid-tablet.png"
 showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
 title = "Finger Identification"
-draft = true
-weight = 2
+draft = false
+weight = 1
 +++
 
-Recognizing Contact Finger(s) on Rigid Surfaces by Augmenting Fingers with Vibration<!-- <br>(CHI 2020) -->
+Identifying Contact Fingers on Touch Sensitive Surfaces by Ring-Based Vibratory Communication<!-- <br>(UIST 2021) -->
 <!--more-->
 
 ![Teasor][1]
@@ -15,28 +15,43 @@ Recognizing Contact Finger(s) on Rigid Surfaces by Augmenting Fingers with Vibra
 #### This work is not submitted or published yet. Therefore, this page contains only the preliminary results of this research.
 
 #### Abstract
-> We explore the possibility of an input sensing method that recognizes contact fingers on rigid surfaces in this research. The limited input vocabulary is one of the key obstacles that hinder the usage of tangible interfaces. To increase the input bandwidth of tangible interaction, we suggest a sensing technique that recognizes contact finger(s) by using a wireless microphone and vibrotactile rings. We envision interaction that touch input can be anywhere as wanted.  
-<!-- {{< youtube id="zgzgOyxWXD8" autoplay="true">}} -->
+> As computing paradigms shift toward mobile and ubiquitous interaction, there is an increasing demand for wearable interfaces supporting multifaceted input in smart living environments. In this regard, we introduce a system that identifies contact fingers using vibration as a modality of communication.
+
+> We investigate the vibration characteristics of the communication channels involved and simulate the transmission of vibration sequences. In the simulation, we test and refine modulation and demodulation methods to design vibratory communication protocols that are robust to environmental noises and can detect multiple simultaneous contact fingers. As a result, we encode an on-off keying sequence with a unique carrier frequency to each finger and demodulate the sequences by applying cross-correlation.
+
+> The main contribution of our study include the proposal of a
+system and protocol for contact finger identification with specialpurpose vibratory communication. The use of vibration enables cost-effective communication between a user and a device.
+
+{{< youtube id="8mSVkcOlmzU" autoplay="true">}}
 
 #### Grants & Contracts
 * MSRA Collaborative Research (PI: Seungmoon Choi), Microsoft Research Lab Asia. **2019** <br>*Vibration-Mediated Recognition of Hand Contact State for Tangible/Surface Interaction*
 
 #### Publication
-* **Seungjae Oh**, Jinhyuk Yoon, Chaeyong Park, and Seungmoon Choi.<br>Recognizing Contact Finger(s) on Rigid Surfaces by Augmenting Fingers with Vibration
+* **Seungjae Oh**, Chaeyong Park, Yo-Seb Jeon, and Seungmoon Choi.<br> Identifying Contact Fingers on Touch Sensitive Surfaces by Ring-Based Vibratory Communication
 
 #### Figure
-![SignalTime][2]
-A sample recording of vibro-acoustic signal (Time Domain)
+![System][2]
+Our ring-type transmitters and microphone recievers tested
 
-![SignalFreq][3]
-Sample recordings of vibro-acoustic signal with different contact conditions (Frequency Domain)
+![Simulation][3]
+Schematic description of vibratory signal transmission simulation
+
+![Scenario][4]
+![Application][5]
+Potential scenarios and applications
+
 
 #### Contribution
-* Seungjae Oh: Idea, Implementation (HW&SW), Experimental Design & Analysis, and Graphics
-* Jinhyuk Yoon & Chaeyong Park: Ring Modeling and Ideation
+* Seungjae Oh: Idea, Implementation, Simulation, Experiment, Application, and Graphics
+* Yo-Seb Jeon: Communication Protocol
+* Chaeyong Park: Experiment, Application, and Graphics
+* Jinhyuk Yoon: Ring Design
 * Seungmoon Choi: Director
 
-[1]: /img/research/fid-tablet.png
-[2]: /img/research/fid-recsampletime.png
-[3]: /img/research/fid-recsamplefreq.png
+[1]: /img/research/fid-teaser.png
+[2]: /img/research/fid-sys.png
+[3]: /img/research/fid-simul.png
+[4]: /img/research/fid-scenario.png
+[5]: /img/research/fid-app.png
 
