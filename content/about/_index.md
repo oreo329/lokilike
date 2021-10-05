@@ -43,9 +43,9 @@ title = ""
 #### Patents
 
 ##### Domestic
-* Chaeyong Park, **Seungjae Oh**, and Seungmoon Choi.<br>*APPARATUS AND METHOD FOR RENDERING TACTILE TO PROVIDE MULTIPLE SENSE*<br>Application: 2019.12.6
-* **Seungjae Oh** and Seungmoon Choi. <br>*OBJECT IDENTIFICATION APPARATUS AND METHOD, SYSTEM COMPRISING THE SAME* <br>Application: 2019.11.29, Publication: 2021.6.24
-* Heejin Kim, **Seungjae Oh**, Sung H. Han, and Min K. Chung. <br>*3D INTERACTION METHOD FOR DISPLAY* <br>Application: 2016.9.30; Publication: 2018.4.4
+* Chaeyong Park, **Seungjae Oh**, and Seungmoon Choi.<br>*APPARATUS AND METHOD FOR RENDERING TACTILE TO PROVIDE MULTIPLE SENSE*<br> Application: 2019.12.6
+* **Seungjae Oh** and Seungmoon Choi. <br>*OBJECT IDENTIFICATION APPARATUS AND METHOD, SYSTEM COMPRISING THE SAME* <br> Application: 2019.11.29, Publication: 2021.6.29
+* Heejin Kim, **Seungjae Oh**, Sung H. Han, and Min K. Chung. <br>*3D INTERACTION METHOD FOR DISPLAY* <br> Application: 2016.9.30; Publication: 2018.4.4
 
 
 #### Scholarships, Honors & Awards
@@ -69,7 +69,7 @@ title = ""
 #### Professional Service
 * Reviewer (**2019**): Computers & Education. ACM CHI LBW. ACM SIGGRAPH Asia Emerging Technologies.
 * Reviewer (**2020**): ACM UIST (**2 Special Recognitions of Outstanding Reviews**). ACM CHI LBW. IEEE Robotics and Automation Letters. Eurohaptics. 
-* Reviewer (**2021**): ACM CHI. ACM CHI LBW. IEEE World Haptics. ACM UIST (**1 Special Recognitions of Outstanding Reviews**).
+* Reviewer (**2021**): ACM UIST (**1 Special Recognitions of Outstanding Reviews**). ACM CHI. ACM CHI LBW. IEEE World Haptics.
 
 
 #### Technical Skills
@@ -105,4 +105,4 @@ title = ""
 
 ![This is me][1]
 
-[1]: /img/seungjae.jpg
+[1]: /img/seungjae_crop.jpg
