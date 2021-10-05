@@ -15,6 +15,7 @@ title = ""
 #### Publications
 
 ##### Peer-reviewed Conference Paper and Journal Article
+<!-- * **Seungjae Oh**, Chaeyong Park, Yo-Seb Jeon, and Seungmoon Choi.<br> *[Identifying Contact Fingers on Touch Sensitive Surfaces by Ring-Based Vibratory Communication](https://doi.org/10.1145/3472749.3474745)* <br>**ACM UIST 2021** -->
 * Dajin Lee, **Seungjae Oh**, and Seungmoon Choi.<br>*[Vibrotactile Metaphor of Physical Interaction Using Body-Penetrating Phantom Sensations: Stepping on a Virtual Object](https://doi.org/10.1109/WHC49131.2021.9517144)*<br>**IEEE World Haptics 2021**
 * Chaeyong Park, Jinhyuk Yoon, **Seungjae Oh**, and Seungmoon Choi.<br> *[Augmenting Physical Buttons with Vibrotactile Feedback for Programmable Feels](https://doi.org/10.1145/3379337.3415837)* <br>**ACM UIST 2020**
 * Jinsoo Kim<sup>*</sup>, **Seungjae Oh**<sup>*</sup>, Chaeyong Park, and Seungmoon Choi.<br> *[Body-Penetrating Tactile Phantom Sensations](https://dx.doi.org/10.1145/3313831.3376619)* <br>**ACM CHI 2020 (<sup>*</sup>Equally Contributed)**
