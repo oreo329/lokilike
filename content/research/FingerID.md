@@ -7,7 +7,7 @@ draft = false
 weight = 1
 +++
 
-Identifying Contact Fingers on Touch Sensitive Surfaces by Ring-Based Vibratory Communication<!-- <br>(UIST 2021) -->
+Identifying Contact Fingers on Touch Sensitive Surfaces by Ring-Based Vibratory Communication<br>(ACM UIST 2021)
 <!--more-->
 
 ![Teasor][1]
