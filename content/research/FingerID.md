@@ -1,5 +1,5 @@
 +++
-image = "img/research/fid-tablet.png"
+image = "img/research/fid-overview.png"
 showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
 title = "Finger Identification"
@@ -39,7 +39,7 @@ Our ring-type transmitters and microphone recievers tested
 Schematic description of vibratory signal transmission simulation
 
 ![Scenario][4]
-![Application][5]
+<!-- ![Application][5] -->
 Potential scenarios and applications
 
 
