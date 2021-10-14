@@ -19,8 +19,7 @@ Identifying Contact Fingers on Touch Sensitive Surfaces by Ring-Based Vibratory 
 
 > We investigate the vibration characteristics of the communication channels involved and simulate the transmission of vibration sequences. In the simulation, we test and refine modulation and demodulation methods to design vibratory communication protocols that are robust to environmental noises and can detect multiple simultaneous contact fingers. As a result, we encode an on-off keying sequence with a unique carrier frequency to each finger and demodulate the sequences by applying cross-correlation.
 
-> The main contribution of our study include the proposal of a
-system and protocol for contact finger identification with specialpurpose vibratory communication. The use of vibration enables cost-effective communication between a user and a device.
+> The main contribution of our study include the proposal of a system and protocol for contact finger identification with special purpose vibratory communication. The use of vibration enables cost-effective communication between a user and a device.
 
 {{< youtube id="8mSVkcOlmzU" autoplay="true">}}
 
