@@ -27,12 +27,6 @@ Hybrid Augmented Reality for Participatory Learning: The Hidden Efficacy of Mult
 <!-- * Link: [Full Paper](https://doi.org/10.1109/TLT.2017.2750673) & [Extended Abstract](https://doi.org/10.1145/2839462.2856521) -->
 * Video: [Interaction](https://www.youtube.com/watch?v=5zN8R4iCjII)
 
-#### Figure
-![System][2]
-The infrastructure of the suggested learning interface and the visualization of the data flow. 
-
-
-
 #### Conclusion
 > The major contribution of this research is proof-of concept and implementation of a new simulation-based learning environment using hybrid AR technologies. The wearable visualization that enables embodied interaction with visual objects exemplifies how the affordances of wearable technologies could support meaningful learning of complex science phenomena in informal learning settings. In this paper, we also suggested some design and technical challenges in hybrid AR technologies that future research needs to further examine. AR technologies supporting gesture-based interaction with multiple users, for example, need to be designed to support a strong congruency between action and concepts being learned.
 
