@@ -6,7 +6,7 @@ title = ""
 <!-- #### [Curriculum Vitae](https://www.dropbox.com/s/wx3tjnujfp00bz0/191231%20Curriculum%20Vitae_Seungjae%20Oh.pdf?dl=0) -->
 #### Education
 <!-- * Haptics and Virtual Reality Laboratory (Computer Science and Engineering, ), Pohang University of Science and Techonlogy. **2016.8 - 2020.9** -->
-* Postdoctoral Researcher (Computer Science and Engineering, Advisor: Seungmoon Choi & Christian Holz (Remote)), Pohang University of Science and Techonlogy. **2020.2 -**
+* Postdoctoral Researcher (Computer Science and Engineering, Advisor: Seungmoon Choi), Pohang University of Science and Techonlogy. **2020.3 -**
 * Ph.D. (Creative IT Engineering, Advisor: Seungmoon Choi), Pohang University of Science and Techonlogy. **2012.3 - 2020.2**
 * Exchange Student (Infomatiks), Technische Universität Berlin. **2011.4 - 2011.9**
 * B.S. (Electrical Engineering, Summa Cum Laude), Pohang University of Science and Techonlogy. **2008.3 - 2012.2**
@@ -66,11 +66,11 @@ title = ""
 * Young Researcher Program (PI: Hyo-Jeong So), National Research Foundation of Korea (NRF). **2015** <br>*Research on the Development of Embodied Participatory Simulation and its Effects from Embodied Cognition Perspectives*
 
 
-
 #### Professional Service
 * Reviewer (**2019**): Computers & Education. ACM CHI LBW. ACM SIGGRAPH Asia Emerging Technologies.
-* Reviewer (**2020**): ACM UIST (**2 Special Recognitions of Outstanding Reviews**). ACM CHI LBW. IEEE Robotics and Automation Letters. Eurohaptics. 
-* Reviewer (**2021**): ACM UIST (**1 Special Recognitions of Outstanding Reviews**). ACM CHI. ACM CHI LBW. IEEE World Haptics.
+* Reviewer (**2020**): ACM UIST (**2 Special Recognitions of Outstanding Reviews**). ACM CHI LBW. IEEE RA-L(IROS). Eurohaptics. 
+* Reviewer (**2021**): ACM UIST (**1 Special Recognitions of Outstanding Reviews**). ACM CHI. ACM CHI LBW. ACM IMWUT. IEEE World Haptics. IEEE RA-L.  
+* Reviewer (**2022**): ACM IMWUT. IEEE RA-L(IROS). Eurohaptics.
 
 
 #### Technical Skills
