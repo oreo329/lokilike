@@ -2,19 +2,22 @@
 date = "2016-11-05T21:05:33+05:30" 
 title = "" 
 +++
-<!--#### I'm looking for postdoc opportunities, and [this link](https://www.dropbox.com/s/wx3tjnujfp00bz0/191231%20Curriculum%20Vitae_Seungjae%20Oh.pdf?dl=0) will redirect you to Curriculum Vitae! -->
 <!-- #### [Curriculum Vitae](https://www.dropbox.com/s/wx3tjnujfp00bz0/191231%20Curriculum%20Vitae_Seungjae%20Oh.pdf?dl=0) -->
 #### Education
 <!-- * Haptics and Virtual Reality Laboratory (Computer Science and Engineering, ), Pohang University of Science and Techonlogy. **2016.8 - 2020.9** -->
-* Postdoctoral Researcher (Computer Science and Engineering, Advisor: Seungmoon Choi), Pohang University of Science and Techonlogy. **2020.3 -**
-* Ph.D. (Creative IT Engineering, Advisor: Seungmoon Choi), Pohang University of Science and Techonlogy. **2012.3 - 2020.2**
+* Assistant Professor (Software Convergence), Kyung Hee University. **2022.9 - Present**
+* Postdoctoral Researcher (Computer Science and Engineering, Advisor: Seungmoon Choi), Pohang University of Science and Techonology. **2020.3 - 2022.7**
+* Ph.D. (Creative IT Engineering, Advisor: Seungmoon Choi), Pohang University of Science and Techonology. **2012.3 - 2020.2**
 * Exchange Student (Infomatiks), Technische Universität Berlin. **2011.4 - 2011.9**
-* B.S. (Electrical Engineering, Summa Cum Laude), Pohang University of Science and Techonlogy. **2008.3 - 2012.2**
+* B.S. (Electrical Engineering, Summa Cum Laude), Pohang University of Science and Techonology. **2008.3 - 2012.2**
 
 
 #### Publications
 
 ##### Peer-reviewed Conference Paper and Journal Article
+* Hyoseung Lee, **Seungjae Oh**, and Seungmoon Choi.<br>*[Data-driven rendering of motion effects for walking sensations in different gaits](https://doi.org/10.1109/TOH.2022.3176964)* <br>**IEEE Transactions on Haptics (Early Access), 2022** 
+* Chaeyong Park, Jeongwoo Kim, dong-Geun Kim, **Seungjae Oh**, and Seungmoon Choi.<br> *[Vibration-Augmented Buttons: Information Transmission Capacity and Application to Interaction Design](https://dl.acm.org/doi/abs/10.1145/3491102.3501849)* <br>**ACM CHI 2022**
+* Jaejun Park, Jeongwoo Kim, Chaeyong Park, **Seungjae Oh**, Junseok Park, Seungmoon Choi.<br> *[A Preliminary Study on the Perceptual Independence Between Vibrotactile and Thermal Senses](https://link.springer.com/chapter/10.1007/978-3-031-06249-0_9)* <br>**Eurohaptics 2022**
 * **Seungjae Oh**, Chaeyong Park, Yo-Seb Jeon, and Seungmoon Choi.<br> *[Identifying Contact Fingers on Touch Sensitive Surfaces by Ring-Based Vibratory Communication](https://doi.org/10.1145/3472749.3474745)* <br>**ACM UIST 2021**
 * Dajin Lee, **Seungjae Oh**, and Seungmoon Choi.<br>*[Vibrotactile Metaphor of Physical Interaction Using Body-Penetrating Phantom Sensations: Stepping on a Virtual Object](https://doi.org/10.1109/WHC49131.2021.9517144)*<br>**IEEE World Haptics 2021**
 * Chaeyong Park, Jinhyuk Yoon, **Seungjae Oh**, and Seungmoon Choi.<br> *[Augmenting Physical Buttons with Vibrotactile Feedback for Programmable Feels](https://doi.org/10.1145/3379337.3415837)* <br>**ACM UIST 2020**
