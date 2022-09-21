@@ -14,7 +14,7 @@ googleAnalytics = "UA-139247202-1"
   description = "Describe your website"
   copyright = "&copy;2018 Seungjae Oh"
   sidebarAbout = [
-    "I am a Human-Computer Interaction researcher interested in Haptics, Sensing Technologies, and Learning Technologies",
+    "I am a Human-Computer Interaction researcher interested in Haptics and Sensing Technologies",
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
