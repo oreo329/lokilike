@@ -5,7 +5,7 @@ title = ""
 <!-- #### [Curriculum Vitae](https://www.dropbox.com/s/wx3tjnujfp00bz0/191231%20Curriculum%20Vitae_Seungjae%20Oh.pdf?dl=0) -->
 #### Education
 <!-- * Haptics and Virtual Reality Laboratory (Computer Science and Engineering, ), Pohang University of Science and Techonlogy. **2016.8 - 2020.9** -->
-* Assistant Professor (Department of Software Convergence), Kyung Hee University. **2022.9 - Present**
+<!--* Assistant Professor (Department of Software Convergence), Kyung Hee University. **2022.9 - Present**-->
 * Postdoctoral Researcher (Computer Science and Engineering, Advisor: Seungmoon Choi), Pohang University of Science and Technology. **2020.3 - 2022.7**
 * Ph.D. (Creative IT Engineering, Advisor: Seungmoon Choi), Pohang University of Science and Technology. **2012.3 - 2020.2**
 * Exchange Student (Infomatiks), Technische Universität Berlin. **2011.4 - 2011.9**
@@ -16,7 +16,7 @@ title = ""
 
 ##### Peer-reviewed Conference Paper and Journal Article
 * Hyoseung Lee, **Seungjae Oh**, and Seungmoon Choi.<br>*[Data-driven rendering of motion effects for walking sensations in different gaits](https://doi.org/10.1109/TOH.2022.3176964)* <br>**IEEE Transactions on Haptics (Early Access), 2022** 
-* Chaeyong Park, Jeongwoo Kim, dong-Geun Kim, **Seungjae Oh**, and Seungmoon Choi.<br> *[Vibration-Augmented Buttons: Information Transmission Capacity and Application to Interaction Design](https://dl.acm.org/doi/abs/10.1145/3491102.3501849)* <br>**ACM CHI 2022**
+* Chaeyong Park, Jeongwoo Kim, Dong-Geun Kim, **Seungjae Oh**, and Seungmoon Choi.<br> *[Vibration-Augmented Buttons: Information Transmission Capacity and Application to Interaction Design](https://dl.acm.org/doi/abs/10.1145/3491102.3501849)* <br>**ACM CHI 2022**
 * Jaejun Park, Jeongwoo Kim, Chaeyong Park, **Seungjae Oh**, Junseok Park, Seungmoon Choi.<br> *[A Preliminary Study on the Perceptual Independence Between Vibrotactile and Thermal Senses](https://link.springer.com/chapter/10.1007/978-3-031-06249-0_9)* <br>**Eurohaptics 2022**
 * **Seungjae Oh**, Chaeyong Park, Yo-Seb Jeon, and Seungmoon Choi.<br> *[Identifying Contact Fingers on Touch Sensitive Surfaces by Ring-Based Vibratory Communication](https://doi.org/10.1145/3472749.3474745)* <br>**ACM UIST 2021**
 * Dajin Lee, **Seungjae Oh**, and Seungmoon Choi.<br>*[Vibrotactile Metaphor of Physical Interaction Using Body-Penetrating Phantom Sensations: Stepping on a Virtual Object](https://doi.org/10.1109/WHC49131.2021.9517144)*<br>**IEEE World Haptics 2021**
