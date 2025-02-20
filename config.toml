@@ -34,12 +34,13 @@ googleAnalytics = "UA-139247202-1"
   [[params.navlinks]]
   name = "About"
   url = "about/"
-  home = true
+  
 
   [[params.navlinks]]
   name = "Research"
   url = "research/"
-  
+  home = true
+
   [[params.navlinks]]
   name = "Design"
   url = "design/"
@@ -52,6 +53,7 @@ googleAnalytics = "UA-139247202-1"
   [params.social]
 #  facebook      = "https://www.facebook.com/seungjae.oh7"
   lab           = "https://khuhit.netlify.app/"
+  youtube2      = "https://www.youtube.com/@KHUInteractivetechnology"
   email         = "oreo329@khu.ac.kr"
   youtube       = "https://www.youtube.com/user/seungjae329" 
   linkedin      = "https://www.linkedin.com/in/seungjae329/"
