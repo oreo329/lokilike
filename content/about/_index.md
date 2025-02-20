@@ -14,7 +14,7 @@ title = " "
 * Exchange Student (Infomatiks), Technische Universität Berlin. **2011.4 - 2011.9**
 * B.S. (Electrical Engineering, Summa Cum Laude), Pohang University of Science and Technology. **2008.3 - 2012.2**
 
-#### Grants & Contracts
+#### Research Grants
 * **Early-Career Researcher Innovation Laboratory** (PI: Seungjae Oh), National Research Foundation of Korea (NRF). **2023** <br>*The Haptic Methodology and System using Haptic Metamaterial*
 * **Early-Career Researcher Research Program** (PI: Seungjae Oh), National Research Foundation of Korea (NRF). **2023** <br>*The Haptic Methodology and System using Haptic Metamaterial*
 <!-- * Science Exhibition Program (PI: Seungmoon Choi), National Research Foundation of Korea (NRF). **2020** <br>*Development and Validation of Real-Virtual Blended Exhibits for In-Depth Embodied Learning of Scientific Principles* -->
