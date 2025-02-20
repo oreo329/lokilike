@@ -33,18 +33,19 @@ We investigate the effect of hand-object representations on self-haptic interact
 
 #### Figure
 
-![Contact Area][3]
+<!-- ![Contact Area][3]
 
 ![Gestures][4]
 
 ![Visual Representations][5]
 
-![Scenario][2]
+![Scenario][2] -->
 
 #### Contribution
 * Jungeun Lee: Experiment, Implementation, Experimental Design, Analysis, Figure, and Writing.
 * Minha Jeon: Experiment, Figure, and Implementation.
 * Jinyoung Lee: Experiment, Figure, and Implementation.
+* Seungmoon Choi: Analysis, and Writing.
 * Seungjae Oh: Idea, Experimental Design, Analysis, and Writing.
 
 [1]: /img/research/skin-teaser.png
