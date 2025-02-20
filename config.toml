@@ -12,7 +12,7 @@ googleAnalytics = "UA-139247202-1"
   # Use custom.css for your custom styling
   style = "blue"
   description = "Describe your website"
-  copyright = "&copy;2018 Seungjae Oh"
+  copyright = "&copy;2025 Seungjae Oh"
   sidebarAbout = [
     "I am a Human-Computer Interaction researcher interested in Haptics and Sensing Technologies",
   ]
@@ -28,7 +28,7 @@ googleAnalytics = "UA-139247202-1"
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "seungjae.oh7@gmail.com"
+  email = "oreo329@khu.ac.kr"
 
   # Nav links in the side bar
   [[params.navlinks]]
@@ -50,6 +50,6 @@ googleAnalytics = "UA-139247202-1"
 
   [params.social]
   facebook      = "https://www.facebook.com/seungjae.oh7"
-  email         = "seungjae.oh7@gmail.com"
+  email         = "oreo329@khu.ac.kr"
   youtube       = "https://www.youtube.com/user/seungjae329" 
   linkedin      = "https://www.linkedin.com/in/seungjae329/"
