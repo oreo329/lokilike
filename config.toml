@@ -54,7 +54,7 @@ googleAnalytics = "UA-139247202-1"
       icon  = "flask"
       icon_pack = "fab"
   [params.social]
-  facebook      = "https://www.facebook.com/seungjae.oh7"
+#  facebook      = "https://www.facebook.com/seungjae.oh7"
   email         = "oreo329@khu.ac.kr"
   youtube       = "https://www.youtube.com/user/seungjae329" 
   linkedin      = "https://www.linkedin.com/in/seungjae329/"
