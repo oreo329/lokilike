@@ -30,9 +30,6 @@ HapMotion: Motion-to-Tactile Framework with Wearable Haptic Devices for Immersiv
 ![Overview][2]
 
 
-#### Contribution
-* Kyungeun Jung: Idea, Experiment, Implementation, Experimental Design, Analysis, Figure, and Writing.
-
 [1]: /img/research/hm-teasor.jpg
 [2]: /img/research/hm-mapping.jpg
 
