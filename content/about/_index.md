@@ -3,10 +3,13 @@ date = "2016-11-05T21:05:33+05:30"
 title = " " 
 +++
 <!-- #### [Curriculum Vitae](https://www.dropbox.com/s/wx3tjnujfp00bz0/191231%20Curriculum%20Vitae_Seungjae%20Oh.pdf?dl=0) -->
-#### Education
+#### Professional Experience
 <!-- * Haptics and Virtual Reality Laboratory (Computer Science and Engineering, ), Pohang University of Science and Techonlogy. **2016.8 - 2020.9** -->
 * Assistant Professor (Department of Software Convergence), Kyung Hee University. **2022.9 - Present**
-* Postdoctoral Researcher (Computer Science and Engineering, Advisor: Seungmoon Choi), Pohang University of Science and Technology. **2020.3 - 2022.7**
+* Research Professor (Department of Computer Science and Engineering), Pohang University of Science and Technology. **2022.3 - 2022.7**
+
+#### Education
+* Postdoctoral Researcher (Computer Science and Engineering, Advisor: Seungmoon Choi), Pohang University of Science and Technology. **2020.3 - 2022.2**
 * Ph.D. (Creative IT Engineering, Advisor: Seungmoon Choi), Pohang University of Science and Technology. **2012.3 - 2020.2**
 * Exchange Student (Infomatiks), Technische Universität Berlin. **2011.4 - 2011.9**
 * B.S. (Electrical Engineering, Summa Cum Laude), Pohang University of Science and Technology. **2008.3 - 2012.2**
@@ -15,7 +18,9 @@ title = " "
 #### Publications
 
 ##### Peer-reviewed Conference Paper and Journal Article
-* Hyoseung Lee, **Seungjae Oh**, and Seungmoon Choi.<br>*[Data-driven rendering of motion effects for walking sensations in different gaits](https://doi.org/10.1109/TOH.2022.3176964)* <br>**IEEE Transactions on Haptics (Early Access), 2022** 
+* Jungeun Lee, Minha Jeon, Jinyoung Lee, Seungmoon Choi, and **Seungjae Oh**<sup>*</sup>.<br>*[SkinHaptics: Exploring Skin Softness Perception and Virtual Body Embodiment Techniques to Enhance Self-Haptic Interactions]()*<br>** ACM CHI 2025**
+* Kyungeun Jung, Sangpil Kim, **Seungjae Oh**<sup>*</sup>, Sangho Yoon<sup>*</sup>.<br>*[HapMotion: motion-to-tactile framework with wearable haptic devices for immersive VR performance experience](https://link.springer.com/article/10.1007/s10055-023-00910-z)* <br> **Virtual Reality 28(1), 2024 (<sup>*</sup>Co-corresponding Author)**
+* Hyoseung Lee, **Seungjae Oh**, and Seungmoon Choi.<br>*[Data-driven rendering of motion effects for walking sensations in different gaits](https://doi.org/10.1109/TOH.2022.3176964)* <br>**IEEE Transactions on Haptics 15(3), 2022** 
 * Chaeyong Park, Jeongwoo Kim, Dong-Geun Kim, **Seungjae Oh**, and Seungmoon Choi.<br> *[Vibration-Augmented Buttons: Information Transmission Capacity and Application to Interaction Design](https://dl.acm.org/doi/abs/10.1145/3491102.3501849)* <br>**ACM CHI 2022**
 * Jaejun Park, Jeongwoo Kim, Chaeyong Park, **Seungjae Oh**, Junseok Park, Seungmoon Choi.<br> *[A Preliminary Study on the Perceptual Independence Between Vibrotactile and Thermal Senses](https://link.springer.com/chapter/10.1007/978-3-031-06249-0_9)* <br>**Eurohaptics 2022**
 * **Seungjae Oh**, Chaeyong Park, Yo-Seb Jeon, and Seungmoon Choi.<br> *[Identifying Contact Fingers on Touch Sensitive Surfaces by Ring-Based Vibratory Communication](https://doi.org/10.1145/3472749.3474745)* <br>**ACM UIST 2021**
@@ -33,6 +38,7 @@ title = " "
 
 
 ##### Peer-reviewed Poster and Demonstration
+* Kyungeun Jung, **Seungjae Oh**, Sangho Yoon.<br>*[Mo2hap: Rendering performer's motion flow to upper-body vibrotactile haptic feedback for vr performance](https://ieeexplore.ieee.org/document/10108631/)* <br> **IEEE VR Poster 2023**
 * **Seungjae Oh**, Chaeyong Park, Jinsoo Kim, Gyeore Yun,and Seungmoon Choi.<br>*[VibEye: A System for Identification of Hand-held Object by Visualizing Vibration Propagation Dynamics](https://youtu.be/UFgp7A1IK7o?t=53)*<br>**IEEE World Haptics Demo 2019**
 * Chaeyong Park, Jaeyoung Park, **Seungjae Oh**, and Seungmoon Choi.<br>*[Realistic Haptic Rendering of Collision Effects Using Multimodal Vibrotactile and Impact Feedback](https://youtu.be/UFgp7A1IK7o?t=61)*<br>**IEEE World Haptics Demo 2019** 
 * Gyeore Yun, **Seungjae Oh**, and Seungmoon Choi.<br>*[Seamless Phantom Sensation Moving across a Wide Range of Body](https://youtu.be/UFgp7A1IK7o?t=141)*<br>**IEEE World Haptics Demo 2019**
