@@ -4,7 +4,7 @@ showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
 title = "ARfract"
 draft = true
-weight = 2
+weight = 4
 +++
 
 Hybrid Augmented Reality for Participatory Learning: The Hidden Efficacy of Multi-User Game-Based Simulation<br>(IEEE Transactions on Learning Technologies)

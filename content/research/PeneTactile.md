@@ -4,7 +4,7 @@ showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
 title = "Penetrating Tactile Illusion"
 draft = false
-weight = 1
+weight = 2
 +++
 
 Body-Penetrating Tactile Phantom Sensations<br>(ACM CHI 2020)

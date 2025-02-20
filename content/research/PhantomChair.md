@@ -4,7 +4,7 @@ draft = false
 image = "img/research/phantom-teasor.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Vibrotactile Illusion"
-weight = 3
+weight = 4
 +++
 
 Seamless Phantom Sensation Moving across a Wide Range of Body<br>(IEEE World Haptics 2019)

@@ -4,7 +4,7 @@ draft = false
 image = "img/research/other-hidden-app.png"
 date = "2016-11-05T18:25:22+05:30"
 title = "Others"
-weight = 4
+weight = 5
 +++
 
 Gamification, Participatory Design, Augmented Reality, and Social Media

@@ -4,7 +4,7 @@ showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
 title = "Finger Identification"
 draft = false
-weight = 1
+weight = 2
 +++
 
 Identifying Contact Fingers on Touch Sensitive Surfaces by Ring-Based Vibratory Communication<br>(ACM UIST 2021)
