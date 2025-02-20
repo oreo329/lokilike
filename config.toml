@@ -48,16 +48,10 @@ googleAnalytics = "UA-139247202-1"
   name = "Contact"
   url = "contact/"
 
-# https://fontawesome.com/icons?d=gallery&s=solid&m=free
-#  [params.social]
-#      url   = "https://khuhit.netlify.app/"
-#      icon  = "flask"
-#      icon_pack = "fab"
+
   [params.social]
-    url   = "https://khuhit.netlify.app/"
-    icon  = "flask"
-    icon_pack = "fab"
 #  facebook      = "https://www.facebook.com/seungjae.oh7"
+  lab           = "https://khuhit.netlify.app/"
   email         = "oreo329@khu.ac.kr"
   youtube       = "https://www.youtube.com/user/seungjae329" 
   linkedin      = "https://www.linkedin.com/in/seungjae329/"
