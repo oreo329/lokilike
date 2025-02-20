@@ -4,7 +4,7 @@ showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
 title = "HapMotion"
 draft = false
-weight = 1
+weight = 2
 +++
 
 HapMotion: Motion-to-Tactile Framework with Wearable Haptic Devices for Immersive VR Performance Experience<br>(Springer Virtual Reality)
