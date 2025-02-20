@@ -28,7 +28,7 @@ title = " "
 * Reviewer (**2021**): ACM UIST (**1 Special Recognitions of Outstanding Reviews**). ACM CHI. ACM CHI LBW. ACM IMWUT. IEEE World Haptics. IEEE RA-L.  
 * Reviewer (**2022**): ACM IMWUT. IEEE RA-L.
 * Reviewer (**2023**): ACM CHI (**1 Special Recognitions of Outstanding Reviews**). IEEE RA-L. IEEE VR. IEEE World Haptics.
-* Reviewer (**2024**): ACM CHI (**2 Special Recognitions of Outstanding Reviews**). ACM UIST. IEEE TVCG..IEEE VR. IEEE RA-L. Eurohaptics.
+* Reviewer (**2024**): ACM CHI (**2 Special Recognitions of Outstanding Reviews**). ACM UIST. IEEE TVCG. IEEE VR. IEEE RA-L. Eurohaptics.
 * Reviewer (**2025**): ACM CHI (**2 Special Recognitions of Outstanding Reviews**). IEEE TVCG. IEEE World Haptics.
 * Oranizing Commitee (**2025**): IEEE World Haptics.
 
