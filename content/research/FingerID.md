@@ -12,8 +12,6 @@ Identifying Contact Fingers on Touch Sensitive Surfaces by Ring-Based Vibratory 
 
 ![Teasor][1]
 
-<!-- #### This work is not submitted or published yet. Therefore, this page contains only the preliminary results of this research. -->
-
 #### Abstract
 > As computing paradigms shift toward mobile and ubiquitous interaction, there is an increasing demand for wearable interfaces supporting multifaceted input in smart living environments. In this regard, we introduce a system that identifies contact fingers using vibration as a modality of communication.
 
@@ -28,7 +26,7 @@ Identifying Contact Fingers on Touch Sensitive Surfaces by Ring-Based Vibratory 
 * Postdoctoral Fellowship Program (PI: Seungjae Oh), National Research Foundation Korea. **2020** <br>*Mutual Identification between User-Device toward Seamless Cross-Device Computing*
 
 #### Publication
-* **Seungjae Oh**, Chaeyong Park, Yo-Seb Jeon, and Seungmoon Choi.<br> *[Identifying Contact Fingers on Touch Sensitive Surfaces by Ring-Based Vibratory Communication](https://doi.org/10.1145/3472749.3474745)* <br>**ACM UIST 2021**
+* **ACM UIST 2021** <br> **Seungjae Oh**, Chaeyong Park, Yo-Seb Jeon, and Seungmoon Choi.<br> *[Identifying Contact Fingers on Touch Sensitive Surfaces by Ring-Based Vibratory Communication](https://doi.org/10.1145/3472749.3474745)*
 
 #### Figure
 ![System][2]

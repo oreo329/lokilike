@@ -1,7 +1,7 @@
 +++
 image = "img/research/skin-main.png"
 showonlyimage = false
-date = "2025-11-05T19:44:32+05:30"
+date = "2016-11-05T19:44:32+05:30"
 title = "SkinHaptics"
 draft = false
 weight = 1
@@ -24,21 +24,22 @@ We investigate the effect of hand-object representations on self-haptic interact
 
 > Our findings indicate that the visual representations have a significant influence on the embodiment of a self-haptic hand, and the degree of the hand embodiment strongly affects the haptic experience.
 
-{{< youtube id="" autoplay="true">}}
+<!-- {{< youtube id="" autoplay="true">}} -->
 
 #### Publication
-* ** ACM CHI 2025 (To Appear)** <br> Jungeun Lee, Minha Jeon, Jinyoung Lee, Seungmoon Choi, and **Seungjae Oh**<sup>*</sup>.<br>*[SkinHaptics: Exploring Skin Softness Perception and Virtual Body Embodiment Techniques to Enhance Self-Haptic Interactions]()*
+* **ACM CHI 2025 (To Appear)** <br> Jungeun Lee, Minha Jeon, Jinyoung Lee, Seungmoon Choi, and **Seungjae Oh**.<br> *[SkinHaptics: Exploring Skin Softness Perception and Virtual Body Embodiment Techniques to Enhance Self-Haptic Interactions](https://dl.acm.org/doi/abs/10.1145/3491102.3501849)*
 <!-- * Link: [Full Paper](https://doi.org/10.1145/3290605.3300906) -->
-* Video: []()
+<!-- * Video: []() -->
 
 #### Figure
-![Scenario][2]
 
 ![Contact Area][3]
 
 ![Gestures][4]
 
 ![Visual Representations][5]
+
+![Scenario][2]
 
 #### Contribution
 * Jungeun Lee: Experiment, Implementation, Experimental Design, Analysis, Figure, and Writing.
