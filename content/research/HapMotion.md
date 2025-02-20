@@ -2,7 +2,7 @@
 image = "img/research/hm-main.png"
 showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
-title = "SkinHaptics"
+title = "HapMotion"
 draft = false
 weight = 1
 +++
