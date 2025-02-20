@@ -2,10 +2,9 @@
 date = "2016-11-05T21:05:33+05:30" 
 title = " " 
 +++
-<!-- #### [Curriculum Vitae](https://www.dropbox.com/s/wx3tjnujfp00bz0/191231%20Curriculum%20Vitae_Seungjae%20Oh.pdf?dl=0) -->
+
 #### Professional Experience
-<!-- * Haptics and Virtual Reality Laboratory (Computer Science and Engineering, ), Pohang University of Science and Techonlogy. **2016.8 - 2020.9** -->
-* Assistant Professor (Department of Software Convergence), Kyung Hee University. **2022.9 - Present**
+* Assistant Professor ([HIT Laboratory](https://khuhit.netlify.app/), Department of Software Convergence), Kyung Hee University. **2022.9 - Present**
 * Research Professor (Department of Computer Science and Engineering), Pohang University of Science and Technology. **2022.3 - 2022.7**
 
 #### Education
