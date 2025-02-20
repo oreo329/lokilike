@@ -18,7 +18,7 @@ title = " "
 #### Publications
 
 ##### Peer-reviewed Conference Paper and Journal Article
-* Jungeun Lee, Minha Jeon, Jinyoung Lee, Seungmoon Choi, and **Seungjae Oh**<sup>*</sup>.<br>*[SkinHaptics: Exploring Skin Softness Perception and Virtual Body Embodiment Techniques to Enhance Self-Haptic Interactions]()*<br>** ACM CHI 2025 (To Appear)**
+* Jungeun Lee, Minha Jeon, Jinyoung Lee, Seungmoon Choi, and **Seungjae Oh**<sup>*</sup>.<br>*[SkinHaptics: Exploring Skin Softness Perception and Virtual Body Embodiment Techniques to Enhance Self-Haptic Interactions](https://dl.acm.org/doi/abs/10.1145/3491102.3501849)* <br> ** ACM CHI 2025 (To Appear)**
 * Kyungeun Jung, Sangpil Kim, **Seungjae Oh**<sup>*</sup>, Sangho Yoon<sup>*</sup>.<br>*[HapMotion: motion-to-tactile framework with wearable haptic devices for immersive VR performance experience](https://link.springer.com/article/10.1007/s10055-023-00910-z)* <br> **Virtual Reality 28(1), 2024 (<sup>*</sup>Co-corresponding Author)**
 * Hyoseung Lee, **Seungjae Oh**, and Seungmoon Choi.<br>*[Data-driven rendering of motion effects for walking sensations in different gaits](https://doi.org/10.1109/TOH.2022.3176964)* <br>**IEEE Transactions on Haptics 15(3), 2022** 
 * Chaeyong Park, Jeongwoo Kim, Dong-Geun Kim, **Seungjae Oh**, and Seungmoon Choi.<br> *[Vibration-Augmented Buttons: Information Transmission Capacity and Application to Interaction Design](https://dl.acm.org/doi/abs/10.1145/3491102.3501849)* <br>**ACM CHI 2022**
