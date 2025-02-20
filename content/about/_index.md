@@ -18,7 +18,7 @@ title = " "
 #### Publications
 
 ##### Peer-reviewed Conference Paper and Journal Article
-* Jungeun Lee, Minha Jeon, Jinyoung Lee, Seungmoon Choi, and **Seungjae Oh**<sup>*</sup>.<br>*[SkinHaptics: Exploring Skin Softness Perception and Virtual Body Embodiment Techniques to Enhance Self-Haptic Interactions]()*<br>** ACM CHI 2025**
+* Jungeun Lee, Minha Jeon, Jinyoung Lee, Seungmoon Choi, and **Seungjae Oh**<sup>*</sup>.<br>*[SkinHaptics: Exploring Skin Softness Perception and Virtual Body Embodiment Techniques to Enhance Self-Haptic Interactions]()*<br>** ACM CHI 2025 (To Appear)**
 * Kyungeun Jung, Sangpil Kim, **Seungjae Oh**<sup>*</sup>, Sangho Yoon<sup>*</sup>.<br>*[HapMotion: motion-to-tactile framework with wearable haptic devices for immersive VR performance experience](https://link.springer.com/article/10.1007/s10055-023-00910-z)* <br> **Virtual Reality 28(1), 2024 (<sup>*</sup>Co-corresponding Author)**
 * Hyoseung Lee, **Seungjae Oh**, and Seungmoon Choi.<br>*[Data-driven rendering of motion effects for walking sensations in different gaits](https://doi.org/10.1109/TOH.2022.3176964)* <br>**IEEE Transactions on Haptics 15(3), 2022** 
 * Chaeyong Park, Jeongwoo Kim, Dong-Geun Kim, **Seungjae Oh**, and Seungmoon Choi.<br> *[Vibration-Augmented Buttons: Information Transmission Capacity and Application to Interaction Design](https://dl.acm.org/doi/abs/10.1145/3491102.3501849)* <br>**ACM CHI 2022**
@@ -50,6 +50,26 @@ title = " "
 * **Seungjae Oh**, Heejin Kim, and Min K. Chung.<br>*[Understanding of Spatial Gestural Motor Space: a Study on Cursorless Absolute Freehand Pointing on Large Displays](https://doi.org/10.1109/3DUI.2014.6798873)* <br>**IEEE 3DUI POSTER 2014**
 
 
+#### Grants & Contracts
+* **Early-Career Researcher Innovation Laboratory** (PI: Seungjae Oh), National Research Foundation of Korea (NRF). **2023** <br>*The Haptic Methodology and System using Haptic Metamaterial*
+* **Early-Career Researcher Research Program** (PI: Seungjae Oh), National Research Foundation of Korea (NRF). **2023** <br>*The Haptic Methodology and System using Haptic Metamaterial*
+* Science Exhibition Program (PI: Seungmoon Choi), National Research Foundation of Korea (NRF). **2020** <br>*Development and Validation of Real-Virtual Blended Exhibits for In-Depth Embodied Learning of Scientific Principles*
+* **Postdoctoral Fellowship** (PI: Seungjae Oh), National Research Foundation of Korea (NRF). **2020** <br>*Mutual Identification between User-Device toward Seamless Cross-Device Computing*
+* **MSRA Collaborative Research** (PI: Seungmoon Choi), Microsoft Research Lab Asia. **2019** <br>*Vibration-Mediated Recognition of Hand Contact State for Tangible/Surface Interaction*
+* Early-Career Researcher Research Program (PI: Hyo-Jeong So), National Research Foundation of Korea (NRF). **2015** <br>*Research on the Development of Embodied Participatory Simulation and its Effects from Embodied Cognition Perspectives*
+
+
+#### Professional Service
+* Reviewer (**2019**): Computers & Education. ACM CHI LBW. ACM SIGGRAPH Asia Emerging Technologies.
+* Reviewer (**2020**): ACM UIST (**2 Special Recognitions of Outstanding Reviews**). ACM CHI LBW. IEEE RA-L(IROS). Eurohaptics. 
+* Reviewer (**2021**): ACM UIST (**1 Special Recognitions of Outstanding Reviews**). ACM CHI. ACM CHI LBW. ACM IMWUT. IEEE World Haptics. IEEE RA-L.  
+* Reviewer (**2022**): ACM IMWUT. IEEE RA-L.
+* Reviewer (**2023**): ACM CHI (**1 Special Recognitions of Outstanding Reviews**). IEEE RA-L. IEEE VR. IEEE World Haptics.
+* Reviewer (**2024**): ACM CHI (**2 Special Recognitions of Outstanding Reviews**). ACM UIST. IEEE TVCG..IEEE VR. IEEE RA-L. Eurohaptics.
+* Reviewer (**2025**): ACM CHI (**2 Special Recognitions of Outstanding Reviews**). IEEE TVCG. IEEE World Haptics.
+* Oranizing Commitee (**2025**): IEEE World Haptics.
+
+
 #### Patents
 
 ##### Domestic
@@ -66,20 +86,6 @@ title = " "
 * Graduate Scholarship. Kwanjeong Educational Foundation. **2012.3 - 2014.2**
 * Undergraduate Student Scholarship Program. Korea Foundation for Advanced Studies. **2010.3 - 2012.2**
 * National Scholarship for Science and Engineering. Ministry of Education, South Korea. **2008.3 - 2012.2**
-
-
-#### Grants & Contracts
-* Science Exhibition Program (PI: Seungmoon Choi), National Research Foundation of Korea (NRF). **2020** <br>*Development and Validation of Real-Virtual Blended Exhibits for In-Depth Embodied Learning of Scientific Principles*
-* **Postdoctoral Fellowship Program** (PI: Seungjae Oh), National Research Foundation of Korea (NRF). **2020** <br>*Mutual Identification between User-Device toward Seamless Cross-Device Computing*
-* **MSRA Collaborative Research** (PI: Seungmoon Choi), Microsoft Research Lab Asia. **2019** <br>*Vibration-Mediated Recognition of Hand Contact State for Tangible/Surface Interaction*
-* Young Researcher Program (PI: Hyo-Jeong So), National Research Foundation of Korea (NRF). **2015** <br>*Research on the Development of Embodied Participatory Simulation and its Effects from Embodied Cognition Perspectives*
-
-
-#### Professional Service
-* Reviewer (**2019**): Computers & Education. ACM CHI LBW. ACM SIGGRAPH Asia Emerging Technologies.
-* Reviewer (**2020**): ACM UIST (**2 Special Recognitions of Outstanding Reviews**). ACM CHI LBW. IEEE RA-L(IROS). Eurohaptics. 
-* Reviewer (**2021**): ACM UIST (**1 Special Recognitions of Outstanding Reviews**). ACM CHI. ACM CHI LBW. ACM IMWUT. IEEE World Haptics. IEEE RA-L.  
-* Reviewer (**2022**): ACM IMWUT. IEEE RA-L(IROS). Eurohaptics.
 
 
 #### Technical Skills
